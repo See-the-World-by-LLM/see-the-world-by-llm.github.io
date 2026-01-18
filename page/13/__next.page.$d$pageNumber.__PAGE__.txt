@@ -1,0 +1,825 @@
+1:"$Sreact.fragment"
+2:I[2971,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+3:I[95752,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+25:I[13642,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+26:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+27:"$Sreact.suspense"
+4:Tb1e,
+```markdown
+# Neiva, Colombia: The Hidden Gem You Didn’t Know You Needed  
+
+## 1. Welcome to Neiva: Where the Heat is On (Literally)  
+Hola, fellow traveler! Welcome to Neiva, the capital of Huila, where the sun shines like it’s getting paid by the hour. This city is like that friend who’s always warm and welcoming but also secretly hilarious—you just need to stick around long enough to discover its quirks.  
+
+## 2. Fun Facts That’ll Make You the Life of the Party  
+- **Bambuco Central**: Neiva is the heart of Colombia’s *Bambuco* music and dance. If you don’t know what that is, imagine salsa’s more elegant cousin who loves poetry.  
+- **River of Fire**: The *Magdalena River* runs through Neiva, but don’t let the name fool you—it’s not actually on fire (though the sun might make it feel that way).  
+- **San Pedro Festival**: Every June, the city throws a massive party with parades, beauty pageants, and enough dancing to make your feet file a complaint.  
+
+## 3. Food You’ll Dream About Later  
+- **Lechona**: A crispy, pork-stuffed masterpiece that’s basically a party in your mouth.  
+- **Achiras**: Cheesy, crunchy biscuits that are dangerously addictive. Pro tip: Buy extra for the road.  
+- **Chicha**: A fermented corn drink that’s been around since pre-Columbian times. It’s an acquired taste, but hey, when in Neiva…  
+
+## 4. One-Day Itinerary: Neiva in a Nutshell  
+- **Morning**: Start at *Plaza de Santander* (the city’s beating heart) and grab an *arepa* from a street vendor.  
+- **Afternoon**: Cool off at *Tatacoa Desert* (yes, a desert near a tropical city—Colombia is full of surprises).  
+- **Evening**: Hit *Malecón Río Magdalena* for sunset views and a *lechona* dinner.  
+
+## 5. Expectation vs. Reality: The Neiva Edition  
+- **Expectation**: A quiet, sleepy town.  
+- **Reality**: A lively city where even the street dogs have more social plans than you.  
+- **Expectation**: Mild weather because, hey, it’s Colombia.  
+- **Reality**: The sun is basically a personal sauna. Hydrate or die-drate.  
+
+## 6. The Local’s Cheat Sheet  
+- **Transport**: Taxis are cheap, but buses are cheaper (and more adventurous).  
+- **Etiquette**: Greet everyone with a smile and a “buenos días/tardes.” Colombians are friendly—return the favor!  
+- **Hidden Gem**: *El Caguán Park* is perfect for a lazy afternoon picnic.  
+
+## 7. Final Thoughts: Just Go Already!  
+Neiva might not be on every traveler’s radar, but that’s exactly why you should go. It’s authentic, delicious, and packed with surprises. So pack your sunscreen, stretch those dancing legs, and get ready to fall in love with Colombia’s best-kept secret. ¡Vamos!  
+```  
+
+---  
+There you go! A fun, engaging, and informative travel blog post about Neiva, Colombia. Let me know if you'd like any tweaks!
+5:T17d1,
+## 🌞 欢迎来到内瓦：这里太阳比你的前任还热情！
+
+嘿，旅行者！如果你以为哥伦比亚只有波哥大、卡塔赫纳和咖啡三角区——恭喜你，你已经落后于时代了！欢迎来到**内瓦**（Neiva），一座被太阳晒得闪闪发亮、被当地人笑得前仰后合、被美食撑得走不动路的“热力四射”小城。别担心，你不会被晒化——我们有冰镇果汁和幽默感帮你降温。
+
+## 🤯 3个让你“啊？”出声的内瓦冷知识
+
+- **内瓦是“哥伦比亚的热力冠军”**：没错，这里常年气温在35°C以上，甚至夏天能冲上40°C。本地人说：“我们不是在过夏天，我们是在参加‘谁先融化’锦标赛。” 你带的防晒霜？恭喜，它将在你抵达后30分钟内自动蒸发。
+  
+- **这里有一条“会走路的街道”**：市中心的**Calle 10**被当地人称为“La Calle de los Pies”（脚之路），因为每天早上都有成群的老人穿着拖鞋、拎着塑料袋、踩着节奏慢悠悠散步——不是晨练，是社交。你要是走太快，他们会集体回头看你：“年轻人，你赶着去投胎吗？”
+
+- **内瓦是“哥伦比亚的鸵鸟之都”**：没错，你没看错！在城郊的**Parque Natural El Encanto**，你真能看到一群鸵鸟在草地上散步，它们是20年前一位 eccentric 富翁的“宠物动物园”遗物。如今它们成了网红，还开了个“鸵鸟自拍角”——建议你别和它们对视，它们眼神比你老板还犀利。
+
+## 🍽️ 必尝的5种内瓦美食（建议带扩容胃）
+
+1. **Bandeja Neivaña**：这不是普通的“哥伦比亚餐盘”，这是“碳水炸弹+蛋白质风暴”。一盘里有烤猪肉、炸香蕉、黑豆、玉米饼、鸡蛋、牛油果，还有……你猜对了，再来一份炸猪皮。吃完后你会感谢上帝，也会感谢你的医生。
+   
+2. **Sancocho de Gallina**：用老母鸡炖6小时的浓汤，加木薯、玉米和香草。喝一口，你会觉得灵魂被温柔地拥抱了——比前任的道歉短信真诚多了。
+
+3. **Arepas de Huevo**：玉米饼里塞一颗煮鸡蛋，再抹上黄油和奶酪。简单？是的。美味？绝对。本地人说：“没有Arepas de Huevo的早晨，就像没有WiFi的周末——无法忍受。”
+
+4. **Chicha de Maíz**：一种发酵玉米饮料，甜中带酸，略带酒精味（但不超过1%）。喝完你会觉得自己是15世纪的印第安酋长——只是现在你穿着人字拖。
+
+5. **Mazamorra de Maíz con Panela**：玉米糊+红糖块，热乎乎的，像奶奶的拥抱。吃完你会想：原来幸福，可以是黏糊糊的。
+
+## 🕒 24小时内瓦极限一日游攻略（别睡，别迟到！）
+
+**7:00 AM**：在**Plaza de Bolívar**喝一杯热腾腾的**chicha**，看老人跳“慢动作广场舞”。拍照时记得微笑——他们可能在评估你是不是“值得被邀请去吃午饭”。
+
+**9:00 AM**：冲向**Parque Natural El Encanto**，和鸵鸟合影。记住：别喂它们，它们会追着你跑，还会用脚踩你的鞋。
+
+**12:00 PM**：在**Restaurante El Tío**吃Bandeja Neivaña。建议点“半份”——如果你还想活着去下午的行程。
+
+**3:00 PM**：在**Calle 10**的冰淇淋店**Heladería La Deliciosa**吃“芒果+辣椒”口味冰淇淋（别怕！它像初恋——又甜又刺激）。
+
+**6:00 PM**：在**Mirador de la Candelaria**看日落。橙色的天空下，整座城市像一块融化的焦糖布丁。
+
+**8:00 PM**：在**Bar La Sombra**喝一杯**Aguardiente**（甘蔗烈酒），听当地人讲“内瓦的传说”——比如“为什么这里的蚊子比你前任还执着”。
+
+**11:00 PM**：回酒店。别洗澡——你太累了，而且你身上还沾着Bandeja Neivaña的香气，这叫“旅行纪念品”。
+
+## 😅 理想 vs. 现实：内瓦版
+
+| 理想 | 现实 |
+|------|------|
+| 我会优雅地漫步在阳光下，穿着亚麻衬衫，喝着冰咖啡，享受宁静。 | 我穿着短裤、汗湿T恤，像只逃命的鸡，边跑边喊：“谁给我一杯冰果汁？！” |
+| 我会和当地人深度交流，了解他们的文化与哲学。 | 我和卖Arepas的大妈聊了10分钟，她问我是不是“从美国来的”，我说“不是”，她说：“哦，那你一定是从‘热死人不偿命’国来的。” |
+| 我会拍出ins风大片，配文“灵魂在内瓦重生”。 | 我拍了50张照片，每张都像被太阳暴打后的自拍，配文：“救命，我快变成人干了，但美食救了我。” |
+
+## 🤫 本地人秘籍：别当游客，当“内瓦人”
+
+- **交通**：别指望打车软件。叫一辆“moto-taxi”（摩托车出租车），司机通常会边开车边唱歌，顺便问你“要不要吃点什么？”——答应他，他可能带你去他奶奶开的摊位，那才是真正的美食。
+  
+- **礼仪**：打招呼时说“¡Buenas!”（早上好/下午好/晚上好，一词通吃），比说“Hola”更地道。如果有人请你喝一杯chicha，别拒绝——那是友谊的契约。
+
+- **隐藏景点**：**Casa de la Cultura**的地下室有个小图书馆，藏有1920年代内瓦情诗手稿。没人知道，但你可以偷偷读一首，然后假装自己是位诗人——没人会揭穿你，因为大家都忙着躲太阳。
+
+## 🎉 结尾：别再犹豫了，来内瓦吧！
+
+内瓦不是“网红城市”，但它绝对是“真实城市”。这里没有滤镜，只有热浪；没有排队的咖啡店，但有排队的Arepas摊；没有K-pop舞蹈，但有鸵鸟跳“广场舞”。你可能会被晒黑，但你会被笑暖；你可能会吃撑，但你会被爱填满。
+
+所以，打包你的防晒霜、你的胃、你的幽默感，飞往内瓦吧。在这里，太阳不讲道理，但美食讲人情；生活很热，但人心很暖。
+
+**P.S. 如果你回来后说“内瓦没什么好玩的”——那一定是你没吃够Bandeja Neivaña。**  
+**P.P.S. 带个保温杯。不是为了装咖啡，是为了装你被晒化的灵魂。**
+0:{"buildId":"4ToxTf_niL-606grLRurT","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50 flex flex-col","children":[["$","$L2",null,{}],["$","main",null,{"className":"container mx-auto px-4 py-12 flex-grow","children":[["$","div",null,{"className":"grid gap-8 md:grid-cols-2 lg:grid-cols-2","children":[["$","$L3","neiva",{"post":{"date":"$D2025-12-30T00:00:00.000Z","createdAt":1767110463434,"city":{"en":"Neiva","zh":"内瓦","country":"Colombia","countryZh":"哥伦比亚"},"slug":"neiva","photoUrl":"/images/cities/neiva.jpg","model":"deepseek-ai/DeepSeek-V3","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"deepseek-ai/DeepSeek-V3","modelZh":"Qwen/Qwen3-Next-80B-A3B-Instruct","summaryEn":"Neiva, Colombia, is a hidden gem with vibrant culture, delicious food, and warm locals. This playful guide covers fun facts, must-try dishes, a one-day itinerary, and hilarious expectations vs. reality. ###","summaryZh":"内瓦是哥伦比亚最被低估的宝藏城市，热得像烤箱、笑得像段子手，美食多到让你怀疑人生。别被它的名字骗了——这里不是“内卷”，是“内瓦”！","contentEn":"$4","contentZh":"$5"}}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le"]}],"$Lf"]}],"$L10"]}],["$L11","$L12"],"$L13"]}],"loading":null,"isPartial":false}
+14:Tf3c,
+## Welcome to Gafsa: Where the Rocks Are Old and the Vibes Are Hot  
+Ah, Gafsa. Not the Tunisia you expected, but *definitely* the Tunisia you needed. Picture a city where the ground literally breathes (thanks to its geothermal hot springs), the desert meets oasis vibes, and the locals will debate the merits of dates vs. olives like it’s the World Cup. Let’s dive into this quirky gem where even the rocks have stories to tell.  
+
+## 3 Fun Facts That’ll Make You the Life of the Party  
+- **Phosphate Powerhouse**: Gafsa is Tunisia’s “Phosphate Capital.” Fun fact: The city’s economy revolves around a rock so stinky, it’s literally used in fertilizer. Classy!  
+- **Ancient Bling**: The nearby Roman ruins of *Tidbukt* (no, not the Mali one) are so chill, you can Instagram them *and* a camel selfie in the same shot.  
+- **Hot Springs, Cooler Stories**: The El Hamma thermal springs here are so hot, legend says they’re powered by a subterranean dragon. (Spoiler: It’s just Earth’s core, but the dragon tale’s more fun.)  
+
+## Local Food: Eat Like You’re in an Oasis (Because You Are)  
+- **Brik en Croûte**: This fried pastry, stuffed with egg, tuna, or potatoes, is Tunisia’s answer to “let’s deep-fry lunch and call it a win.”  
+- **Mloukhia**: A gooey green soup made from the jute plant, served with lamb or rabbit. It’s like liquid spinach hugging your soul.  
+- **Dates, Duh**: Gafsa’s oasis grows dates so sweet, they’ll make your dentist cry. Grab a bag from the Thursday market and thank us later.  
+
+## 24 Hours in Gafsa: From Sunrise to Steamy Nights  
+- **8 AM**: Fuel up with *msmen* (layered pancakes) and mint tea at Café Dar El Jeld.  
+- **10 AM**: Explore the **Citadel of Gafsa**—climb the towers for views of the desert-meets-oasis drama.  
+- **1 PM**: Lunch at a local *dhab** (eatery) for brik and mloukhia.  
+- **3 PM**: Soak in the **El Hamma du Jend natural pools**. Warning: The mud baths might make you smell like a geothermal spa—embrace it.  
+- **6 PM**: Wander the **Thursday Market** (even if it’s Monday; vendors will still judge your haggling skills).  
+- **8 PM**: Dinner at **Restaurant El Waha**—try the lamb tagine with prunes.  
+- **10 PM**: Stargaze in the oasis. The desert sky here is like Netflix, but free and with more shooting stars.  
+
+## Expectation vs. Reality: The Gafsa Plot Twist  
+**Expectation**: “A phosphate town? Sounds… mineral-ly dull.”  
+**Reality**: A desert oasis where camels outnumber tourists and the hot springs smell like sulfur but feel like heaven.  
+**Expectation**: “Museums about rocks? Pass.”  
+**Reality**: The **Regional Museum of Natural Resources** has a T-Rex fossil named *Steve*. Steve.  
+**Expectation**: “How much date syrup do they *need*?”  
+**Reality**: All of it. Especially the sticky-sweet stuff drizzled over your breakfast bread.  
+
+## The Local’s Cheat Sheet: Don’t Be a Tourist, Be a Rockstar  
+- **Transport**: Shared taxis (*louages*) are the way to go. If you’re not crammed next to a goat, are you even living?  
+- **Etiquette**: Greet locals with a “Salam” (peace) and never, ever refuse a cup of tea. It’s basically a human rights violation.  
+- **Hidden Gems**: Duck into **Boulangerie Chez Ahmed** for the best msemen in town. Ask for “the usual” and pretend you’re a local.  
+- **Pro Tip**: Visit in spring when the oasis is green, the temps are chill, and the dates aren’t yet trying to melt off their trees.  
+
+## Final Thoughts: Gafsa, You’ve Got My Heart (and My Souvenir Dates)  
+Gafsa isn’t the flashy cousin of Tunis or Djerba. It’s the weird, wild uncle who tells stories over a campfire and leaves you thinking, “Why didn’t I visit sooner?” So skip the beach resorts, embrace the desert dust, and let Gafsa surprise you. Just don’t forget the sunscreen—or the dragon repellent. 🌵✨
+15:T140e,
+# 加夫萨：突尼斯沙漠中的神奇绿洲
+
+## 俏皮的欢迎语
+欢迎来到加夫萨，亲爱的旅行者！准备好你的防晒霜和冒险精神，因为这座沙漠绿洲城市会让你忘记自己是在地球上，而不是在某个星球大战的拍摄现场！
+
+## 3个关于这座城市的有趣冷知识
+
+1. **历史老古董**：加夫萨可是个"老古董"，它是世界上最古老的持续有人居住的城市之一，历史可以追溯到公元前8世纪。当你的祖先还在摸索如何用火时，加夫萨人已经在享受温泉浴了！
+
+2. **温泉治愈力**：加夫萨的温泉可不是普通的"热水澡"。当地人坚信这些温泉水有神奇的治疗功效，据说能治愈从风湿病到心碎的各种疾病。虽然科学上只证实了前者，但谁不想在泡温泉时顺便治愈一下情伤呢？
+
+3. **磷酸盐宝库**：这座城市地下藏着突尼斯最重要的磷酸盐矿藏。所以，当你刷牙时，很可能正在使用加夫萨的"特产"！这可能是世界上唯一一个让你微笑时能想到它的城市。
+
+## 必尝的当地美食
+
+- **库斯库斯（Couscous）**：这可不是你在超市买的速食版本！加夫萨的库斯库斯是手工制作的，配上当地香料和炖肉，每一口都是一场味蕾狂欢。
+
+- **布里克（Brik）**：这是一种油炸馅饼，通常里面包着鸡蛋、金枪鱼和欧芹。小心咬第一口，热腾腾的蛋黄可能会喷涌而出——这被称为"布里克惊喜"，也是当地人判断你是否是新手的"测试"。
+
+- **塔吉锅（Tajine）**：不是摩洛哥那种尖顶锅，而是一种类似蛋挞的咸味派。用碎肉、蔬菜和香料制成，是街头小吃的王者。
+
+- **马克鲁德（Makroudh）**：这种枣子和杏仁馅的甜点会让你对"甜"有全新的认识。配上一杯薄荷茶，简直是沙漠中的天堂体验。
+
+## 一日游攻略 (如果只有24小时该去哪里)
+
+- **早上8:00**：从加夫萨老城开始你的冒险，穿梭在狭窄的巷道中，感受这座城市的脉搏。别忘了参观传统的露天市场（苏克），那里的香料香味会让你感觉自己置身在《一千零一夜》的故事中。
+
+- **中午12:00**：在当地餐厅享用一顿正宗的突尼斯午餐。推荐尝试库斯库斯或塔吉锅，配上新鲜的薄荷茶。
+
+- **下午2:00**：参观加夫萨博物馆，了解这座城市丰富的历史。然后前往罗马浴场遗址，想象古罗马人是如何在沙漠中享受奢华生活的。
+
+- **下午4:30**：驱车前往附近的谢比卡山脉或米德尔斯峡谷。这些地方的自然风光会让你屏息——沙漠、绿洲和山脉的完美结合，就像大自然在这里举办了一场视觉盛宴。
+
+- **晚上7:00**：返回城市，在一家屋顶餐厅享用晚餐，同时欣赏沙漠日落。如果你精力充沛，可以体验一下当地的夜生活或传统音乐表演。
+
+## 理想 vs. 现实的幽默对比
+
+**理想**：想象自己像电影明星一样，骑着骆驼优雅地穿越金色沙丘，头巾随风飘扬，背景是壮观的日落。你微笑着，感受着沙漠的浪漫气息。
+
+**现实**：你的骆驼刚刚决定在所有游客面前对你"表达不满"（吐口水），沙子已经钻进你的耳朵、鼻子和任何你想象不到的地方。你的头巾不是随风飘扬，而是试图闷死你。而那些"壮观"的蚊子正在享用你的血作为晚餐，你看起来更像是在跳一种奇怪的"驱蚊舞"，而不是享受浪漫的沙漠体验。
+
+## 本地人秘籍
+
+- **交通**：忘掉那些昂贵的旅游出租车吧！真正的本地人选择"louages"——这是一种共享出租车，通常有固定路线。只需在路边挥手，告诉司机你的目的地，然后塞进车里和其他七位乘客一起分享这段旅程。便宜、有趣，还能让你瞬间体验"本地人"的感觉！
+
+- **礼仪**：在加夫萨，右手是"好事手"，左手是"坏手"。用右手吃饭、递东西、打招呼。如果你是左撇子，现在是时候练习使用右手了！另外，参观宗教场所时，女性最好携带围巾，这不是强制要求，但会赢得当地人的尊重和微笑。
+
+- **隐藏景点**：大多数游客都会去主流景点，但真正的宝石是加夫萨郊外的"红蜥蜴"列车（Le Lézard Rouge）。这辆复古火车会带你穿越壮观的Seldja峡谷，风景绝对值得你早起。另一个隐藏宝藏是当地的"星期一市场"，只有周一开放，那里你能找到最地道的当地产品和最少的游客！
+
+## 鼓励读者前往的结尾
+
+所以，亲爱的冒险家们，还在等什么呢？加夫萨不仅仅是一个旅游目的地，它是一次穿越时空的旅程，一场味蕾的盛宴，更是一次心灵的洗礼。在这里，你会发现自己，迷失在沙漠中，然后又在绿洲中找到方向。带上你的好奇心（和防晒霜），加夫萨正在等待着向你展示它的魔法！记住，世界上最美的故事往往发生在舒适区之外，而加夫萨绝对是一个会让你的旅行故事变得精彩绝伦的地方！
+6:["$","$L3","gafsa",{"post":{"date":"$D2025-12-30T00:00:00.000Z","createdAt":1767096107213,"city":{"en":"Gafsa","zh":"加夫萨","country":"Tunisia","countryZh":"突尼斯"},"slug":"gafsa","photoUrl":"/images/cities/gafsa.jpg","model":"Qwen/Qwen3-235B-A22B","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"Qwen/Qwen3-235B-A22B","modelZh":"zai-org/GLM-4.5","summaryEn":"Gafsa, Tunisia, blends ancient history, quirky phosphate lore, and oasis charm into one unforgettable adventure. From steaming hot springs to market chaos, this underdog city proves you don’t need pyramids to steal the show.","summaryZh":"加夫萨是突尼斯西南部的一颗隐藏宝石，以其壮观的沙漠风光和丰富的历史遗产而闻名。这座绿洲城市将为游客带来一场穿越时间与文化的独特体验。","contentEn":"$14","contentZh":"$15"}}]
+16:Tf93,
+## A Playful Welcome
+**"Ibadan, where the hustle is real, and the smiles are contagious!"**
+
+Hey, fellow travel enthusiasts! Are you ready to dive into the heart of West Africa? Look no further than Ibadan, Nigeria – a city that will leave you enchanted, exhausted, and eagerly planning your return. As the largest city in Nigeria by land area, Ibadan is a treasure trove of history, culture, and delicious food (because, priorities!). So, grab your sense of adventure, your best "I'm-not-lost-I'm-exploring" face, and let's dive into the ultimate Ibadan experience!
+
+## 3 Fun Facts About the City
+* **Ibadan is home to the first stadium in Nigeria**, the Liberty Stadium, which was built in 1962. Yes, football (or soccer, for our American friends) is a big deal here!
+* **The city is famous for its "Agodi Gardens"**, a beautiful recreational park that's perfect for a relaxing afternoon or a romantic evening stroll. Don't worry, we won't tell anyone you're a hopeless romantic.
+* **Ibadan is a city of firsts** – it was the first capital of Nigeria during the colonial era. History buffs, rejoice!
+
+## Local Food You Must Try
+* **Pounded Yam with Soup**: Imagine a hearty, comforting meal that'll make you question your life choices before trying it. Trust us, it's love at first bite!
+* **Moi Moi**: Steamed bean pudding that's the perfect snack to keep you going throughout the day. Your taste buds will thank you.
+* **Amala with Vegetable Soup**: A traditional delicacy that's sure to become your new favorite comfort food. Don't worry, we won't judge you for going back for seconds (or thirds)!
+
+## A One-Day Itinerary
+**6:00 AM - Sunrise at the Old Garage**
+Start your day with a stunning view of the city from the Old Garage, a historic landmark that's a great spot for people-watching.
+
+**8:00 AM - Breakfast at a Local Café**
+Fuel up with some **Puff-Puff** (fried dough balls) and a hot cup of tea. Your taste buds will do the happy dance!
+
+**10:00 AM - Explore the National Museum of Unity**
+Delve into Nigeria's rich history and culture. Don't forget your camera – the exhibits are Instagram-worthy!
+
+**1:00 PM - Lunch at a Local Restaurant**
+Try the famous **Ibadan-style Amala**. Your taste buds will thank you, and your belly will be happy.
+
+**3:00 PM - Visit the University of Ibadan**
+Take a stroll through the beautiful campus, and don't miss the iconic **Senate House**. It's a great spot for some #wanderlust photos.
+
+**6:00 PM - Sunset at Agodi Gardens**
+End your day with a relaxing walk in the gardens, watching the sunset over the city. It's the perfect way to unwind.
+
+## Expectation vs. Reality
+* **Expectation**: You'll speak fluent Yoruba by the end of your trip.
+**Reality**: You'll learn to say "Eba" (meaning "hello" in Yoruba) and proudly use it everywhere you go.
+* **Expectation**: The traffic will be a breeze.
+**Reality**: You'll learn to appreciate the art of patience and the beauty of road-side snacks.
+* **Expectation**: You'll try all the local foods without any... unpleasant surprises.
+**Reality**: You'll discover that your stomach is stronger than you thought, and you'll earn bragging rights among your friends.
+
+## The Local’s Cheat Sheet
+* **Transport**: Learn to haggle with taxi drivers – it's all part of the experience! Consider using ride-hailing apps for a more straightforward ride.
+* **Etiquette**: Respect for elders is paramount. A simple "Good morning/afternoon" can go a long way in making friends.
+* **Hidden Gem**: Visit the **Ibadan City Mall** for a dose of modern shopping and entertainment, but don't miss the local markets for an authentic experience.
+
+## An Encouraging Conclusion
+Ibadan, with its unique blend of tradition and modernity, is a city that will capture your heart and leave you wanting more. So, pack your bags, grab your sense of humor, and get ready for the adventure of a lifetime. Trust us, you won't regret it!
+
+**"Ibadan, where every day is a new story waiting to be told."** 🌴✨
+17:Ted3,
+## 1. 俏皮欢迎语
+欢迎光临伊巴丹！这里的路边摊比你的微信群消息还热闹，出租车比你的前任还会“漂移”，而我们要做的只有三件事：吃棕榈油、逛旧城区、顺便当个临时约鲁巴人。系好胃和笑点，出发！
+
+## 2. 关于伊巴丹的有趣冷知识
+- **“书山”之城**：伊巴丹拥有撒哈拉以南非洲第一座大学——伊巴丹大学（1948年建），比很多国家的独立日还早，学霸气息从街头飘到玉米摊。
+- **七山护体**：传说城市建在七座小山上，所以导航常提示“上坡下坡中”，司机顺势把车内音乐切到福音，免费附赠“过山车+唱诗班”混合体验。
+- **棕红色电话亭**：英国殖民时期留下的红色电话亭被当地人刷成棕红色，为了“防土隐身”。如今它们成了最迷你博物馆——里面没电话，只有卖充电线的大叔。
+
+## 3. 必尝的当地美食
+1. **Amala + Gbegiri + Ewedu**：深棕色“宇宙黑洞”面团，蘸上豆汤与秋葵糊，再配一块辣到灵魂出窍的山羊（**Asun**），吃完你会用约鲁巴语喊“还！要！”
+2. **Ofada Rice**：本地糙米配“棕榈油+辣椒+臭豆腐”三位一体酱料，味道冲，但一口就让你放弃减肥。
+3. **Suya（夜间限定）**：炭火烤牛肉撒上花生辣椒面，摊位灯光像小型蹦迪现场，记得让老板给你“隐藏部位”——胸口油，脆得像炸鸡皮。
+
+## 4. 一日游攻略（24小时极限版）
+- **07:00** 在Bodija Market吃刚出锅的**Akara**（豆饼）当早餐，看大妈用棕榈油给你“热油浴”。
+- **09:00** 打车到**University of Ibadan Zoological Garden**，和鳄鱼对视，确认它没你上班时脸臭。
+- **11:30** 登顶**Bower’s Tower**——全市最高点，107级台阶免费附赠“腿部燃烧”Buff。
+- **13:00** 杀进**Amala Sky**餐厅，点“Triple A”套餐：Amala, Asun, Ati gbegiri，吃完直接午睡在天台吊床。
+- **15:30** 逛**National Museum of Unity**看9世纪伊费青铜头，假装自己是考古学家。
+- **17:30** Cocoa House（非洲第一座摩天楼）楼下喝**palm wine**，体验“椰子味汽水+微醺”双重惊喜。
+- **19:00** 夜幕降临，冲进**Suya Spot**（Agbowo路口），让老板把肉切到“手机厚度”，配Star啤酒，结束完美一天。
+
+## 5. 理想 vs. 现实
+| 理想 | 现实 |
+|---|---|
+| 穿着白裙在Bower’s Tower拍ins风大片 | 爬到第30级台阶白裙已变棕红，照片滤镜叫“尘土3号” |
+| 优雅地用手吃Amala，像美食节目主持人 | 面团粘到手指第二关节，旁边小孩教你“舔指三连” |
+| 打Uber 10分钟到博物馆 | 司机说“塞车”，实际带你去加油站“先加点油，加完再谈人生” |
+
+## 6. 本地人秘籍
+- **交通**：看到黄色“Danfo”小巴有空位就跳上去，别问路线——乘客会集体给你指路；车费提前备好零钱，否则找零可能变成棒棒糖。
+- **礼仪**：进入传统院落先喊“Ẹ káàbọ̀”（欢迎语），主人会回你“Ẹ kụ́ ìrìnàjò”——瞬间好感+50，免费获得一瓶矿泉水。
+- **隐藏景点**：每周六早上去**Oje Market**的“旧邮票角落”，能淘到1970s尼日利亚摇滚黑胶，3美元一张，回家可当传家宝。
+- **防坑**：买Suya时如果老板问“要洋葱吗？”一定要！免费且解辣；不要就是“游客价”开关，下一勺辣椒可能收你小费。
+
+## 7. 结尾召唤
+机票已经向你眨眼，签证纸正在发出棕红色电话亭的呼唤。来伊巴丹吧，让Amala粘住你的胃，让学霸气场提升你的智商，让Suya的火焰烧掉你所有烦恼。记住：世界那么大，伊巴丹偏偏最会“油”你！
+7:["$","$L3","ibadan",{"post":{"date":"$D2025-12-30T00:00:00.000Z","createdAt":1767081682567,"city":{"en":"Ibadan","zh":"伊巴丹","country":"Nigeria","countryZh":"尼日利亚"},"slug":"ibadan","photoUrl":"/images/cities/ibadan.jpg","model":"nvidia/Llama-3_1-Nemotron-Ultra-253B-v1","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"nvidia/Llama-3_1-Nemotron-Ultra-253B-v1","modelZh":"moonshotai/Kimi-K2-Instruct","summaryEn":"Discover the vibrant city of Ibadan, Nigeria, through a humorous and informative travel blog post, covering fun facts, local cuisine, a one-day itinerary, and insider tips. Get ready to laugh, learn, and explore the cultural richness of this African gem.","summaryZh":"在非洲最大城市之一的阴影下，伊巴丹用“古早味”+“学霸气”+“辣到你跳舞”的棕榈油魔法把你拐跑。读完这篇，你很可能把机票从拉各斯改签到伊巴丹——别怪我没提醒你！","contentEn":"$16","contentZh":"$17"}}]
+18:T1107,
+## 🌴 A Playful Welcome to Guayaquil  
+Welcome to Guayaquil, where the Guayas River hugs the Pacific, stray iguanas rule the parks, and the phrase *“¡Oiga!”* (roughly translating to “Hey, you!”) is used more often than your Uber driver’s GPS. Ecuador’s largest city isn’t your typical postcard destination—it’s louder, livelier, and has more avocados per capita than a California brunch spot. Let’s dive in!  
+
+## 🌟 3 Fun Facts That’ll Impress Your Travel Buddies  
+- **Iguanas Gone Wild**: Guayaquil has so many iguanas that they’ve formed a union. Okay, not officially, but they *do* outnumber pigeons 3:1. Watch your step—they’re plotting world domination.  
+- **The World’s Longest Riverwalk**: The **Malecón Simón Bolívar** stretches 3.5 miles along the river. It’s perfect for sunset strolls… unless you’re late for dinner (see: avocados, above).  
+- **It’s a City of Reinvention**: Guayaquil’s name comes from the Quechua words *“guay*” (birth) and *“quil*” (happiness). Or maybe it’s just happy because it’s the gateway to the Galápagos? Jury’s out.  
+
+## 🍜 Local Food You Can’t Miss  
+- **Encebollado**: This tangy tuna stew with pickled onions and yuca is the hangover cure you didn’t know you needed. Find it at *El Crucerito*, where locals line up like it’s Black Friday.  
+- **Ceviche de camarón**: Fresh shrimp ceviche, served with popcorn (yes, *popcorn*). It’s weirdly genius. Try it at *La Cevichería* near the river.  
+- **Plátano Everything**: Fried plantains accompany 87% of dishes here. Pro tip: Order *plátano maduro* (sweet) if you don’t want to taste regret.  
+
+## 🕒 24 Hours in Guayaquil: The Itinerary  
+**8 AM**: Fuel up with *tinto* coffee and empanadas at *Café La Oveja Negra*. Watch the city wake up from the Malecón.  
+**10 AM**: Explore **Parque Histórico**, a 30-acre open-air museum with replicas of colonial houses and way too many peacocks.  
+**1 PM**: Lunch at *El Crucerito* (see above). Spill soup on yourself; it’s a rite of passage.  
+**3 PM**: Climb **Cerro Santa Ana** (the hill with the yellow stairs) for views of the city and a 10% chance of getting asked to adopt an iguana.  
+**6 PM**: Wander through **Las Peñas**, the colorful neighborhood with murals, street performers, and shops selling everything from Panama hats to *chifles* (plantain chips).  
+**8 PM**: Dinner at *Casa Plácido*, a bohemian spot with live music and a cocktail menu that screams “I’m on vacation.”  
+**10 PM**: Cap it off with a sunset cruise on the Guayas River. Bring bug spray; the mosquitoes are also plotting revenge.  
+
+## 😅 Expectation vs. Reality  
+**Expectation**: “I’ll casually sip coconut water while strolling the Malecón.”  
+**Reality**: You’re dodging iguanas, questioning why your coconut water costs $1.50, and wondering why the river smells like… optimism?  
+
+**Expectation**: “The bus system will be charming and easy to navigate.”  
+**Reality**: You’ve boarded a bus named *“El Titan”* that feels like a rollercoaster designed by a pirate. Uber is your new best friend.  
+
+**Expectation**: “I’ll fit in by speaking Spanish.”  
+**Reality**: You’ve accidentally called a sandwich a “shark” (*tiburón* vs. *sándwich*—Ecuadorian Spanish is a vibe). Locals laugh kindly.  
+
+## 🤫 The Local’s Cheat Sheet  
+- **Transport**: Use Uber or taxis—buses are an adventure for the brave. If you’re feeling spicy, try a *chiva* (open-air bus) for $0.25.  
+- **Etiquette**: Greet everyone with a cheek kiss, even your barista. Bargain at markets like your life depends on it.  
+- **Hidden Gems**: **Isla Santay** (a sleepy island with bike paths and mango trees) and **La Loma de la Cruz** (a tiny hilltop chapel with killer views).  
+- **Pro Tip**: Carry a reusable bag. You’ll need it for avocados. And probably more avocados.  
+
+## 🚀 Final Thoughts: Guayaquil Gets Under Your Skin  
+Guayaquil isn’t perfect—it’s humid, a bit chaotic, and determined to test your iguana-evading skills. But that’s the point. It’s a city that thrives on contradictions: gritty yet gracious, overwhelming yet unforgettable. So pack your sunscreen, embrace the chaos, and remember: if the locals can handle 90% humidity and a lizard uprising, so can you. ¡Hasta pronto, amigo! 🌊🦎
+19:T1c97,
+## 嘿，瓜亚基尔！香蕉共和国里的摇滚明星！
+
+欢迎来到瓜亚基尔 (Guayaquil)！厄瓜多尔最大、最热闹、最“不端着”的城市！别被“太平洋明珠”这种文绉绉的头衔唬住，这里更像是涂了鲜艳口红、踩着高跟鞋、在热带阳光下跳萨尔萨舞的活力女王。准备好迎接喧嚣的市场、咸咸的海风，还有足以让你的味蕾跳探戈的美食了吗？系好安全带（或者该说系好你的草帽？），咱们出发！
+
+## 冷知识：让你在酒吧吹牛（或者尬聊）的料
+
+*   **蜥蜴占领了教堂广场？** 没错！在市中心的**塞米纳里奥公园 (Parque Seminario)**，别名叫“蜥蜴公园”。几十只（可能上百只）大小各异的**鬣蜥**在这里过着悠哉的“公务员”生活，晒太阳、接受游客投喂（请遵守规定喂食！）、淡定地在你脚边爬过。它们是城市的非官方吉祥物，比市长还出名！
+*   **贫民窟变环保先锋？** 瓜亚基尔的**贝亚维斯塔社区 (Cerro Bellavista)**，曾是个问题区域。但当地人脑洞大开，用回收的**塑料瓶和旧轮胎**建造房屋、台阶甚至艺术品！把环保和社区建设玩出了花，堪称“变废为宝”的魔幻现实主义典范。
+*   **被“吃掉”的钟楼？** 在老城区**拉斯佩纳斯 (Las Peñas)** 的山脚下，你会发现一座看起来有点“矮”的**圣多明各教堂钟楼**。这不是设计失误！是因为地面沉降，它的一部分已经沉到地下了。时光真的在“吞噬”历史！
+
+## 必尝美食：准备好舔手指吧！
+
+*   **Ceviche (塞维切)：** 这是沿海城市的灵魂！但瓜亚基尔版本有自己脾气——**番茄酱基底的酸辣海鲜汤**！虾、鱼或贝类在柠檬汁、番茄酱、洋葱、香菜和辣椒的混合物中“沐浴”，通常配爆米花或绿香蕉片（**patacones**）。酸爽开胃，小心上瘾！别问为什么配爆米花，吃就对了！
+*   **Encebollado (恩塞博拉多)：** 厄瓜多尔的国民解酒汤，但瓜亚基尔做得最地道。主角是**金枪鱼**，炖在浓香的**洋葱汤 (encebollado 就是“加了洋葱的”意思)** 里，配上尤卡（木薯）、香菜和脆玉米粒 (**chifles**)。宿醉良药？不，是人间美味！
+*   **街头小吃之王：** **Empanadas de Viento (风之饺子) -** 酥脆炸饺子，里面是融化的奶酪，撒上糖粉，甜咸交织。**Bolón de Verde (绿大丸子) -** 用绿香蕉泥做的巨大炸丸子，塞满奶酪、猪肉或沙丁鱼，早餐扛把子！**Guatita -** 听起来可爱（意为“小肚皮”），其实是**炖牛肚**配花生酱浓汤，重口味爱好者的天堂！
+*   **终极甜品搭档：** 别忘了点一杯浓郁的热带**果汁**，或者来根厄瓜多尔产的**巧克力**配本地**香蕉**！香蕉王国不是白叫的。
+
+## 24小时极速求生（哦不，是游览）指南
+
+只有一天？别慌，瓜亚基尔精华浓缩版来了！
+
+1.  **上午 (拥抱自然与历史)：** 直奔**历史公园 (Parque Histórico Guayaquil)**！这个超棒的公园分成三部分：**野生动物区**（看吼猴、鳄鱼！）、**传统建筑区**（穿越回19世纪庄园）、**传统生活区**（重现老集市）。一站式体验沿海风情，效率奇高！
+2.  **中午 (登高望远+彩色暴击)：** 冲向瓜亚基尔标志——**拉斯佩纳斯街区 (Las Peñas)**！爬上那**444级**色彩爆炸的阶梯（数着数着就忘了），两边是糖果色老房子和艺术画廊。登顶**灯塔**，俯瞰瓜亚斯河与城市全景，拍照拍到手机内存告急！
+3.  **下午 (都市漫步与买买买)：** 沿着壮丽的**滨海大道 (Malecón 2000)** 散步。看河景、打卡**摩尔钟楼 (La Rotonda)** 纪念碑（玻利瓦尔和圣马丁历史性会晤）、在现代化的**圣安娜市场 (Mercado Artesanal)** 淘手工艺品。饿了？路边摊来份 **ceviche** 或 **empanada**！
+4.  **傍晚 (日落与蜥蜴社交)：** 回到市中心，在**塞米纳里奥公园 (蜥蜴公园)** 围观鬣蜥们的“下班”社交。然后，选一家**拉斯佩纳斯**山顶或**滨海大道**的餐厅，点份**海鲜大餐**或 **guatita**，配杯冰啤，欣赏**瓜亚斯河日落**！完美收官！
+
+## 理想 vs. 现实：笑中带泪的真相
+
+*   **理想：** 优雅地坐在高档餐厅，慢条斯理地品尝精致 **ceviche**，海风轻拂发丝。
+*   **现实：** 在热闹（且嘈杂）的市场摊位上，被 **ceviche** 的酸爽呛出眼泪，番茄汁差点溅到新买的“我很酷”T恤上，旁边还有只好奇的蜥蜴（可能是公园逃出来的？）盯着你的食物。但！好吃到让你根本停不下来！
+*   **理想：** 轻松漫步 **Malecón 2000**，悠闲地欣赏河景和艺术品。
+*   **现实：** 在热情似火（字面意思）的赤道阳光下暴走，感觉自己像铁板上的虾，疯狂寻找阴凉和冰饮。但！河景和活力氛围确实无敌。
+*   **理想：** 在 **Las Peñas** 拍出唯美、宁静、充满艺术感的个人大片。
+*   **现实：** 爬楼梯爬到气喘吁吁（444级不是开玩笑！），汗流浃背，还要努力避开其他游客的镜头，同时小心别踩到哪只打盹的街猫。但！那色彩和风景绝对值回票价！
+
+## 本地人秘籍：像“瓜约”一样混！
+
+*   **打车保平安：** 出租车认准正规公司（带车牌号和公司名）或用 **APP (Cabify 比 Uber 更常用)**。上车前**确认打表**或**谈好价钱**！避免路边随意拦车。
+*   **“瓜约”节奏：** 瓜亚基尔人（**Guayacos**）热情直爽，嗓门可能有点大（尤其在激动看球时），别被吓到，这是爱的表达！微笑和礼貌的 “Buenos días/tardes” 是通行证。
+*   **隐藏的河滨绿洲：** 想避开 **Malecón 2000** 的主干道人流？去它南端延伸的 **Puerto Santa Ana** 区域逛逛，更安静，有些不错的小咖啡馆和餐厅，码头停泊着游艇，氛围悠闲。
+*   **美食雷达指向“脏摊”：** 最地道的美味往往藏在看起来不起眼的市场（如 **Mercado Caraguay**）或街边小铺（**huecas**）。观察哪里本地人排队多，跟着排准没错！卫生嘛… 相信你的直觉和铁胃（或备点肠胃药）。
+*   **讨价有道：** 在**手工艺品市场**和**非正规小摊**，讨价还价 (**regatear**) 是常态也是乐趣。带着笑容，友好地砍个 20%-30%，通常能成交。明码标价的商店就别费劲了。
+
+## 结尾召唤：别犹豫，订票吧！
+
+所以，亲爱的冒险家（或美食家，或只是想晒黑一点的朋友），瓜亚基尔可能没有基多那么“教科书式完美”，但它有着**无法复制的生命力、直击灵魂的美食和让人忍俊不禁的真实**。它是厄瓜多尔的脉搏，是通往加拉帕戈斯的门户，更是一个让你放下矜持、拥抱热带混乱与欢乐的地方。别只把它当中转站！给它24小时（或者更久），让它用热情的海风、酸爽的 **ceviche** 和慵懒的蜥蜴征服你。相信我，**不来瓜亚基尔，你的厄瓜多尔之旅就像没放盐的 ceviche——少点灵魂！** ¡Vamos a Guayaquil! (咱们去瓜亚基尔吧！)
+```
+8:["$","$L3","guayaquil",{"post":{"date":"$D2025-12-30T00:00:00.000Z","createdAt":1767067437466,"city":{"en":"Guayaquil","zh":"瓜亚基尔","country":"Ecuador","countryZh":"厄瓜多尔"},"slug":"guayaquil","photoUrl":"/images/cities/guayaquil.jpg","model":"Qwen/Qwen3-235B-A22B","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"Qwen/Qwen3-235B-A22B","modelZh":"deepseek-ai/DeepSeek-R1-0528","summaryEn":"Guayaquil, Ecuador’s coastal gem, blends chaotic charm with hidden delights. From iguana-filled parks to mouthwatering seafood, this 24-hour guide will show you how to conquer the city like a local.","summaryZh":"这篇幽默风趣的博客带你速览厄瓜多尔活力之都瓜亚基尔。从冷知识到必吃美食、一日游攻略，再到本地人秘籍和理想与现实的反差笑料，助你高效玩转这座“太平洋明珠”。","contentEn":"$18","contentZh":"$19"}}]
+1a:T4d2,
+[The full blog post in Markdown]
+
+ Let's break down each section:
+
+ 1. Playful Welcome: Start with a catchy, fun opening that welcomes the reader to Ra'anana. Maybe play on the name or the city's reputation.
+
+ 2. Fun Facts: At least 3 fun facts. They should be interesting and maybe a bit quirky.
+
+ 3. Local Food: Mention some must-try local dishes or food spots. Be specific and maybe add a humorous note.
+
+ 4. One-Day Itinerary: A realistic day plan from morning to evening. Include a few key stops.
+
+ 5. Expectation vs. Reality: A humorous take on what people might expect versus what they actually experience.
+
+ 6. The Local’s Cheat Sheet: Practical tips on getting around, cultural etiquette, and hidden gems.
+
+ 7. Encouraging Conclusion: Wrap up by encouraging the reader to visit.
+
+ Now, let's write the content in Markdown with headers for each section.
+
+ Note: We are to use ## for section headers, and within sections, we can use lists and bold text as needed.
+
+ Let's go!
+</think>
+SUMMARY: This lively travel guide explores Ra'anana, Israel – a charming city blending suburban calm with unexpected quirks. Packed with humor, local tips, and a jam-packed itinerary, it proves this "boring" town is secretly delightful.
+1b:Tfef,
+## 1. 欢迎语：别眨眼，进“加”城！
+Shalom！欢迎来到拉阿纳纳——一座连GPS都会温柔提醒“前方左转进入枫叶区”的神奇小城。别被名字吓到，Ra'anana在希伯来语里意思是“新鲜”，所以你闻到的不是沙漠热浪，而是高科技创业味＋草坪刚修剪完的清香。准备好把“哇”说成“哇-纳纳”了吗？
+
+## 2. 冷知识：说出来你可能不信，但…
+- **冷到冰点的加拿大血统**：拉阿纳纳由一群加拿大拓荒者于1921年建立，所以这里的红绿灯礼貌到让你怀疑人生——司机停车比Uber评分还积极。  
+- **仙人掌也能当保安**：市中心有一片“无刺仙人掌公园”，其实是二战时英军留下的试验田，本想种天然铁丝网，结果现在成了自拍圣地，连仙人掌都觉得自己被过度包装。  
+- **人均创业公司数量≈人均鼻孔**：Ra'anana是全球“每平方公里初创企业”最多的城市之一，传说你在咖啡厅打喷嚏，隔壁桌就会递来一份商业计划书。
+
+## 3. 必尝美食：让味蕾跳“霍拉”舞
+- **Sabich三明治**：炸茄子＋溏心蛋＋琥珀色芝麻酱，一口下去，嘴里开了一场犹太婚礼。  
+- **Kanafeh**：亮橙色拉丝奶酪配玫瑰糖浆，卡路里像火箭，但味道把你直接发射到天堂。  
+- **Mint Lemonade on steroids**：当地版薄荷柠檬水里加了碎冰和七味辣椒，喝完你会用希伯来语打嘟噜——即使你不会。
+
+## 4. 一日游攻略：24小时极限打卡
+**08:00** 在Ahuza主街啃刚出炉的芝麻圈贝果，看上班族脚踏电动滑板飘过去。  
+**09:30** 拜访Palmach Museum（需预约）——用沉浸式影片体验1948年建国史，出来时你会把自己当成复国英雄。  
+**11:30** 跳进“Yarkon小溪”自行车道，租辆City Bike，一路骑到柑橘园，假装自己是加碘维生素广告。  
+**13:00** 回城吃Sabich，顺便让老板教你正确的“撕-蘸-啊”三连。  
+**14:30** 逛Park Ra’anana——湖里有鹅，岸上有瑜伽，草地有狗在练“汪式冥想”。  
+**16:00** 到高科技园区门口蹲点，看哪位程序员肯给你讲“如何把水果变成数据”。  
+**18:00** 日落时分去“无刺仙人掌公园”拍剪影，让仙人掌帮你比V。  
+**20:00** 在Hameyasdim街酒吧点一杯“Start-up Sour”，听着隔壁桌讨论A轮B轮，你只想问：能不能先给我续一轮薯条？
+
+## 5. 理想 vs. 现实
+| 理想 | 现实 |
+|---|---|
+| 早上在露天咖啡座打开Mac写小说，微风拂面。 | 半小时后Mac烫到可以煎蛋，你忙着找插座和Wi-Fi密码。 |
+| 优雅地骑单车穿行林荫道，身后BGM是爵士。 | 导航把你带进死胡同，被一群放学的小学生超车并收获希伯来语嘲笑。 |
+| 夜晚与高颜值当地人共舞Salsa。 | 他们聊的全是期权和服务器，你只能把舞步改成“假装听得懂”。 |
+
+## 6. 本地人秘籍：别当“典型游客”
+- **交通**：公交卡Rav-Kav可刷全国，记得上车刷卡下车再刷一次，否则系统会当你“消失”，下次乘车直接扣最高票价——比失恋还疼。  
+- **礼仪**：进别人家必脱鞋，否则主人会递给你一双拖鞋，顺便附赠“你把沙漠踩进来”的眼神。  
+- **隐藏景点**：周五早上6点去社区“农夫早市”，有位爷爷卖自家种的“芒果辣椒”，吃完你会写情诗给水果。  
+- **语言彩蛋**：想学地道希伯来语？在便利店对老板说“Toda Raba”（非常感谢），他会立刻给你多塞一包Bamba花生零食。
+
+## 7. 结尾：签证、行李、出发！
+拉阿纳纳没有埃菲尔铁塔，也没有死海漂浮，但它有能把人宠成“枫叶王子”的干净街道、能把人辣哭的玫瑰奶酪，以及随时递来融资名片的陌生人。别犹豫了，把年假交给这座小城，让仙人掌和红发以色列阳光一起给你比耶。下一站，拉阿纳纳——等你去把“哇-纳纳”升级成“哇-纳纳-love”！
+9:["$","$L3","ra-anana",{"post":{"date":"$D2025-12-30T00:00:00.000Z","createdAt":1767052991214,"city":{"en":"Ra'anana","zh":"拉阿纳纳","country":"Israel","countryZh":"以色列"},"slug":"ra-anana","photoUrl":"/images/cities/ra-anana.jpg","model":"deepseek-ai/DeepSeek-R1","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"deepseek-ai/DeepSeek-R1","modelZh":"moonshotai/Kimi-K2-Instruct","summaryEn":"[A 2-sentence summary of the post]","summaryZh":"拉阿纳纳是以色列最“加拿大”的城市，却藏在亚洲，用高科技和中东风味把你甜到掉牙。读完这篇，你会立刻想订机票去和仙人掌合影、再让鹰嘴豆泥征服味蕾。","contentEn":"$1a","contentZh":"$1b"}}]
+1c:Td13,
+```markdown
+## Welcome to San Isidro de El General: Where the Coffee’s Strong and the Hills Are Stronger  
+
+Ah, San Isidro de El General—the bustling little heart of Costa Rica’s southern zone. If you’re expecting a sleepy town, think again. This place is like a caffeinated squirrel: energetic, slightly chaotic, and full of surprises. Whether you’re here for the mountains, the food, or just to escape the tourist hordes, buckle up. Adventure (and probably a few wrong turns) awaits.  
+
+## 3 Fun Facts That’ll Make You Sound Like a Local  
+
+1. **It’s the Gateway to the Chirripó Hike** – San Isidro is the launching pad for Costa Rica’s tallest peak, Cerro Chirripó. Locals will nod approvingly if you mention it—just don’t admit you’re only here for the coffee.  
+2. **The Weather Has Mood Swings** – One minute it’s sunny, the next it’s pouring. Pack like you’re preparing for four seasons in one day.  
+3. **It’s a Cow Town** – Seriously, cattle farming is huge here. If you hear a moo, you’re not hallucinating.  
+
+## Local Food You Must Try (Or Risk Offending the Food Gods)  
+
+- **Chicharrones**: Not just any fried pork—this is crispy, salty perfection, best enjoyed with a cold Imperial beer.  
+- **Churchill**: A ridiculous (but delicious) ice cream sundae with syrup, condensed milk, and powdered milk. It’s like a sugar coma in a cup.  
+- **Olla de Carne**: A hearty beef stew that’ll make you question why you ever settled for canned soup.  
+
+## One-Day Itinerary: How to Fake a Deep Connection with San Isidro  
+
+**Morning**: Start with a strong coffee at **Café del Sur**. Then, hit the **Mercado Central** for a chaotic but charming glimpse of local life (and maybe a Churchill for breakfast—no judgment).  
+**Afternoon**: Drive to **Los Crestones**, a stunning rock formation in the nearby mountains. Bring a picnic or just stare at the views like a contemplative philosopher.  
+**Evening**: Dinner at **Soda La Amistad** for authentic Tico fare. End the night at **Bar La Cueva**, where the karaoke is questionable but the vibes are immaculate.  
+
+## Expectation vs. Reality: A Humorous Reality Check  
+
+- **Expectation**: A serene mountain town where time moves slowly.  
+- **Reality**: A lively, slightly dusty hub where motorcycles outnumber stoplights and everyone knows *someone* who knows *someone*.  
+- **Expectation**: Effortlessly blending in with the locals.  
+- **Reality**: Stumbling over Spanish phrases while a patient abuela gently corrects you.  
+
+## The Local’s Cheat Sheet: How to Not Stick Out Like a Lost Tourist  
+
+- **Transport**: Buses are cheap but unpredictable. Taxis are safer but negotiate the fare first. Better yet, rent a car if you’re brave enough to tackle Costa Rican roads.  
+- **Etiquette**: Say “buenas” to everyone. It’s like a social handshake. Also, don’t rush—Tico time is a real thing.  
+- **Hidden Gem**: **Café del Patio** is a cozy spot with killer coffee and even better gossip.  
+
+## Conclusion: Go Forth and Embrace the Chaos  
+
+San Isidro de El General might not be postcard-perfect, but that’s what makes it special. It’s real, it’s lively, and it’ll leave you with stories (and maybe a few blisters from hiking). So grab your sense of adventure, pack your patience, and dive in. Pura vida, amigos!  
+```
+1d:T1054,
+## ¡Pura Vida! 欢迎来到“咖啡香把GPS都熏晕”的小镇
+如果你以为哥斯达黎加只有火山和树懒，圣伊西德罗（当地人称Pérez Zeledón）会跳出来给你一记菠萝味的“惊喜左勾拳”。这座海拔700米的小城，白天让你穿短袖看云海，晚上让你裹毛衣啃烤玉米——别问，问就是“四季盲盒”。
+
+## 三个冷到让你打哆嗦的知识
+1. **菠萝有“身份证”**：本地Dole菠萝园的每个果子都带二维码，扫一下能查到“出生证明”——比你家猫还精致。
+2. **“鸡巴士”配色灵感来自上世纪美国校车，但司机坚信：没有音响超过90分贝就不算公共交通**。
+3. 每周四的**“Calle de la Amargura”夜市**，名字直译“苦涩街”，却专卖能把糖尿病直接送进ICU的蜜汁churros——哥斯达黎加式黑色幽默。
+
+## 把胃交给当地：必吃清单
+- **Casado Tico 2.0**：别被名字“已婚男人套餐”骗了，其实就是“饭多肉多老婆不让你在家吃系列”——炸鸡排、酸橘腌洋葱、黑豆饭无限续。
+- **Chimichurri菠萝夹心汉堡**：路边摊老板会神秘一笑，把整块焦糖菠萝塞进牛肉饼，再浇上自制“不知道什么但好吃”酱。
+- **Trits冰淇淋三明治**：两片奶油饼干夹冰淇淋，吃法是“先舔后挤”，否则巧克力涂层会在30℃下给你表演“瀑布熔岩”。
+
+## 24小时“极限Pura Vida”攻略
+**06:00** 登上**Cerro de la Muerte**（死亡山）看日出——名字吓人，但云海比前任的道歉还治愈。  
+**09:00** 下山直奔**Mercado Central**，用₡1,500（约2.5刀）买杯“chicha de piña”，喝完记得对摊主说“¡Qué tuanis!”（好赞），他会再给你续半杯。  
+**11:00** 参观**UNA大学蝴蝶馆**，门票₡1,000，能看见蓝色 morpho 蝴蝶在你头顶cos“阿凡达”。  
+**13:00** 跳上“鸡巴士”30分钟到**Platanillo瀑布**，自带泳衣，瀑布按摩比SPA老师傅还带劲。  
+**16:00** 回城逛**Municipal Park**，看ticos大叔打“futbolito”五人制足球，球技堪比内马尔，啤酒肚堪比怀孕八个月。  
+**19:00** 杀进“苦涩街”夜市，目标：炸香蕉＋肉桂糖霜，配一杯“guaro sour”，度数高到让你跟树懒比谁更慢。  
+**22:00** 如果还能直立行走，去**Bar El Tucán**听现场萨尔萨，记得带纸巾——不是擦泪，是擦汗。
+
+## 理想 vs. 现实：大型打脸现场
+| 理想 | 现实 |
+|---|---|
+| 清晨5:30被鸟鸣唤醒 | 被隔壁公鸡+货车+教堂钟声三重奏“叫醒服务” |
+| 在瀑布下拍出ins仙气大片 | 刚摆好pose，一阵风把水花拍成“落汤鸡滤镜” |
+| 夜市潇洒砍价，西语流利 | 开口只剩“¡Hola!”和“¿Cuánto?”然后乖乖付全款 |
+| 鸡巴士准点出发 | Tico Time：司机先喝完咖啡、聊完足球、再考虑要不要挂挡 |
+
+## 本地人秘籍：别让游客滤镜碎一地
+- **交通**：Google Map说1小时，请自动×1.5；如果下雨，直接×2，再准备一次“车内瀑布”体验（窗户密封随缘）。
+- **礼仪**：上巴士先对全车喊“¡Buenas!”——社恐瞬间升级为“全村希望”；下车再喊“¡Gracias!”不然司机会觉得你欠他一场足球赛。
+- **隐藏景点**：周三、周六凌晨4:30去**El General农贸市场**占坑，能吃到刚出炉的“ tortillas con cuajada”热奶酪玉米饼，配老板偷偷卖的“chan”饮料（玉米+肉桂+冰），喝完你会怀疑星巴克为什么不倒闭。
+- **省钱大招**：菠萝季（4–6月）到Dole工厂门口蹲“瑕疵果”摊位，外表丑到像被雷劈，但甜到让初恋汗颜，一袋₡1,000能吃到扶墙。
+
+## 打包好行李，把“拖延症”留在家里
+圣伊西德罗没有五星级度假村，只有五星级日落；没有网红打卡墙，只有大叔把折叠椅借给你看星空。来这里，把时钟调成“Tico Time”，让咖啡香、瀑布风和churros糖霜告诉你：慢下来，才是成年人的正经事。机票订了吗？没订现在就滑手机，树懒已经在山顶替你比心——¡Nos vemos!
+a:["$","$L3","san-isidro-de-el-general",{"post":{"date":"$D2025-12-29T00:00:00.000Z","createdAt":1767038481804,"city":{"en":"San Isidro de El General","zh":"圣伊西德罗-德埃尔赫内拉尔","country":"Costa Rica","countryZh":"哥斯达黎加"},"slug":"san-isidro-de-el-general","photoUrl":"/images/cities/san-isidro-de-el-general.jpg","model":"deepseek-ai/DeepSeek-V3","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"deepseek-ai/DeepSeek-V3","modelZh":"moonshotai/Kimi-K2-Instruct","summaryEn":"This playful travel guide to San Isidro de El General, Costa Rica, offers a mix of humor, local insights, and practical tips for making the most of your visit. From must-try foods to a jam-packed one-day itinerary, you’ll leave feeling like a seasoned traveler.","summaryZh":"这里是塔拉曼卡山脉脚下的“咖啡与菠萝宇宙中心”，24小时能从日出云海蹦到夜市炸香蕉。准备好被热情的ticos灌一杯chicha，再被他们的“Tico Time”温柔地迟到吧！","contentEn":"$1c","contentZh":"$1d"}}]
+1e:Td49,
+# **Tiquipaya, Bolivia: Where the Mountains Whisper and the Food Screams “Eat Me!”**  
+
+## **1. Welcome to Tiquipaya: The Town That’s Cooler Than Your Hometown**  
+Ah, Tiquipaya—the hidden gem of Bolivia that’s so charming, it’s basically the travel equivalent of finding money in your old jeans. Nestled in the Cochabamba Valley, this town is a delightful mix of laid-back vibes, stunning scenery, and enough local flavor to make your taste buds throw a party. So, grab your sunscreen (and maybe a poncho—Bolivian weather is *dramatic*), and let’s dive in!  
+
+## **2. Fun Facts That’ll Make You Sound Like a Genius at Parties**  
+- **The Name Game**: Tiquipaya means “place of the *tiqui* (a type of bird)” in Quechua. Sadly, the birds didn’t get royalties for the naming rights.  
+- **Eternal Spring**: Thanks to its mild climate, Tiquipaya is like that friend who’s always perfectly dressed—never too hot, never too cold.  
+- **The Great Wall of… Bolivia?**: The town is home to **Parque Machía**, a wildlife refuge where you can spot monkeys, not-quite-wild Instagram influencers, and maybe even a sloth moving at the speed of your Wi-Fi.  
+
+## **3. Local Food You Must Try (Or Risk Offending the Food Gods)**  
+- **Silpancho**: A Bolivian power move—thinly pounded beef, rice, potatoes, and a fried egg stacked like a culinary Jenga tower. Pro tip: Unhinge your jaw.  
+- **Chicha**: A fermented corn drink that’s either “delightfully tangy” or “what my socks taste like,” depending on who you ask.  
+- **Salteñas**: Bolivia’s answer to empanadas, but juicier. Eat them like a pro: upright, with a nibble-and-sip technique to avoid a filling explosion.  
+
+## **4. One-Day Itinerary: How to Fake a Week’s Vacation in 24 Hours**  
+- **Morning**: Start at **Parque Machía** (because monkeys are nature’s caffeine). Then, hit the **Mercado Campesino** for souvenirs and questionable haggling skills.  
+- **Afternoon**: Lunch at **La Cantonata** (order the silpancho, obviously). Stroll through **Plaza Principal** and pretend you’re in a telenovela.  
+- **Evening**: Sunset at **Cerro Tunari** for views that’ll make your phone storage cry. Dinner at **El Arriero**—try the *pique a lo macho* (a meaty, spicy masterpiece).  
+
+## **5. Expectation vs. Reality: The Cold, Hard Truth**  
+- **Expectation**: A serene, untouched paradise where you’ll meditate with llamas.  
+- **Reality**: A lively town where the roosters wake you up at 5 AM, and the buses honk like they’re in a competition. (Spoiler: They’re winning.)  
+
+## **6. The Local’s Cheat Sheet: How to Not Stick Out Like a Gringo**  
+- **Transport**: Microbuses are cheap but packed like sardines. Taxis are safer but negotiate the fare *before* you get in.  
+- **Etiquette**: Greet everyone with a “buenos días/tardes.” Bolivians are friendly, but they’ll side-eye you if you’re rude.  
+- **Hidden Gem**: **Casa Museo Solón**—a quirky art museum dedicated to Walter Solón, Bolivia’s answer to Picasso.  
+
+## **7. Conclusion: Go Forth and Conquer Tiquipaya!**  
+Tiquipaya might not be on every traveler’s radar, but that’s exactly why you should go. It’s authentic, delicious, and just weird enough to be unforgettable. So pack your sense of adventure (and maybe some antacids), and get ready to fall in love with Bolivia’s best-kept secret. **¡Vamos!**
+1f:T1293,
+# 蒂基帕亚：除了空气甜，蚊子也“亲”！
+嘿，冒险家们！如果你对玻利维亚的印象还停留在天空之镜和女巫市场，那么恭喜你，你即将解锁一个隐藏关卡——蒂基帕亚（Tiquipaya）。这里是科恰班巴的“后花园”，一个听起来像某种美味点心的名字，实际上是个能让你忘记烦恼（但可能忘不了蚊子包）的奇妙之地。
+
+## 一个俏皮的欢迎语
+欢迎来到蒂基帕亚，这里的空气甜到像偷吃了蜜蜂的蜜罐，而蚊子热情好客到让你想立刻捐出全身的O型血！别担心，这只是它们表示“我爱你”的方式。
+
+## 至少3个关于这座城市的有趣冷知识
+*   **“花园城市”不是白叫的**：蒂基帕亚的字面意思就是“花篮”或“花之地”。这里每年都会举办盛大的花卉节，如果你看到满街的人都在扛着巨大的、像建筑一样的花卉雕塑游行，别惊讶，这只是他们的日常“凡尔赛”。
+*   **“战斗水源”的传说**：它的全名其实叫“Tiquipaya First Water, for being first in the fight for water”。这霸气侧漏的名字是为了纪念科恰班巴水战争，所以在这里，请务必心怀感恩地喝每一口水。
+*   **总统的“秘密基地”**：玻利维亚总统埃沃·莫拉莱斯在蒂基帕亚有一处官邸，所以搞不好你在路边小摊啃玉米的时候，隔壁桌就是某个部长。（当然，他们可能更爱吃炸鸡。）
+
+## 必尝的当地美食
+忘记高级餐厅吧，街头才是美食的灵魂！
+*   **Silpancho**：这可不是人名，而是一道“核弹级”的硬菜。一大盘米饭打底，盖上煮熟的土豆和一块被捶打得薄如蝉翼的炸牛排，最后再盖上一个煎蛋。吃完它，你就能去参加大胃王比赛了。
+*   **Trancapecho**：如果说Silpancho是正规军，那Trancapecho就是它的“碳水炸弹”兄弟版。把所有的馅料——肉、蛋、沙拉——全部塞进一个大面包里，让你可以边走边吃，体验一把玻利维亚式豪迈的汉堡。
+*   **鲜榨果汁**：满街的果汁摊是你的救命恩人！尝试一下**Tumbo**（一种本地百香果）果汁，酸酸甜甜，瞬间唤醒被太阳晒蔫了的你。
+
+## 一日游攻略 (如果只有24小时该去哪里)
+**上午：** 别睡懒觉！去**主广场（Plaza Principal）** 感受一下小镇的苏醒。然后在市场里找个摊位，用一份Silpancho塞饱自己，为接下来的行程充电。
+**下午：** 跳上一辆共享出租车（Trufi），告诉司机你要去**Pairumani庄园（Hacienda Pairumani）**。这里是玻利维亚著名音乐家的故居，庄园本身和花园都非常漂亮，适合拍点“假装在欧洲”的照片。
+**傍晚：** 回到镇上，在日落时分找个露天咖啡馆坐下，点一杯咖啡或果汁，看着小镇的生活节奏慢慢变缓。这才是旅行的意义——浪费时光。
+**晚上：** 晚餐必须交给**烤鸡（Pollo a la Broaster）**！找一家人声鼎沸的烤鸡店，点四分之一只鸡，配上薯条和沙拉，完美结束暴走的一天。
+
+## 理想 vs. 现实的幽默的对比
+*   **理想**：我优雅地漫步在花香四溢的殖民风格街道上，与当地人进行深度的文化交流。
+*   **现实**：我一边疯狂地挥舞手臂跳着驱蚊之舞，一边在错综复杂找不到路牌的小巷里迷失自我，最后靠着一只友好的流浪狗才把我引回主路。文化交流？我和蚊子交流得比较深入。
+
+## 本地人秘籍 (关于交通、礼仪或隐藏景点的建议)
+*   **交通**：别试图研究公交线路了，你会疯的。**共享出租车（Trufis）** 是你的最佳选择。只要看清车窗上写的路线（比如“Tiquipaya - Cochabamba”），招手即停，快到目的地时喊一声“**¡Esquina por favor!**”（请在角落停！）即可。准备好零钱。
+*   **礼仪**：进入商店或跟人打招呼时，说一句“**Buenos días/tardes**”会让你瞬间从游客升级为“懂行的朋友”。
+*   **隐藏景点**：问一个当地人如何去“**La Angostura**”，这是一个附近的水库和休闲区，本地家庭周末爱去那里野餐、划船，你能看到最地道的玻利维亚家庭生活图景。
+
+## 鼓励读者前往的结尾
+所以，你还等什么呢？蒂基帕亚可能没有乌尤尼那么声名显赫，但正是这份低调的、带着烟火气和花香（还有蚊子）的真实感，才最打动人心。来这里，吃一顿能撑到明天的饭，和热情的蚊子交个朋友，在小镇的广场上发一下午呆。玻利维亚的宝藏，往往就藏在这些不起眼的小地方。快把它加入你的清单吧！
+b:["$","$L3","tiquipaya",{"post":{"date":"$D2025-12-29T00:00:00.000Z","createdAt":1767024076313,"city":{"en":"Tiquipaya","zh":"蒂基帕亚","country":"Bolivia","countryZh":"玻利维亚"},"slug":"tiquipaya","photoUrl":"/images/cities/tiquipaya.jpg","model":"deepseek-ai/DeepSeek-V3","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"deepseek-ai/DeepSeek-V3","modelZh":"deepseek-ai/DeepSeek-V3.1","summaryEn":"This playful travel blog post takes you on a whirlwind tour of Tiquipaya, Bolivia, blending humor, fun facts, and practical tips to make your visit unforgettable. From must-try foods to a jam-packed one-day itinerary, you’ll leave feeling like a local.","summaryZh":"这篇博文将带您走进玻利维亚的“花园城市”蒂基帕亚，以幽默风趣的笔触揭秘它的冷知识、美食和隐藏玩法。准备好迎接理想与现实的爆笑碰撞，并收获一份完美的一日游攻略。","contentEn":"$1e","contentZh":"$1f"}}]
+20:T133d,
+## Welcome to Suwaylih: Where Chaos Meets Charm!
+Hey there, brave traveler! So you’ve decided to swap touristy Petra for Amman’s rebellious little sibling, Suwaylih? *High five!* This place is like that friend who shows up late to parties but brings the best snacks—unpredictable, a little messy, but utterly unforgettable. Buckle up; we’re diving into Jordan’s real-life sitcom.
+
+## Fun Facts That’ll Make You Go “Huh?!”
+1. **The Name Game**: "Suwaylih" roughly translates to "little ladder" in Arabic. Why? Legend says it was named after the steep, ladder-like streets locals climbed back in the day. Today, it’s less ladder, more urban jungle gym.  
+2. **Ancient Roots, Modern Beats**: Beneath the buzzing cafes and shops lie Roman-era ruins. Yes, you could be sipping mint tea atop 2,000-year-old history. Just don’t trip over a relic while chasing a shawarma cart.  
+3. **The “Accidental” Art District**: Graffiti here isn’t vandalism—it’s a public art gallery. Local artists transform walls into kaleidoscopic murals, making every corner an Instagram trap (you’ve been warned).
+
+## Local Food: Eat Like a Jordanian Boss
+Forget diets; Suwaylih’s street food is a flavor riot. **Must-try dishes**:  
+- **Mansaf Madness**: Jordan’s national dish (lamb in fermented yogurt sauce over rice) served *everywhere*. Pro tip: Eat with your hands like a local—just wash them first.  
+- **Falafel Face-Off**: Hit **Al-Quds Falafel** for crispy, herby balls of joy. Their secret? Chickpeas fried in *ancient* oil (kidding… probably).  
+- **Knafeh Chaos**: This cheesy, syrupy pastry is basically dessert lasagna. **Habibah Sweets** serves it warm. Warning: One bite = lifelong addiction.  
+- **Street-Side Juice**: Grab a sugarcane juice from a cart vendor. It’s green, it’s messy, and it’s 100% worth the sticky fingers.
+
+## One-Day Itinerary: Suwaylih in 24 Hours
+**Morning (8 AM–12 PM)**:  
+- **Fuel Up**: Breakfast at **Zalatimo Sweets** for warm, stretchy *kataifi* (shredded pastry with cheese).  
+- **Ruin Your Day**: Explore **Suwaylih’s Roman Ruins** (free entry near the mosque). Pretend you’re in Gladiator.  
+- **Art Walk**: Stroll **King Abdullah Street** to spot graffiti murals. Bonus: Ask locals about the stories behind them.  
+
+**Afternoon (12–5 PM)**:  
+- **Lunch Like Royalty**: Mansaf at **Al-Mukhtar Restaurant**. Wear stretchy pants.  
+- **Retail Therapy**: Browse **Suwaylih Market** for spices, textiles, and souvenirs. Haggle politely—smiles are your best currency.  
+- **Caffeine Fix**: Chill at **Rumi Cafe** for cardamom coffee and people-watching.  
+
+**Evening (5 PM–Late)**:  
+- **Sunset Snacks**: Grab falafel sandwiches from **Al-Quds** and eat in **Al-Hussein Park**.  
+- **Night Market Magic**: Dive into the **Suwaylih Night Market** (Thu–Sat). Try *kunafa* and bargain for handmade crafts.  
+- **Drinks & Views**: End at **View Rooftop Lounge** for mocktails and city lights.  
+
+## Expectation vs. Reality: Suwaylih Edition
+| Expectation                          | Reality                                                                 |
+|--------------------------------------|-------------------------------------------------------------------------|
+| "I’ll serenely explore ancient ruins." | You’ll dodge motorbikes while a stray cat photobombs your ruin selfie. |
+| "Street food is a quick, tidy snack." | You’ll end up with hummus in your hair and shawarma sauce on your shoes. |
+| "Markets are quiet, cultural havens." | It’s a loud, spicy-scented mosh pit where you’ll accidentally buy three scarves. |
+| "Everyone speaks fluent English."     | You’ll master Arabic hand gestures and the phrase "Shukran!" (Thank you). |
+
+## The Local’s Cheat Sheet
+- **Transport**: Use **Careem** (Jordan’s Uber) or **orange taxis**—always insist on the meter. Buses are cheap but require ninja-level navigation skills.  
+- **Etiquette**:  
+  - **Dress Modestly**: Cover shoulders/knees, especially near mosques.  
+  - **Shoe Game Off**: Remove shoes before entering homes or some shops.  
+  - **Right Hand Rule**: Eat and greet with your right hand (left is for… well, not food).  
+- **Hidden Gems**:  
+  - **Secret Garden Cafe**: Tucked behind a bookstore, it’s a green oasis with strong coffee.  
+  - **Abu Ali’s Spice Shop**: Ask for "za’atar"—he’ll let you sample blends while sharing life advice.  
+  - **Al-Madina Library**: A tiny, ancient library where you can flip through century-old manuscripts (ask nicely!).  
+
+## Go Forth & Conquer Suwaylih!
+So there you have it—Suwaylih in all its chaotic, delicious glory. It’s not polished or perfect, but that’s the magic. You’ll leave with stained clothes, a full belly, and a heart full of stories. Now go get lost, laugh at the surprises, and let Suwaylih hijack your itinerary. Trust us, your best travel tales start here. *Yalla!* (Let’s go!)
+21:Tb84,
+# 欢迎来到安曼：沙漠中的“混乱与魅力”之城  
+
+嘿，旅行狂人们！欢迎来到安曼——这座既古老又现代的城市，就像你那位总爱穿传统长袍却偷偷用iPhone的叔叔一样矛盾又可爱。在这里，历史与咖啡因一样浓烈，而交通规则？嗯，那只是个建议而已。  
+
+## 3个让你在派对上脱颖而出的安曼冷知识  
+1. **罗马剧场比你的健身房会员还忙**：安曼的罗马剧场至今仍在使用，每年举办音乐会、戏剧表演，甚至偶尔会有当地大叔在上面晒被子（未经证实但非常可信）。  
+2. **红绿灯是装饰品**：过马路时请默念“我是隐形人”，然后勇敢地走进车流——司机会默契地绕过你，就像玩真人版《青蛙过河》。  
+3. **七座山？不，是七层千层面**：安曼建在七座山上，但当地人坚持认为“第八座山”是你的酒店所在的那条陡坡。  
+
+## 必尝美食：卡路里？不存在的！  
+- **Mansaf**：约旦国菜，羊肉配酸奶酱和米饭，吃的时候请假装没看见那个热量数字。  
+- **Kunafa**：甜到让你怀疑人生的奶酪甜点，建议搭配胰岛素一起享用。  
+- **街头法拉费**：比你的前任更让人上瘾，而且便宜到像白送。  
+
+## 24小时极限挑战：安曼一日游攻略  
+- **早上7点**：去**城堡山**看日出，顺便假装自己是《权力的游戏》临时演员。  
+- **中午12点**：在**Hashem餐厅**用手抓豆泥，体验“吃完不用擦嘴”的豪迈。  
+- **下午3点**：逛**彩虹街**，买一堆根本用不上的手工皂，因为“来都来了”。  
+- **晚上8点**：去**Jabal Al-Weibdeh**区的小酒吧，喝一杯名叫“沙漠幻觉”的鸡尾酒。  
+
+## 理想 vs. 现实：安曼版  
+| 理想 | 现实 |  
+|------|------|  
+| 在古罗马遗址拍文艺照 | 遗址角落里躲着一只对你翻白眼的流浪猫 |  
+| 优雅地品尝阿拉伯咖啡 | 被苦到表情失控，还要假装“嗯，很有层次感” |  
+| 出租车司机热情指路 | 他根本听不懂英语，但坚持用约旦版谷歌地图（即：问路人） |  
+
+## 本地人秘籍：如何像安曼人一样生活  
+- **交通**：出租车不打表？正常。上车前先喊“按计价器！”（虽然成功率约50%）。  
+- **隐藏景点**：去**Abu Darwish清真寺**的屋顶，看全城日落——但别告诉别人是我说的。  
+- **礼仪**：拒绝三次咖啡才是礼貌，但如果你真的不想喝，第四次拒绝时请抱住杯子逃跑。  
+
+## 结语：快去订机票，否则……  
+安曼可能不会让你一见钟情，但绝对会让你在离开时念念不忘——比如怀念那个差点撞到你的出租车司机，或者那个偷偷多收你50分钱的烤肉摊老板。所以，别犹豫了，快来体验这场“混乱又迷人”的中东冒险吧！  
+
+（P.S. 记得带健胃消食片。）
+c:["$","$L3","suwaylih",{"post":{"date":"$D2025-12-29T00:00:00.000Z","createdAt":1767009683402,"city":{"en":"Suwaylih","zh":"安曼","country":"Jordan","countryZh":"约旦"},"slug":"suwaylih","photoUrl":"/images/cities/suwaylih.jpg","model":"zai-org/GLM-4.5","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"zai-org/GLM-4.5","modelZh":"deepseek-ai/DeepSeek-V3","summaryEn":"Suwaylih, Amman’s underrated gem, serves up a chaotic cocktail of urban energy, hidden history, and mouthwatering street food that’ll hijack your taste buds. Pack your sense of humor and stretchy pants—this guide turns 24 hours in Jordan’s quirkiest district into an unforgettable joyride.","summaryZh":"这篇文章以幽默风趣的方式介绍了约旦安曼的旅游亮点，包括冷知识、美食推荐和一日游攻略，同时提供了本地人秘籍和理想与现实的对比。","contentEn":"$20","contentZh":"$21"}}]
+22:Tb89,
+# **Saratov: The Volga Gem You Didn’t Know You Needed**  
+
+## **Welcome to Saratov—Where the Volga Waves and the Locals Charm**  
+Ah, Saratov! The city that sounds like a secret password but is actually a hidden gem on the Volga River. If you’re expecting a sleepy provincial town, think again. Saratov is like that quiet kid in class who turns out to be a rockstar—unassuming at first, but full of surprises.  
+
+## **3 Fun Facts That’ll Make You the Life of the Party**  
+1. **The First Cosmonaut’s Training Ground**: Yuri Gagarin, the first human in space, trained near Saratov. The city proudly claims him as their own (even if he was technically born elsewhere).  
+2. **The Bridge of Broken Hearts**: The Saratov Bridge was once the longest in Europe, and legend says if you kiss halfway across, your love will last forever. (Or you’ll just get honked at by impatient drivers.)  
+3. **A Museum of Oddities**: The Radishchev Art Museum is Russia’s first public art museum outside St. Petersburg. It’s like the Hermitage’s quirky cousin.  
+
+## **Local Food You Must Try (Or Regret Forever)**  
+- **Saratov Krendel**: A sweet, pretzel-like bread that’s basically a hug for your taste buds.  
+- **Volga Fish Soup (Ukha)**: Fresh from the river, this soup will make you question all other soups.  
+- **Pirozhki**: These stuffed buns are the ultimate comfort food. Fillings range from meat to cabbage, and yes, they’re as delicious as they sound.  
+
+## **One-Day Itinerary: Saratov in 24 Hours or Less**  
+- **Morning**: Start at **Prospekt Kirova**, the main street, for coffee and people-watching. Pop into the **Radishchev Museum** for culture points.  
+- **Afternoon**: Stroll along the **Volga Embankment**, then cross the **Saratov Bridge** for epic views (and maybe a cheeky kiss).  
+- **Evening**: Dinner at **Fazenda** for hearty Russian cuisine, followed by a drink at **Bar 13**, a cozy spot with a speakeasy vibe.  
+
+## **Expectation vs. Reality: The Saratov Edition**  
+- **Expectation**: A quiet, provincial town with nothing to do.  
+- **Reality**: A vibrant city with art, history, and a bridge that’s basically a romantic meme. Also, the locals are friendlier than your average houseplant.  
+
+## **The Local’s Cheat Sheet**  
+- **Transport**: Trams are cheap and nostalgic, but taxis (Yandex.Taxi) are faster.  
+- **Etiquette**: Smile, but don’t overdo it—Russians might think you’re plotting something.  
+- **Hidden Gem**: **Lipki Park** is perfect for a lazy afternoon. It’s like Central Park, but with more babushkas.  
+
+## **Conclusion: Go Forth and Explore!**  
+Saratov might not be on every traveler’s radar, but that’s what makes it special. It’s a city with heart, humor, and enough krendel to keep you happy for days. So pack your bags, brush up on your Russian (or just point at menus), and get ready to fall in love with this Volga gem. До свидания, and see you in Saratov!
+23:T1a48,
+## 欢迎来到萨拉托夫，伏尔加河畔的"非典型"明珠！
+
+嘿，冒险家！准备好放弃莫斯科的喧嚣和圣彼得堡的拥挤，来一场真正的俄罗斯腹地探险了吗？萨拉托夫——这个名字听起来就像某种俄罗斯伏特加酒，但实际上它是一座充满惊喜、友善和伏尔加河畔风情的城市。别担心，这里的居民不会强迫你喝下一整瓶伏特加（除非你自己坚持），但他们会热情地让你感受到俄罗斯真正的灵魂！
+
+## 萨拉托夫的"冷知识"大揭秘
+
+1. **电影先驱之城**：萨拉托夫是俄罗斯第一个拥有电影制作厂的城市！早在1909年，这里的"电影工厂"就开始生产俄罗斯最早的电影之一。所以，当你漫步在街头时，你正走在俄罗斯电影历史的发源地——说不定你脚下就是某位早期俄罗斯电影明星曾经踩过的地砖！
+
+2. **伏尔加河最宽处**：在萨拉托夫，伏尔加河达到了它最宽阔的壮观景象——足足有2公里宽！想象一下，站在河的一边，几乎看不到对岸的景象。这里也是观看伏尔加河日落的绝佳地点，即使你的摄影技术不怎么样，也能拍出令人惊叹的照片（至少朋友圈里会有人点赞）。
+
+3. **宇航员的摇篮**：萨拉托夫是俄罗斯航天计划的重要摇篮之一。著名的"星城"宇航员培训中心就在附近。所以，如果你在街头遇到看起来像宇航员的人，别太惊讶——他们可能真的是要去太空！
+
+## 味蕾的伏尔加河之旅：必尝当地美食
+
+来到萨拉托夫，你的味蕾将开启一场难忘的冒险：
+
+- **萨拉托夫鱼汤**：不同于普通的罗宋汤，这里的鱼汤使用伏尔加河的新鲜鱼类熬制，口感鲜美，香气四溢。当地人会告诉你："真正的萨拉托夫人，一周至少要喝三次鱼汤！"
+
+- **伏尔加河鲤鱼**：直接从河里捞上来的鲤鱼，经过简单烹饪就能呈现最地道的俄罗斯风味。尝试一下传统的鲤鱼馅饼，外酥里嫩，绝对会让你回味无穷。
+
+- **萨拉托夫式饺子**：别以为只有中国有饺子！萨拉托夫的饺子（称为"pelmeni"）有着独特的馅料和形状，通常搭配酸奶油一起食用，是寒冷天气里的完美选择。
+
+- **蜂蜜与奶酪**：萨拉托夫地区以优质的蜂蜜和手工奶酪闻名，别忘了在当地的集市上买一些带回家，作为旅行的甜蜜纪念。
+
+## 24小时萨拉托夫：极速攻略
+
+只有24小时？别担心，萨拉托夫虽小，但精彩无限！
+
+**早上（8:00-11:00）**：从伏尔加河畔的列宁广场开始你的旅程。清晨的河畔空气清新，你可以欣赏到城市苏醒的美景，顺便拍几张"假装在欧洲"的照片。
+
+**上午（11:00-13:00）**：前往萨拉托夫艺术博物馆，这里收藏了从19世纪至今的俄罗斯艺术品，包括一些你不曾在教科书上见过的珍贵作品。
+
+**中午（13:00-14:30）**：在老城区的"Krylya"餐厅享用午餐，尝试当地的鱼汤和饺子。服务员英语可能不太好，但手势和微笑是国际语言！
+
+**下午（14:30-17:00）**：乘坐公交或出租车前往著名的"飞碟"观景台（UFO Observation Deck）。从那里，你可以俯瞰整个萨拉托夫和壮观的伏尔加河。别担心，这里真的没有外星人（至少我们没见到）。
+
+**傍晚（17:00-19:00）**：回到市中心，在步行街漫步，购买一些纪念品。别忘了尝尝当地的冰淇淋，即使在寒冷的天气里，俄罗斯人也热衷于这个甜蜜的享受。
+
+**晚上（19:00以后）**：在伏尔加河畔的餐厅享用晚餐，推荐尝试当地的烤肉和蜂蜜酒。晚餐后，沿着河畔散步，欣赏被灯光点缀的城市夜景，完美结束你的一天！
+
+## 理想 vs. 现实：萨拉托夫幽默版
+
+**理想**：你想象中的萨拉托夫是俄罗斯版的威尼斯，有着浪漫的运河、悠闲的贡多拉和迷人的日落。
+
+**现实**：萨拉托夫确实有美丽的伏尔加河，但贡多拉被更实用的渡轮取代。不过，日落依然浪漫，只是可能会有几只海鸥抢走你的面包屑。
+
+**理想**：你期待着品尝到精致的高级俄式料理，每一口都像是艺术品。
+
+**现实**：你可能会发现当地美食更加朴实无华，但味道绝对令人难忘。而且，服务员可能会在你吃完前就收走盘子——这不是针对你，只是他们的高效服务！
+
+**理想**：你计划轻松地步行探索整个城市，就像在明信片里看到的那样。
+
+**现实**：萨拉托夫比想象中更大，步行可能会让你腿软。但别担心，这里的公共交通系统出人意料地高效（虽然车辆可能看起来有点复古）。
+
+## 本地人秘籍：像当地人一样体验萨拉托夫
+
+**交通贴士**：不要害怕使用当地的公交系统——它便宜又可靠！下载当地的应用"Yandex Transit"可以帮助你规划路线。出租车（通过Yandex Go或Gett应用叫车）也很便宜，但记得提前下载好这些应用，因为街头拦车可能会遇到语言障碍。
+
+**礼仪小窍门**：俄罗斯人重视直接沟通，所以不要对他们坦率的交流方式感到冒犯。进入商店或餐厅时，记得说"Здравствуйте"（你好），离开时说"Спасибо"（谢谢）。当地人会欣赏你尝试说俄语的努力！
+
+**隐藏景点**：大多数游客不知道的是，萨拉托夫有一个小型但迷人的"博物馆街"，那里聚集了各种有趣的小博物馆。还有一个秘密的观景点位于城市公园的后面，那里游客稀少，却能欣赏到最美的伏尔加河景色。
+
+**省钱技巧**：在当地集市购买食物和纪念品比旅游景点便宜得多。如果你会说一点俄语，还可以获得更好的价格！另外，许多博物馆在周三免费开放，提前查询可以节省不少预算。
+
+## 结束语：为什么萨拉托夫值得一游
+
+亲爱的冒险家，如果你厌倦了千篇一律的旅游路线，渴望探索俄罗斯真实的一面，那么萨拉托夫正等着你。这里没有拥挤的人群，没有天价的纪念品，只有真诚的笑容、美味的食物和壮丽的伏尔加河风光。
+
+萨拉托夫可能不会出现在你的"十大必游城市"列表上，但有时候，最美好的发现正是那些不在地图上的地方。所以，收拾你的行李，带上你的好奇心，来萨拉托夫吧！相信我，这座城市会给你带来比任何旅游指南都更真实、更难忘的俄罗斯体验。伏尔加河的风正在呼唤你，萨拉托夫的美食正在等着你——别让这个隐藏的俄罗斯明珠继续等待了！
+d:["$","$L3","saratov",{"post":{"date":"$D2025-12-29T00:00:00.000Z","createdAt":1766995329731,"city":{"en":"Saratov","zh":"萨拉托夫","country":"Russia","countryZh":"俄罗斯"},"slug":"saratov","photoUrl":"/images/cities/saratov.jpg","model":"deepseek-ai/DeepSeek-V3","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"deepseek-ai/DeepSeek-V3","modelZh":"zai-org/GLM-4.5-Air","summaryEn":"This engaging and humorous travel blog post takes you on a whirlwind tour of Saratov, Russia, packed with fun facts, must-try foods, and a one-day itinerary. Discover the city's quirks, local secrets, and a playful reality check to make your visit unforgettable.","summaryZh":"欢迎来到萨拉托夫，这座伏尔加河畔的隐藏宝石！准备好在俄罗斯最友善的城市之一，体验一段既怀旧又前卫的奇妙旅程。","contentEn":"$22","contentZh":"$23"}}]
+24:T4a3,
+[The full blog post in Markdown]
+
+ Let's break down each section:
+
+ 1. Playful Welcome: Start with a bang! Make the reader feel excited and welcomed to Ruse. Use humor and a light-hearted tone.
+
+ 2. Fun Facts: At least 3 fun facts. They should be interesting and maybe a bit quirky.
+
+ 3. Local Food: List some must-try dishes. Be descriptive and maybe add a humorous note about the experience.
+
+ 4. One-Day Itinerary: A realistic and engaging plan for 24 hours. Include key sights and maybe a cafe or two.
+
+ 5. Expectation vs. Reality: A humorous take on what people might expect versus what they actually experience. Keep it light and funny.
+
+ 6. The Local’s Cheat Sheet: Practical tips on getting around, local etiquette, and hidden gems. Make it useful and sprinkle with humor.
+
+ 7. Encouraging Conclusion: Wrap up by encouraging the reader to visit and maybe a funny parting shot.
+
+ Now, let's write the content accordingly.
+</think>
+**SUMMARY:** Discover Ruse, Bulgaria—a Danube gem blending Habsburg grandeur with Balkan charm. This guide serves up quirky facts, must-eat bites, a jam-packed 24-hour itinerary, and cheeky local secrets to make your visit unforgettable.  
+
+**
+e:["$","$L3","ruse",{"post":{"date":"$D2025-12-29T00:00:00.000Z","createdAt":1766980860456,"city":{"en":"Ruse","zh":"鲁塞","country":"Bulgaria","countryZh":"保加利亚"},"slug":"ruse","photoUrl":"/images/cities/ruse.jpg","model":"deepseek-ai/DeepSeek-R1","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"deepseek-ai/DeepSeek-R1","modelZh":"deepseek-ai/DeepSeek-R1-0528","summaryEn":"[A 2-sentence summary of the post]","summaryZh":"[2句话的文章摘要] — 我需要创建一个简短的摘要，总结文章内容。 然后，","contentEn":"$24","contentZh":"\n必须是完整的Markdown格式博客文章，包括以下部分：\n\n1. 一个俏皮的欢迎语。 — 这应该是文章的开头，一个幽默的欢迎。\n\n2. 至少3个关于这座城市的有趣冷知识。 — 列出至少三个有趣的事实。\n\n3. 必尝的当地美食。 — 描述一些当地美食。\n\n4. 一日游攻略 (如果只有24小时该去哪里)。 — 建议如何在一天内游览Ruse。\n\n5. 理想 vs. 现实的幽默的对比。 — 幽默地比较理想中的旅行和现实中的旅行。\n\n6. 本地人秘籍 (关于交通、礼仪或隐藏景点的建议)。 — 提供本地人的建议。\n\n7. 鼓励读者前往的结尾。 — 一个积极的结尾，鼓励人们去旅行。\n\n文章风格应该是幽默、风趣且信息丰富的。所以，我要确保语言是轻松、有趣的，同时提供有用的信息。\n\n结构CONTENT部分：\n\n- 使用##标题对应上述部分。例如：\n\n  ## 1. 一个俏皮的欢迎语\n\n  等等。\n\n- 使用列表和粗体文本来强调重点。\n\n现在，收集关于Ruse的信息：\n\n- Ruse是保加利亚的一个城市，位于多瑙河边。被称为“小维也纳”因为它的建筑。\n\n- 有趣冷知识：\n\n  1. Ruse是保加利亚第一个有电灯的城市。\n\n  2. 它有多瑙河上最古老的桥之一。\n\n  3. 城市有丰富的文化历史，是许多作家的故乡。\n\n- 必尝美食：保加利亚菜，如banitsa（一种奶酪派）、shopska salad（沙拉）、kavarma（炖菜）。\n\n- 一日游攻略：参观自由广场、Dohodno Zdanie建筑、多瑙河边散步、博物馆。\n\n- 理想 vs. 现实：理想是轻松游览，现实可能是拥挤或意外事件。\n\n- 本地人秘籍：使用公共交通、尊重当地礼仪、发现隐藏的咖啡馆或景点。\n\n- 结尾：鼓励读者去体验。\n\nSUMMARY应该是两句话的摘要：例如，“这篇文章带你幽默地探索保加利亚鲁塞的魅力城市。从冷知识到一日游建议，发现为什么鲁塞值得一游。”\n\n现在，输出格式严格按照：\n\nCITY_ZH: 鲁塞\n\nCOUNTRY_ZH: 保加利亚\n\nSUMMARY: [两句话]\n"}}]
+f:["$","nav",null,{"className":"mt-10 flex flex-wrap items-center gap-2","aria-label":"Pagination","children":[[["$","a","1",{"href":"/","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":1}],["$","a","2",{"href":"/page/2","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":2}],["$","a","3",{"href":"/page/3","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":3}],["$","a","4",{"href":"/page/4","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":4}],["$","a","5",{"href":"/page/5","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":5}],["$","a","6",{"href":"/page/6","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":6}],["$","a","7",{"href":"/page/7","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":7}],["$","a","8",{"href":"/page/8","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":8}],["$","a","9",{"href":"/page/9","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":9}],["$","a","10",{"href":"/page/10","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":10}],["$","a","11",{"href":"/page/11","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":11}],["$","a","12",{"href":"/page/12","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":12}],["$","a","13",{"href":"/page/13","aria-current":"page","className":"px-4 py-2 rounded border text-sm font-medium text-white bg-blue-600 border-blue-600","children":13}],["$","a","14",{"href":"/page/14","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":14}],["$","a","15",{"href":"/page/15","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":15}],["$","a","16",{"href":"/page/16","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":16}],["$","a","17",{"href":"/page/17","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":17}],["$","a","18",{"href":"/page/18","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":18}],["$","a","19",{"href":"/page/19","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":19}],["$","a","20",{"href":"/page/20","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":20}],["$","a","21",{"href":"/page/21","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":21}],["$","a","22",{"href":"/page/22","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":22}]],["$","span",null,{"className":"ml-2 text-sm text-gray-500","children":["Page ",13," of ",22]}]]}]
+10:["$","$L25",null,{}]
+11:["$","script","script-0",{"src":"/_next/static/chunks/64185856f3d01436.js","async":true}]
+12:["$","script","script-1",{"src":"/_next/static/chunks/50da8c85b8b02a97.js","async":true}]
+13:["$","$L26",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@28"}]}]
+28:null

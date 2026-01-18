@@ -1,0 +1,442 @@
+1:"$Sreact.fragment"
+2:I[2971,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+3:I[95752,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+17:I[13642,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+18:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+4:Td30,
+# **Calgary: Where Cowboys Meet Cosmopolitan Cool**  
+
+Welcome to Calgary, folks—where the mountains whisper adventure, the steaks sizzle louder than your ex’s drama, and the weather changes faster than your Instagram feed. Whether you’re here for the rodeo vibes or just to finally understand what a "Calgary Stampede" is (hint: it’s not a post-office mishap), this city won’t disappoint.  
+
+## **3 Fun Facts That’ll Make You Sound Smarter Than a Local**  
+1. **The Tower That Defies Logic:** The Calgary Tower was once the tallest structure in Canada. Now, it’s mostly famous for its glass floor that makes tourists question their life choices while standing on it.  
+2. **Dinosaurs, Eh?** Alberta is a hotbed for dino fossils, and Calgary’s just a short drive from Drumheller, home to the Royal Tyrrell Museum. Yes, Jurassic Park vibes, minus the running.  
+3. **Cowtown’s Secret:** Calgary’s nickname "Cowtown" isn’t just for show—the city hosts the world-famous **Calgary Stampede**, a 10-day rodeo bacchanal where cowboy hats are mandatory and vegetable consumption is optional.  
+
+## **Local Food You Must Try (Or Risk FOMO)**  
+- **Beef, Glorious Beef:** Calgary’s steakhouses are legendary. Try a **AAA Alberta steak**—it’s so tender, you’ll forget it ever had a face.  
+- **Ketchup Chips:** A Canadian snack so weirdly delicious, you’ll either adore them or question humanity.  
+- **Caesars:** Canada’s boozy answer to Bloody Marys, garnished with everything but the kitchen sink (think pickles, bacon, and even mini burgers).  
+
+## **One-Day Itinerary: Calgary in 24 Hours (No Sleep Required)**  
+- **Morning:** Start at **Phil & Sebastian Coffee Roasters** for a caffeine kick, then stroll through **Prince’s Island Park** like you’re in a rom-com montage.  
+- **Afternoon:** Hit the **Calgary Zoo** (because who doesn’t love pandas?) or brave the glass floor at the **Calgary Tower** if you enjoy mild panic.  
+- **Evening:** Dinner at **Charbar** for rooftop views and food that’ll make you Instagram-famous. Cap it off with a cocktail at **Proof**, because you’ve earned it.  
+
+## **Expectation vs. Reality: Calgary Edition**  
+- **Expectation:** "I’ll wear my cute cowboy boots everywhere!"  
+  **Reality:** You’ll trip over them in the +15 skywalk system (a maze of indoor bridges) because no one told you Calgary has a secret indoor city.  
+- **Expectation:** "The weather app says it’s sunny!"  
+  **Reality:** It’s snowing by lunch. Welcome to Calgary, where Mother Nature’s mood swings are legendary.  
+
+## **The Local’s Cheat Sheet**  
+- **Transport:** Skip the rental car—**Calgary Transit** is solid, and Uber exists. Also, the **CTrain is free downtown** (shh, it’s a secret).  
+- **Etiquette:** Don’t block the sidewalk during Stampede; cowboys in a hurry are a force of nature.  
+- **Hidden Gem:** **Inglewood** is the coolest neighborhood you’ve never heard of, packed with indie shops and bars where the locals actually go.  
+
+## **Conclusion: Go Forth and Explore, Eh?**  
+Calgary might not be Toronto or Vancouver, but that’s the point—it’s got its own rugged charm, killer food, and enough surprises to keep you on your toes (or in cowboy boots). So pack your sense of adventure, a jacket for every season (seriously), and get ready to fall in love with Cowtown. Yeehaw!
+5:Ta00,
+## 欢迎来到卡尔加里！  
+欢迎来到加拿大最幽默的牛仔城——卡尔加里！这里连风都带着幽默感，连雪都爱开玩笑。准备好被“小牛城”的绰号和“落基山脉的门廊”惊艳到了吗？让我们一起开启这场充满惊喜的旅程！  
+
+## 三个关于卡尔加里的冷知识  
+- **“小牛城”不是绰号，是事实**：卡尔加里因畜牧业兴盛而得名，牛仔文化深入骨髓，连市长都穿牛仔裤！  
+- **冰酒节是“醉”美体验**：每年12月的冰酒节，酒窖会用冰块搭建舞台，喝一口冰酒，仿佛在北极圈跳舞！  
+- **“落基山脉的门廊”是隐藏彩蛋**：从市中心步行15分钟，就能看到整片山脉像被上帝随手一放的天然背景板！  
+
+## 必尝的当地美食  
+- **Poutine**：薯条+奶酪+肉汁，这道“加拿大国菜”会喷火，但千万别被吓到！  
+- **Bison肉**：本地野牛肉比牛肉更香，吃一口仿佛在草原上奔跑。  
+- **枫糖浆肉桂卷**：甜品控的噩梦？不，是甜蜜的救赎！  
+
+## 一日游攻略（24小时暴走版）  
+1. **上午**：登顶**卡尔加里塔**，俯瞰“小牛城”的全景，顺便打卡“落基山脉的门廊”。  
+2. **中午**：在**加拿大动物园**喂考拉，顺便看北极熊游泳（别问，问就是震撼）。  
+3. **下午**：冲向**加拿大公园**，骑自行车穿越草原，假装自己是西部片主角。  
+4. **晚上**：去**卡尔加里酒吧街**，点一杯冰酒，听本地乐队弹唱，感受牛仔的浪漫。  
+
+## 理想 vs. 现实的幽默对比  
+**理想**：阳光明媚，美食不排队，天气永远25℃。  
+**现实**：暴雪突袭，Poutine排队3小时，冰酒节的冰块会砸到你头上。  
+**理想**：在动物园看到狮子跳舞。  
+**现实**：狮子在睡觉，你却在排队买冰淇淋。  
+
+## 本地人秘籍（别告诉游客）  
+- **交通**：C-Train（轻轨）比出租车便宜，但别在站台穿高跟鞋，当地人会对你笑。  
+- **礼仪**：牛仔文化重于一切，穿牛仔裤比西装更受欢迎，但别穿破洞的（除非你是主角）。  
+- **隐藏景点**：**Hearth Restaurant**（只在周末营业）和**Marda Loop**（艺术区）是本地人私藏的宝藏。  
+
+## 快来卡尔加里吧！  
+别再犹豫了！卡尔加里用风、雪、牛仔和美食，给你一场“意外的惊喜之旅”。这里没有完美计划，只有意想不到的快乐。带上幽默感，来感受“小牛城”的魅力吧！
+0:{"buildId":"4ToxTf_niL-606grLRurT","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50 flex flex-col","children":[["$","$L2",null,{}],["$","main",null,{"className":"container mx-auto px-4 py-12 flex-grow","children":[["$","div",null,{"className":"grid gap-8 md:grid-cols-2 lg:grid-cols-2","children":[["$","$L3","calgary",{"post":{"date":"$D2025-12-11T00:00:00.000Z","createdAt":1765429383379,"city":{"en":"Calgary","zh":"卡尔加里","country":"Canada","countryZh":"加拿大"},"slug":"calgary","photoUrl":"/images/cities/calgary.jpg","model":"deepseek-ai/DeepSeek-V3-0324","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"deepseek-ai/DeepSeek-V3-0324","modelZh":"Qwen/Qwen3-8B","summaryEn":"This lively travel blog post takes you on a whirlwind tour of Calgary, Canada, blending humor, fun facts, and practical tips. From must-try local eats to a jam-packed one-day itinerary, it’s your ultimate guide to exploring Calgary like a pro.","summaryZh":"欢迎来到加拿大最幽默的牛仔城！从冰酒节到小牛城绰号，这里既有惊喜也有意外。24小时玩转卡尔加里，别忘了尝一口会喷火的Poutine！","contentEn":"$4","contentZh":"$5"}}],"$L6","$L7","$L8","$L9"]}],"$La"]}],"$Lb"]}],["$Lc","$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+f:T14f8,
+Katowice, Poland, is a city of surprises, magic, and vibrant culture that you’re sure to love, no matter what you’re expecting!  
+
+---
+
+# Content  
+
+## THE PLAYFUL WelCOME  
+
+Ah, Katowice! The magic city where the胖华 (ChinesePrompt fictional construct) of a smile and a story come together! Whether you’re here for its rich history, mouthwatering food, or the absurdly perfect pierogi (and super sore legs afterwards), one thing’s for sure: this place is authentically unforgettable.  
+
+---
+
+## THE 3 FUN FACTS ABOUT THE CITY  
+
+1. **The Copernicus Building**: Did you know that Copernicus himself lived here? The building, which houses the planetarium, is named after him and features a rotating Globe of Knowledge. It’s a must-visit for history buffs.  
+
+2. **The Blue Walls**: Katowice is known as the "City of Seven Apple-Trees" (Siedem jabłatków), but what you might not know is that its iconic blue walls stretch across the city, creating a surreal and surrealistic landscape. They’re a peut- Trường b僚 üzerinden droll thing to explore.  
+
+3. **The "问问ellophone" Museum**: This unique museum showcases马力 horse-powered telephones from around the world, operated by仍是运行 by locals. It’s a quirky take on technology and communication, proving that even in this day and age, horses still play a vital role in our lives.  
+
+---
+
+## LOCAL FOOD YOU MUST TRY  
+
+1. **Kot fools around (观察家)**: A thriving tradition in Katowice is the evening of observation, where locals watch the night sky and share stories over a kot (a type of traditional scarf). This dish, which resembles a scarf, is made from flour, excited by its unusual appearance, and flavored with herbs and spices.  
+
+2. **Po (Pierogi)**: Katowice is a Pierogi capital of Poland, and they don’t mess around. The store-bought variety is delicious, but the secret is in the fillings—like Sarment دائما packed with every kind of meat imaginable.  
+
+3. **Zlokal (Vodka and pierogi)**: A must-try comfort food, this is arendered variant of春季 rolls filled with Sarment traditioneveryday bread and served with a shot of vodka. It’s both affordable and hearty, perfect for after a long day of sightseeing.  
+
+---
+
+## ONE-DAY ITINERARY  
+
+### Morning:  
+- Start your day with a visit to the Copernicus Building, where you’ll discover the life-changing story oficescopernicus. The dome gazing at Mars will leave you in awe.  
+- After that, grab a bite in the historic Market Square (market-place) for some fresh pierogi and a coffee. The market is especially lively on weekends.  
+
+---
+
+### Afternoon:  
+- head to the Museum of_MECHANICS and Contraptions (M汶川地震 building and contraptions) for an interactive afternoon. Use your leftover energy to explore the quirky exhibits and learn about the city’s innovative past.  
+- don’t miss the Unrestored halted train museum, which is both visually stunning and reminiscent of the country’s industrial heritage.  
+
+---
+
+### Evening:  
+- End your day with dinner at the famous PALAT vlak, where you’ll be treated to a variety of Eastern European dishes. The restaurant is intimacyeminded and offers a magical atmosphere.  
+- If you’re up for it, head back to the center and enjoy the vibrant red-and-white checkered suit gangs in the town center.  
+
+---
+
+## EXPECTATION VS. REALITY  
+
+Oh, my goodness, I might have set your expectations on point!  
+
+If you walk into Katowice expecting a place where everything is perfect and selfie-able, you’re in for a rude awakening. This city is not super clean (it’s a bit of a mess in some parts, duh) but it’s got a heart and soul that makes it worth it.  
+
+If you’re bringing a positive outlook, your reality may yet differ: the people are MORE diverse than you think, and there’s plenty of opportunities to experience the surrealism that is Katowice.  
+
+But no matter what you bring to the table, just know this: even if you’re not a fan of the cold (which is almost guaranteed, considering September is the start of autumn), you’ll likely find yourself drawn to the quirky charm of this hidden gem in Eastern Poland.  
+
+---
+
+## THE LOCAL’S CHEAT SHEET  
+
+- **transport**: The city is well-connected by buses, but the bus schedule can be tricky. A 出租车 driver always helpful, but the metro offers a convenient way to explore the city, especially for the most part.  
+- **Etiquette**: In Katowice, beingPoland’s largest city, be sure to ask for directions from locals—secretary or something—and don’t mind pedestrians. The old town is filled with history, so respect everything from the steep cobblestone streets to the operas.  
+- **Hidden Gems**: Don’t miss the cadastral office for-any_OTHER (very unusually) cool and quirky museum. It’s not for tourism, but it’s worth a look if you’re into obscure history.  
+
+---
+
+## CONCLUSION  
+
+Katowice is one of those cities that challenge your expectations but promise more than you could have imagined. Whether you’re a history lover, a foodie, or just someone who enjoys a good story, Katowice is waiting to welcome you in! So lace up your boots, pack your vaccination card (just kidding), and get ready for a trip filled with humor, food, and culture.  
+
+Next time you’re in Poland, make sure to add Katowice to your list. Promise. You won’t be regretting it!
+10:T105b,
+## Welcome to PolandKatowice: Where the Only Thing Heavier Than Your Luggage Is Existential Dread About Pierogi Choices!  
+
+## Fun Facts:  
+- **Name Origin**: The city’s name, “Katowice,” comes from the Silesian dialect word “kotwice,” meaning “cat’s village.” Legend says locals thought the area was overrun with cats—turns out it was just coal miners’ dogs!  
+- **Coal & Culture**: Home to the **Museum of the History of Coal**, where you can learn about the industry that built the city… and also smell the lingering aroma of 19th-century soot. Pro tip: Bring a gas mask for the gift shop.  
+- **Spire Showdown**: St. Mary’s Basilica’s 66-meter spire is so tall it probably outshines the Eiffel Tower’s cousin, the Millau Viaduct. But don’t worry—no one’s going to climb it. They’re too busy arguing over who gets to touch it first.  
+
+## Must-Try Bites:  
+- **Pierogi**: The ultimate comfort food. Opt for the sweet potato-cheese or mushroom variety—they’re like edible hugs from your Polish grandma.  
+- **Kiełbasa z Twarogiem**: Sausage with melted cheese? Yes, and it’s not just for breakfast. Order it with a side of sauerkraut for the full “I’ve been to a Polish pub” experience.  
+- **Zapiekanka**: A Polish open-faced sandwich masterpiece. Imagine bacon, eggs, and cheese on a crusty roll—then imagine it’s 70% better than your lunchbox.  
+
+## 24-Hour Guide (Because One Day Is Never Enough):  
+1. **8:00 AM**: Breakfast at **Kawa** (a café where the coffee is as strong as the locals’ opinions on pierogi). Pro tip: Order the “pierogi breakfast” (filled with blueberries and cream cheese).  
+2. **9:30 AM**: **St. Mary’s Basilica**—marvel at the spire that’s basically the city’s answer to a TikTok trend. Snap a pic, but don’t let anyone see you crying from its beauty.  
+3. **12:00 PM**: Lunch at the **Central Market**. Grab a **Zapiekanka** and a side of pickled vegetables. Locals will nod approvingly; tourists will look confused but impressed.  
+4. **2:00 PM**: Dive into the **Museum of the History of Coal**. Yes, it’s dusty. But hey, at least you’re learning why the city smells like a gym sock from the 1800s.  
+5. **4:30 PM**: Wander the **Katowice Green** park. Find a bench, eat your pierogi leftovers, and watch pigeons try to “touch” the spire from below.  
+6. **7:00 PM**: Dinner at **Urszula’s Kitchen** (a no-frills spot where the kiełbasa z twarogiem is served with a side of “why did I choose this restaurant?”).  
+7. **9:00 PM**: End the day at **Bock’s Bar**, where the beer is cold, the music is loud, and someone will definitely ask if you’re from “that country.” Deny everything.  
+
+## Ideal vs. Reality:  
+- **Ideal Katowice**: Cobblestone streets, flower boxes, and a population that greets you with “Hej!” and free pierogi samples.  
+- **Reality**: Cobblestone streets that are actually concrete, flower boxes that are just weeds, and pierogi samples that require a polite compliment first. Also, the locals might ask “Ktoś z tamtego?” (“Who’s that?”) when you wave at a cat statue.  
+
+## Local Secrets:  
+- **The Underground Coffee Shop**: Skip the touristy spots and find **Kawa’s secret backroom** (look for the door with a cat painted on it). They serve espresso so strong it could power a trams system.  
+- **Hidden Spire Viewpoint**: Climb the steps behind St. Mary’s (yes, the ones no one else wants to walk) for a view of the spire that’s actually… a view.  
+- **Sunday Market**: On Sundays, the Central Market turns into a flea market with vintage coal mining equipment and quirky art. Go early or risk missing out—or dealing with the same 20 people haggling over a pierogi.  
+
+## Why You Should Go (Before Your Bank Account Wakes Up):  
+PolandKatowice is a city where the past and present collide in the most deliciously chaotic way. You’ll leave with a full belly, a cat statue story, and the realization that Europe’s best-kept secrets are just a bus ride away. Don’t overthink it—just pack light, bring an appetite, and let the pierogi do the rest. Your future self (and your bank account) will thank you.
+6:["$","$L3","katowice",{"post":{"date":"$D2025-12-11T00:00:00.000Z","createdAt":1765425023964,"city":{"en":"Katowice","zh":"洞涅多维克","country":"Poland","countryZh":"洞涅"},"slug":"katowice","photoUrl":"/images/cities/katowice.jpg","model":"deepseek-ai/DeepSeek-R1-Distill-Qwen-7B","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"deepseek-ai/DeepSeek-R1-Distill-Qwen-7B","modelZh":"allenai/Olmo-3-7B-Think","summaryEn":"### SUMMARY:  ","summaryZh":"PolandKatowice, the \"City of Smiles\" where factory chimneys meet quirky cafes, is your ticket to Europe’s best-kept industrial secrets and the world’s most delicious pierogi. This concrete-and-coal city proves that even in the heart of industry, there’s room for laughter, culture, and a surprisingly friendly cat statue.","contentEn":"$f","contentZh":"$10"}}]
+11:Te28,
+## 1. A Playful Welcome  
+**Hey there, globe-trotter!**  
+Welcome to Ploiesti, where coal mines once fueled the world (and now fuel your caffeine cravings). This city isn’t just about bricks and boilers—it’s got soul, soul-food, and a side of *“Wow, did I just visit Romania?”* Whether you’re here for the history, the hiking trails, or the historic architecture, Ploiesti’s got your back. Let’s get this party started!
+
+## 2. 3 Fun Facts About Ploiesti  
+- **Coal-Powered Romance**: Ploiesti was once dubbed the “Paris of the Black Sea” due to its grand boulevards and opulent architecture, built during a brief phase of luxury before the industrial boom.  
+- **The Secret Cave**: Just outside town lies the **Cetatea de Balta** (Salt Fortress), a 14th-century fortress with hidden tunnels rumored to be haunted by miners’ ghosts. (Pro tip: Bring a flashlight.)  
+- **Pasta Obsession**: Ploiestians eat more pasta per capita than any other Romanian city. Why? Because they’re *passionate* about carb-loading. (Just kidding… maybe.)
+
+## 3. Local Food You Must Try  
+- **Sarmale**: Cabbage rolls stuffed with minced pork, rice, and spices. Served with mashed potatoes and a side of *“Mmm, this is why I’m full.”*  
+- **Mici**: Grilled minced meat skewers, seasoned with paprika and garlic. Perfect for dipping in a side of sour cream.  
+- **Cozonac**: A sweet, nutty bread filled with cheese and raisins. Think of it as Romanian cheesecake, but denser and more *homey*.
+
+## 4. One-Day Itinerary (For the Ambitious)  
+**Morning:**  
+- **The Old Town**: Wander cobblestone streets lined with Art Nouveau buildings. Stop for a coffee at **Café Central** and people-watch.  
+- **Petroșani Coal Mine**: Take a guided tour of the underground tunnels (no helmet required—but bring a flashlight).  
+
+**Afternoon:**  
+- **Cetatea de Balta**: Explore the fortress ruins and climb the watchtower for panoramic views.  
+- **Lunch**: **Café de la Ville** for sarmale and mici.  
+
+**Evening:**  
+- **Piața Centrală**: Sip a local beer at **Barul de Lângă Biserică** and watch the sunset over the city.  
+- **Dinner**: **Bistro 1900** for cozonac and a nightcap.
+
+## 5. Expectation vs. Reality  
+**Expectation**: “Ploiesti? It’s just a stopover between Bucharest and Brasov. Nothing special.”  
+**Reality**: “Wait… is this the same city I saw in that indie film? The one with the coal mine explosions and the girl who’s secretly a spy?”  
+*(Reality: Ploiesti is charming, quirky, and far from boring.)*
+
+## 6. The Local’s Cheat Sheet  
+- **Transport**: Rent a car for easy access to nearby villages. Or, if you’re brave, take the bus—it’s cheap but *eventful*.  
+- **Etiquette**: Say “La revedere!” (Goodbye) with a smile. Locals appreciate effort.  
+- **Hidden Gems**: Visit **Muzeul de Istorie** for a deep dive into the city’s coal-mining past.  
+- **Avoid**: The traffic—it’s intense. And the “tourist traps” selling overpriced trinkets.  
+
+## 7. The Encouraging Conclusion  
+Ploiesti may not be the first city that springs to mind when you think “romantic getaway,” but trust us—it’s a hidden gem. With its blend of history, food, and laid-back charm, this city will leave you wanting to stay longer. So pack your bags, bring your appetite, and get ready to fall in love with Ploiesti.  
+**P.S.** If you see a man in a black trench coat muttering about “the files,” don’t panic. He’s probably just a historian. Or a spy. Either way, say hello.  
+
+*Safe travels, and may your Ploiesti adventure be as epic as their coal mines!* 🚂🍴📸
+12:T12aa,
+# 嘿，石油大亨！欢迎来到普洛耶什蒂——不只是“黑金”之城！
+
+哦，普洛耶什蒂！当人们计划去罗马尼亚旅行时，你的名字可能不会立刻出现在清单上（毕竟，布兰城堡的德古拉更会营销自己，对吧？）。但请别急着划走！这座城市是罗马尼亚隐藏的宝石，一个混合了工业魅力、意外优雅和美味油炸食品的地方。准备好迎接惊喜了吗？系好安全带，我们出发了！
+
+## 一个俏皮的欢迎语
+
+亲爱的旅行者，欢迎来到普洛耶什蒂——罗马尼亚的“黑金”之都！别担心，我们说的不是德州石油大亨的西部片，这里没有牛仔帽，但曾经有无数因为石油而发家致富的“石油男爵”。想象一下，这里的空气里可能都飘着一丝创业精神和……嗯，也许是油炸小吃的香味？忘记你对工业城市的所有偏见吧，普洛耶什蒂正准备用它的独特魅力“油”惑你！
+
+## 冷知识：让你在酒桌上吹嘘的资本
+
+1.  **石油先驱**：知道吗？世界上第一个大型炼油厂之一就建在普洛洛耶什蒂。早在1857年，这里就点亮了全球第一盏石油灯，比洛克菲勒的标准石油公司还早！所以，这里才是真正的“石油宇宙中心”。
+2.  **地震中心？不，是“油震”中心！** 在二战期间，普洛耶什蒂是纳粹德国最重要的石油供应地之一，因此成为了盟军轰炸的主要目标。1943年的“潮汐行动”是二战中最大胆的空袭之一。所以，这里的“震动”历史可比地震刺激多了。
+3.  **艺术藏在油污里**：这座城市拥有全国最古老的交响乐团之一（成立于1876年）和漂亮的艺术博物馆。看，我们粗犷的外表下，也藏着一颗文艺心！
+
+## 必尝的当地美食：为你的胆固醇“加油”
+
+来普洛耶什蒂，你必须为你的味蕾“加油”：
+
+*   **Mici**：这些可不是“小”东西，而是美味的 grilled minced-meat rolls（烤香肠棒）。没有它们的一餐是不完整的，通常必须配上芥末和啤酒。
+*   **Papanasi**：一种巨大的油炸或煮熟的奶酪甜甜圈，上面浇上酸奶油和果酱。这是对你健身后所有努力的终极“奖励”（或者说摧毁）。
+*   **Covrigi普洛耶什蒂风味**：罗马尼亚经典的椒盐卷饼，但这里的版本更软、更蓬松，是完美的街头小吃。
+
+## 一日游攻略：24小时“油”戏人间
+
+如果你的时间紧得像生锈的螺栓，别怕，按这个路线走：
+
+*   **上午**：从**艺术博物馆（Muzeul de Artă）** 开始，感受一下文化的“润滑”。然后漫步到**钟楼（Turnul cu Ceas）**，这是老城区的标志性建筑，拍张照证明你来过。
+*   **中午**：在市中心找一家传统的餐厅，**必点Mici**！补充能量，才能继续探索。
+*   **下午**：深入了解城市的核心故事，参观**石油博物馆（Muzeul Naţional al Petrolului）**。在这里，你会明白石油如何塑造了这座城市的一切。
+*   **傍晚**：在**统一公园（Parcul Central）** 悠闲散步，看看当地人如何放松。晚餐？当然是**Papanasi**作为甜点收官！
+
+## 理想 vs. 现实：幽默的对比
+
+*   **理想**：我想象自己是一位优雅的石油男爵夫人，穿着长裙，在宏伟的宫殿里参加晚宴。
+*   **现实**：我实际上是一个满嘴油光的游客，一手拿着mici，另一只手试图不让papanasi的果酱滴到我的衬衫上，在公园里边走边吃，还差点撞到树上。同样心满意足！
+
+## 本地人秘籍：像专家一样游玩
+
+1.  **交通**：市中心很小，完全可以步行探索。要去更远的地方？**Uber和Bolt**在这里畅通无阻，便宜又方便。
+2.  **礼仪**：普洛耶什蒂人直接而务实，别指望有很多浮夸的欢迎。一个简单的“Bună ziua”（你好）就能打开话匣子。在餐厅吃完饭后，把餐具**平行放在盘子上**，表示你吃完了。
+3.  **隐藏的景点**：别只盯着市中心。去探索那些**石油男爵建造的美丽宫殿**，比如**Cultura Palace**和**I.C. Brătianu Palace**，它们散落在城市各处，静静地诉说着往日的奢华。
+
+## 结尾：所以，你还在等什么？
+
+所以，你还在等什么？是时候把普洛耶什蒂从你的“未知列表”移到“已探索列表”了。这座城市可能不会在明信片上闪闪发光，但它会以其真实、略带油污的魅力和惊人的故事让你印象深刻。来吧，来发现它的独特之处，来尝尝那些让你忘记减肥的美食。相信我，你会回来感谢我的——顺便再要一份Papanasi！Călătorie plăcută（旅途愉快）
+7:["$","$L3","ploiesti",{"post":{"date":"$D2025-12-11T00:00:00.000Z","createdAt":1765424805686,"city":{"en":"Ploiesti","zh":"普洛耶什蒂","country":"Romania","countryZh":"罗马尼亚"},"slug":"ploiesti","photoUrl":"/images/cities/ploiesti.jpg","model":"baidu/ERNIE-4.5-21B-A3B-PT","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"baidu/ERNIE-4.5-21B-A3B-PT","modelZh":"deepseek-ai/DeepSeek-V3.1","summaryEn":"Ploiesti, Romania’s bustling industrial hub turned charming cultural haven, is ready to dazzle you with its quirky history, delicious treats, and laid-back vibes. Pack your sense of adventure—and maybe a helmet—for this whirlwind tour of the city!","summaryZh":"本文以幽默风趣的笔触，带你探索罗马尼亚的石油之都——普洛耶什蒂。你会发现这座城市不仅有丰富的石油历史，还隐藏着令人惊喜的美食、文化和冷知识。","contentEn":"$11","contentZh":"$12"}}]
+13:T11dc,
+## 1. Namaste, Baby! A Playful Welcome
+Touch down in Patna and the first thing that greets you is a wall of 40 °C heat and a taxi driver who claims your hotel “is just 5 minutes, bhaiya, even though Google says 45.” Embrace it. Patna doesn’t whisper—she honks, she haggles, and then she hugs you with a mouthful of crispy litti. If you can survive the first sensory tsunami, you’ll discover a city older than your oldest family anecdote and twice as dramatic.
+
+## 2. Fun Facts to Drop at the Dinner Table
+- **World’s first residential university**—Nalanda, 90 km away, was the Harvard of 500 CE, except the entrance exam was reciting the Vedas, not the SATs.  
+- **Patna’s bridge binge**: Mahatma Gandhi Setu was once the longest river bridge in India. Locals call it “the 5-km-long traffic meme.”  
+- **Golghar’s grain game**: The beehive-shaped granary was built in 1786 to store rice for famine relief. The stairs spiral up 145 steps—burn calories, earn the view, then realize the city still ran out of rice anyway.
+
+## 3. Stuff Your Face: Local Food You Must Try
+1. **Litti-Chokha** – Wheat balls stuffed with roasted gram, dunked in ghee, and paired with mashed smoky eggplant that tastes like barbecue made by vegetarian cowboys.  
+2. **Chana-Ghugni** – A sunrise snack of spicy black-pea curry topped with raw onions and a lemon wedge that doubles as morning mouthwash.  
+3. **Khaja** – Flaky, syrupy, deep-fried love letters from the Silk Road; one bite and your dentist buys a new BMW.  
+4. **Patna’s Famous Silao Mango** – Only available in May–June; it’s so sweet it could replace your ex’s apologies.
+
+## 4. One-Day Itinerary: 24 Hours, Zero Chill
+**06:00** – Sunrise at Gandhi Ghat; watch the Ganga do its liquid gold thing while yoga uncles compete for loudest “Om.”  
+**08:00** – Breakfast at **Pind Balluchi**: order litti-chokha and a lassi served in a steel glass bigger than your face.  
+**09:30** – Taxi to **Golghar**; climb, pant, selfie.  
+**11:00** – Auto to **Patna Museum**; say hi to the 2,000-year-old Didarganj Yakshi statue—she’s still slaying.  
+**13:00** – Lunch at **Bansi Vihar** for thali so wide it needs its own zip code.  
+**14:30** – Uber to **Kumhrar Park**; ruins of Pataliputra, where Mauryan emperors once Netflix-and-chilled.  
+**16:00** – Cold coffee at **Espresso Junkie** (AC = blessing).  
+**17:30** – Rickshaw to **Takht Sri Harmandir Ji**; Patna’s glittering Sikh gurudwara, birthplace of Guru Gobind Singh—cover your head, wash your feet, feel the serenity (and the marble burn).  
+**19:30** – Street food crawl: **Lanka’s chaat** and **Maurya Lok’s dahi-jalebi**—sweet, sour, existential crisis.  
+**21:00** – River cruise from **Gandhi Ghat** (Rs 250) if you fancy floating on the Ganga while bhajans battle Bollywood remixes.  
+**22:30** – Collapse in hotel; dream of ghee.
+
+## 5. Expectation vs. Reality
+**Expectation**: Gliding through ancient ruins in flowing linen while a sita plays in the background.  
+**Reality**: Sweat-soaked cotton clinging to you like a needy ex, while a Bihari auntie elbows past muttering, “Side ho, babua!”  
+**Expectation**: Spiritual silence on the Ganga.  
+**Reality**: A nearby wedding party blasting “Lungi Dance” from a boat shaped like a swan.  
+**Expectation**: Ordering “mildly spicy.”  
+**Reality**: Your tongue files for divorce.
+
+## 6. The Local’s Cheat Sheet
+- **Transport**: Ola/Uber work, but offline maps save you when the driver “doesn’t know” your pinned location. For short hops, bargain auto—start at half the quote and walk away dramatically; price drops faster than your ex’s standards.  
+- **Etiquette**: Always remove shoes at temples/gurudwaras; socks with holes = instant karma demerit.  
+- **Hidden Gem**: **Agam Kuan**, the “unfathomable well” built by Ashoka; toss a coin and wish you hadn’t eaten three littis.  
+- **Language Hack**: “Ka haal ba?” = “What’s up?” Say it, earn smiles, possibly free samosa.  
+- **Safety**: After 10 p.m., stick to lit areas; Patna’s streetlights moonlight as abstract art—some work, some don’t.
+
+## 7. Final Pep Talk
+Patna won’t coddle you—she’ll challenge you, charm you, and feed you until your jeans wave the white flag. But walk her riverbanks, taste her spice, and laugh with her people, and you’ll leave with stories juicier than the mangoes. Come for the history, stay for the litti, and depart promising yourself you’ll return—next time with bigger pants and a braver stomach.
+14:T1001,
+## 欢迎语
+嘿，旅行探险家！欢迎来到巴特那——印度的“神秘宝藏”，这里没有泰姬陵的排队，但有比排队更上头的街头小贩“Chai”攻势！别担心，迷路？那只是本地人说“欢迎”的另一种方式，来吧，让我们的胃和灵魂一起疯狂！
+
+## 有趣冷知识
+别以为巴特那只是个普通印度小城，它藏着超乎你想象的冷幽默：
+- **“水下之城”传说：** 巴特那的名字“Pataliputra”（古称）意思是“水下的城市”，因为过去被河流环绕，传说有龙住在那里——但龙？别逗了，其实是小贩们说“Ghee for your soul!”的借口。
+- **比罗马还老：** 这座城的历史可追溯到公元前5世纪，比罗马帝国还早200年！所以当你在街头迷路时，可以安慰自己：“我走的路，比你的曾曾曾祖母还老。”
+- **地铁系统“惊喜”：** 巴特那是印度首个有地铁的城市，但地铁只在周末运营（而且经常迟到），所以本地人笑称：“地铁？哦，它在‘冥想’中。”
+
+## 必尝美食
+来巴特那，不吃这些等于没来——辣到你怀疑人生，但上头到飞起：
+- **Litti Chokha：** 烤面团配烤辣椒土豆泥。辣到流泪？是的！但第二口就上瘾——本地人说：“吃它，就像和辣味谈恋爱，越痛越甜。”
+- **Sattu Paratha：** 鹰嘴豆粉煎饼，是本地人的“能量充电宝”。吃一个能跑马拉松，但请备好酸奶——辣味太凶猛，不然你会在街头跳街舞。
+- **Bihari Ka Ghee：** 别被名字吓到！不是黄油，是甜点版“巧克力慕斯”。本地小贩神秘兮兮：“加点Ghee，灵魂升级！”（小心，它比你的购物车还重。）
+
+## 一日游攻略
+24小时？我们这样规划，保证不浪费一秒钟：
+- **7:00 AM：** 早餐在街头摊点，Sattu Paratha + 一杯“Chai”（免费加小糖，本地人说“sugar for the soul”）。
+- **10:00 AM：** 参观Jin Mandir（佛教寺庙），别担心，脱鞋就能进——但提醒：别把鞋留在神像前，否则会“被祝福”到迷路。
+- **1:00 PM：** 午餐必点Litti Chokha在Gandhi Maidan附近小店，配酸奶，辣味才平衡。
+- **3:00 PM：** 漫步Patna Museum，看古代文物（和本地小孩偷拍你——他们说“Instagram friend?”）。
+- **6:00 PM：** 河边看日落，Ganges河畔散步，但别走太远——河边小贩会追着你“Chai, sir!”。
+- **8:00 PM：** 夜市狂欢！尝各种小吃，然后回家——累到脚趾头想跳舞。
+
+## 理想 vs. 现实
+- **理想：** 你优雅漫步古街，鸟语花香，仿佛穿越到孔雀王朝，手里捧着一杯“历史特调”。
+- **现实：** 你被小贩追着问“Chai?”, 路过时一辆Auto-rickshaw差点“吻上”你，心想“这哪是古都，分明是‘Traffic Jam’主题公园！”——但结局完美：免费Chai + 笑到肚子疼。
+
+## 本地人秘籍
+巴特那本地人偷偷告诉你：
+- **交通：** 用Auto-rickshaw（三轮车），但别傻傻付钱！砍价是门艺术：“100 rupees?” → “50!”（记住：说“50”时微笑，不然他们笑你太傻。）
+- **礼仪：** 进寺庙或清真寺，**务必脱鞋**！忘了？本地人会友善提醒：“Sir, your shoes need a vacation.”（别尴尬，他们笑嘻嘻帮你捡起来。）
+- **隐藏景点：** 离Gandhi Maidan不远的“Chotu ki Kachori”小巷——不是地图上的，是本地人私藏。Kachori（油炸面点）香到能让时间暂停（但小心，它比你行李还重）。
+
+## 结尾
+所以，别再刷Instagram看别人旅行了！巴特那不是“可选”，它是“必须”。带上你的笑容、相机，和一个能装下Litti Chokha的胃——因为在这里，历史会偷走你的心，美食会偷走你的体重，但回忆会偷走你的人生。立刻订机票，让巴特那成为你2024年最酷的故事。记住：**“Patna, you’re not old, you’re just very experienced!”** （巴特那，你不是老，你是超有经验！）
+8:["$","$L3","patna",{"post":{"date":"$D2025-12-11T00:00:00.000Z","createdAt":1765422755978,"city":{"en":"Patna","zh":"巴特那","country":"India","countryZh":"印度"},"slug":"patna","photoUrl":"/images/cities/patna.jpg","model":"moonshotai/Kimi-K2-Instruct-0905","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"moonshotai/Kimi-K2-Instruct-0905","modelZh":"Qwen/Qwen3-30B-A3B-Thinking-2507","summaryEn":"Patna, India’s chaotic, charming capital of Bihar, is a city where ancient universities rub shoulders with lassi the size of your head. This post spills the chai on what to eat, where to go, and how to survive 24 sweat-soaked, soul-stirring hours without getting fleeced by a rickshaw wallah.","summaryZh":"巴特那不仅是印度最古老的城市之一，更是历史与街头美食的活力融合。准备好被它的“古老魅力”和“现代混乱”双重暴击，让24小时变成终生回忆！","contentEn":"$13","contentZh":"$14"}}]
+15:Tdfb,
+## A Playful Welcome  
+Welcome to Onitsha, where the energy is as vibrant as the market stalls, and the locals are as friendly as your grandma’s neighbor who always has a snack for you. If you’re ready to trade “boring” for “bustling,” you’ve hit the jackpot!  
+
+## 3 Fun Facts About Onitsha  
+- **The Market That’s a World on Its Own**: The Onitsha Market isn’t just a shopping spot—it’s a mini-city with over 10,000 stalls, selling everything from yam to yoga mats. Pro tip: Don’t be surprised if you lose a hour (or a friend) in there.  
+- **Name Origin? It’s a Linguistic Masterpiece**: The name “Onitsha” comes from the Igbo phrase *“Onye Ichi Aha”* (literally, “the place where the river meets the land”). Yes, the city is literally where the river *and* the vibes meet.  
+- **Home of the “Mighty”**: Onitsha is the birthplace of the Nigerian Premier League’s most iconic team, Enyimba FC. Their fans? A mix of passionate and slightly delusional.  
+
+## Local Food You Must Try  
+Onitsha’s food scene is a flavor bomb waiting to happen. Here’s what to prioritize:  
+- **Akara**: Deep-fried bean cakes that are like the Nigerian version of a donut, but way more delicious.  
+- **Suya**: Spicy meat skewers that’ll make your taste buds do a happy dance. Pair with a cold Zobo drink for maximum satisfaction.  
+- **Pounded Yam with Egusi Soup**: A staple that’s like a warm hug for your soul. Don’t be fooled by the “simple” description—this is comfort food at its finest.  
+- **Ofe Onye (Palm Nut Soup)**: Rich, creamy, and so good you’ll question why you ever ate bland food.  
+
+## A One-Day Itinerary  
+**Morning**: Start at the **Onitsha Market** (7 AM). Get lost, haggle, and buy a souvenir that’ll make your friends jealous.  
+**Midday**: Head to **St. Theresa’s Cathedral** for a quick spiritual boost (and a photo op with the iconic red-and-white façade).  
+**Afternoon**: Visit the **Njaba River** for a scenic walk or a boat ride. Pro tip: Bring a hat—solar panels are not a thing here.  
+**Evening**: Dine at **Otu Ora** for authentic Igbo cuisine. Then, end your day at the **Onitsha Night Market** (if you can find it—ask a local).  
+
+## Expectation vs. Reality  
+- **Expectation**: A chaotic, stressful city with no direction.  
+- **Reality**: A city where everyone knows your name (within 10 minutes) and is eager to show you around.  
+- **Expectation**: Food that’s “okay” at best.  
+- **Reality**: A culinary adventure so good, you’ll forget your phone exists.  
+- **Expectation**: A place that’s “too much.”  
+- **Reality**: A place that’s *just right*—if “right” means a mix of noise, flavor, and unforgettable memories.  
+
+## The Local’s Cheat Sheet  
+- **Transport**: Use *okadas* (motorcycles) for speed, but negotiate the price first. Taxis are safer for groups.  
+- **Etiquette**: Greet everyone. A simple “Nna m” (my father) or “Nwa m” (my mother) can open doors (and free snacks).  
+- **Hidden Gems**: The **Owelle Market** (not the main one) for unique crafts, and **Mgbidi Hill** for a view that’ll make you question why you ever left your couch.  
+
+## An Encouraging Conclusion  
+Onitsha isn’t just a destination—it’s a vibe. It’s where the food tastes like love, the people are warmer than a Nigerian sun, and every corner has a story. So, pack your curiosity, a sense of humor, and a strong stomach. Onitsha isn’t just worth visiting—it’s worth *remembering*. Now, go make some memories (and maybe a few new friends). 🌍✨
+16:Tdc8,
+## 欢迎来到奥尼查！——“非洲的热浪与辣椒的完美结合”  
+欢迎来到奥尼查，这里不仅有让你的手机电量瞬间消失的热浪，还有让你的味蕾跳踢踏舞的辣椒！如果你以为尼日利亚只有“非洲之角”和“沙漠绿洲”，那请收下这份来自奥尼查的“灵魂补给包”——这里藏着让世界惊叹的秘密！  
+
+## 3个冷知识：奥尼查的“隐藏技能”  
+- **“非洲硅谷”？** 奥尼查的纺织业让全球刮目相看！这里生产的布料能让你在非洲街头秒变时尚icon，甚至被欧洲品牌抢着买。  
+- **“辣椒的祖宗”？** 奥尼查的辣椒品种辣到连辣椒都怕它——当地人说：“这辣，是祖先的诅咒！”  
+- **“艺术节的王者”？** 每年举办的“奥尼查艺术节”规模堪比奥斯卡，但奖品是……一袋辣椒酱？（别问，问就是文化差异！）  
+
+## 必尝美食：辣到灵魂出窍的“味觉冒险”  
+- **Ogbono Soup**：用非洲坚果和辣椒熬制的浓汤，酸辣到让你怀疑人生，但吃完你会觉得“值了”！  
+- **Pounded Yam**：木薯泥配花生酱，口感像云朵，但配上辣椒酱后……请系好安全带！  
+- **Egusi Soup**：用葫芦籽熬制的汤，营养到让健身教练都嫉妒，但辣度可能让你的舌头跳探戈！  
+
+## 一日游攻略：24小时极限挑战！  
+**07:00** 起床！先去**Abonnji市场**淘宝，这里连空气都是香料味的。  
+**10:00** 前往**St. Mary Cathedral**，看看这座“非洲最炫教堂”如何用彩色玻璃让你怀疑人生。  
+**13:00** 品尝当地特色午餐，记得点“Moin Moin”（豆泥球），辣到你怀疑自己是不是被“辣”成了另一个物种。  
+**16:00** 前往**Ogbaru Fort**，这座19世纪的堡垒藏着殖民历史，但别指望它能给你“穿越感”——因为这里的门票是“请用辣椒酱换”。  
+**19:00** 晚上别错过**Ogbono Street Food Night**，吃遍所有辣味小吃，最后用一杯“Malty Beer”结束一天，记得别喝太多——你可能会被辣到吐出“啤酒味的辣椒”！  
+
+## 理想 vs. 现实：奥尼查的“双重人格”  
+**理想中的奥尼查**：  
+- 清晨阳光洒在棉花田上，微风带着花香。  
+- 街头有手工艺人用传统方法制作布料，每一块都像艺术品。  
+- 夜晚的市场灯火通明，音乐和笑声交织成诗。  
+
+**现实中的奥尼查**：  
+- 清晨的热浪让你怀疑自己是不是被太阳绑架。  
+- 街头的纺织厂轰鸣声比咖啡机还吵。  
+- 夜晚的市场灯光昏暗，但辣椒酱的香气让你忘记一切！  
+
+## 本地人秘籍：避开坑，玩转奥尼查  
+- **交通**：别指望出租车靠谱！用Uber或Grab，但记得提前和司机说好价格，否则你可能会被“友情价”坑到怀疑人生。  
+- **礼仪**：别碰别人的头！在奥尼查，这可是“冒犯神灵”的行为。  
+- **隐藏景点**：**Ogbaru Fort**的地下隧道是探险爱好者的天堂，但别带太多零食——因为那里可能有“神秘的辣椒酱”等着你！  
+
+## 走吧！奥尼查等你来“辣”！  
+如果你厌倦了千篇一律的旅游路线，奥尼查会用它的热浪、辣椒和热情，让你的旅行变得独一无二！别犹豫了——带上你的胃、你的勇气，还有对辣的承受力，来奥尼查体验一场“灵魂的归宿”！记住：这里没有“完美”，只有“辣到极致”的真实！
+9:["$","$L3","onitsha",{"post":{"date":"$D2025-12-10T00:00:00.000Z","createdAt":1765363558786,"city":{"en":"Onitsha","zh":"奥尼查","country":"Nigeria","countryZh":"尼日利亚"},"slug":"onitsha","photoUrl":"/images/cities/onitsha.jpg","model":"Qwen/Qwen3-30B-A3B","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"Qwen/Qwen3-30B-A3B","modelZh":"Qwen/Qwen3-8B","summaryEn":"Onitsha, Nigeria, is a vibrant city where chaos meets charm, offering a feast for the senses and a glimpse into Igbo culture. From bustling markets to mouthwatering food, this guide will make you eager to pack your bags.","summaryZh":"探索尼日利亚“非洲硅谷”的魅力，从热浪到美食的极致体验。","contentEn":"$15","contentZh":"$16"}}]
+a:["$","nav",null,{"className":"mt-10 flex flex-wrap items-center gap-2","aria-label":"Pagination","children":[[["$","a","1",{"href":"/","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":1}],["$","a","2",{"href":"/page/2","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":2}],["$","a","3",{"href":"/page/3","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":3}],["$","a","4",{"href":"/page/4","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":4}],["$","a","5",{"href":"/page/5","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":5}],["$","a","6",{"href":"/page/6","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":6}],["$","a","7",{"href":"/page/7","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":7}],["$","a","8",{"href":"/page/8","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":8}],["$","a","9",{"href":"/page/9","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":9}],["$","a","10",{"href":"/page/10","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":10}],["$","a","11",{"href":"/page/11","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":11}],["$","a","12",{"href":"/page/12","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":12}],["$","a","13",{"href":"/page/13","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":13}],["$","a","14",{"href":"/page/14","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":14}],["$","a","15",{"href":"/page/15","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":15}],["$","a","16",{"href":"/page/16","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":16}],["$","a","17",{"href":"/page/17","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":17}],["$","a","18",{"href":"/page/18","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":18}],["$","a","19",{"href":"/page/19","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":19}],["$","a","20",{"href":"/page/20","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":20}],["$","a","21",{"href":"/page/21","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":21}],["$","a","22",{"href":"/page/22","aria-current":"page","className":"px-4 py-2 rounded border text-sm font-medium text-white bg-blue-600 border-blue-600","children":22}]],["$","span",null,{"className":"ml-2 text-sm text-gray-500","children":["Page ",22," of ",22]}]]}]
+b:["$","$L17",null,{}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/64185856f3d01436.js","async":true}]
+d:["$","script","script-1",{"src":"/_next/static/chunks/50da8c85b8b02a97.js","async":true}]
+e:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+1a:null
