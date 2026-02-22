@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+2:I[2971,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"default"]
+3:I[16658,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"default"]
+4:I[5500,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"Image"]
+b:I[22016,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],""]
+c:I[13642,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"default"]
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+5:Td02,## Welcome to San Isidro de El General: Where the Coffee’s Strong and the Hills Are Stronger  
+
+Ah, San Isidro de El General—the bustling little heart of Costa Rica’s southern zone. If you’re expecting a sleepy town, think again. This place is like a caffeinated squirrel: energetic, slightly chaotic, and full of surprises. Whether you’re here for the mountains, the food, or just to escape the tourist hordes, buckle up. Adventure (and probably a few wrong turns) awaits.  
+
+## 3 Fun Facts That’ll Make You Sound Like a Local  
+
+1. **It’s the Gateway to the Chirripó Hike** – San Isidro is the launching pad for Costa Rica’s tallest peak, Cerro Chirripó. Locals will nod approvingly if you mention it—just don’t admit you’re only here for the coffee.  
+2. **The Weather Has Mood Swings** – One minute it’s sunny, the next it’s pouring. Pack like you’re preparing for four seasons in one day.  
+3. **It’s a Cow Town** – Seriously, cattle farming is huge here. If you hear a moo, you’re not hallucinating.  
+
+## Local Food You Must Try (Or Risk Offending the Food Gods)  
+
+- **Chicharrones**: Not just any fried pork—this is crispy, salty perfection, best enjoyed with a cold Imperial beer.  
+- **Churchill**: A ridiculous (but delicious) ice cream sundae with syrup, condensed milk, and powdered milk. It’s like a sugar coma in a cup.  
+- **Olla de Carne**: A hearty beef stew that’ll make you question why you ever settled for canned soup.  
+
+## One-Day Itinerary: How to Fake a Deep Connection with San Isidro  
+
+**Morning**: Start with a strong coffee at **Café del Sur**. Then, hit the **Mercado Central** for a chaotic but charming glimpse of local life (and maybe a Churchill for breakfast—no judgment).  
+**Afternoon**: Drive to **Los Crestones**, a stunning rock formation in the nearby mountains. Bring a picnic or just stare at the views like a contemplative philosopher.  
+**Evening**: Dinner at **Soda La Amistad** for authentic Tico fare. End the night at **Bar La Cueva**, where the karaoke is questionable but the vibes are immaculate.  
+
+## Expectation vs. Reality: A Humorous Reality Check  
+
+- **Expectation**: A serene mountain town where time moves slowly.  
+- **Reality**: A lively, slightly dusty hub where motorcycles outnumber stoplights and everyone knows *someone* who knows *someone*.  
+- **Expectation**: Effortlessly blending in with the locals.  
+- **Reality**: Stumbling over Spanish phrases while a patient abuela gently corrects you.  
+
+## The Local’s Cheat Sheet: How to Not Stick Out Like a Lost Tourist  
+
+- **Transport**: Buses are cheap but unpredictable. Taxis are safer but negotiate the fare first. Better yet, rent a car if you’re brave enough to tackle Costa Rican roads.  
+- **Etiquette**: Say “buenas” to everyone. It’s like a social handshake. Also, don’t rush—Tico time is a real thing.  
+- **Hidden Gem**: **Café del Patio** is a cozy spot with killer coffee and even better gossip.  
+
+## Conclusion: Go Forth and Embrace the Chaos  
+
+San Isidro de El General might not be postcard-perfect, but that’s what makes it special. It’s real, it’s lively, and it’ll leave you with stories (and maybe a few blisters from hiking). So grab your sense of adventure, pack your patience, and dive in. Pura vida, amigos!  
+0:{"buildId":"m8NMWt50jh2MsZF72ypkG","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50 flex flex-col","children":[["$","$L2",null,{}],["$","$L3",null,{"currentLang":"en","city":"san-isidro-de-el-general"}],["$","main",null,{"className":"container mx-auto px-4 py-12 flex-grow","children":["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"w-full rounded-lg overflow-hidden mb-8 bg-gray-100 aspect-[16/9]","children":["$","$L4",null,{"src":"/images/cities/san-isidro-de-el-general.jpg","alt":"San Isidro de El General, Costa Rica","width":1600,"height":900,"unoptimized":true,"className":"w-full h-auto object-contain","priority":true}]}],["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center justify-between mb-4","children":[["$","div",null,{"children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-2","children":"San Isidro de El General"}],["$","p",null,{"className":"text-xl text-gray-600","children":"Costa Rica"}]]}],["$","time",null,{"className":"text-gray-500","children":"December 29, 2025"}]]}],["$","div",null,{"className":"flex flex-col gap-1 text-sm text-gray-600","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"children":"Model:"}],["$","a",null,{"href":"https://huggingface.co/deepseek-ai/DeepSeek-V3","target":"_blank","rel":"noreferrer","className":"text-blue-600 hover:text-blue-700","children":"deepseek-ai/DeepSeek-V3"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"children":"Image Model:"}],["$","a",null,{"href":"https://huggingface.co/Tongyi-MAI/Z-Image-Turbo","target":"_blank","rel":"noreferrer","className":"text-blue-600 hover:text-blue-700","children":"Tongyi-MAI/Z-Image-Turbo"}]]}]]}]]}],["$","section",null,{"className":"mb-12","children":["$","div",null,{"className":"prose prose-lg max-w-none text-gray-700 leading-relaxed","children":[["$","pre","pre-0",{"children":["$","code","code-0",{"className":"language-markdown","children":"$5"}]}]]}]}],"$L6"]}]}],"$L7"]}],["$L8","$L9"],"$La"]}],"loading":null,"isPartial":false}
+6:["$","div",null,{"className":"mt-8 pt-8 border-t border-gray-200","children":["$","$Lb",null,{"href":"/","className":"text-blue-600 hover:text-blue-700 font-medium inline-flex items-center gap-2","children":["← ","Back to all posts"]}]}]
+7:["$","$Lc",null,{}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/113dc32f99943d80.js","async":true}]
+9:["$","script","script-1",{"src":"/_next/static/chunks/be78025b4d4e3fe7.js","async":true}]
+a:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

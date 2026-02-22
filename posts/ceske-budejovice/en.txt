@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+2:I[30824,["/_next/static/chunks/dc38a887bd16fbf2.js"],"default"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+d:I[68027,[],"default"]
+:HL["/_next/static/chunks/be05634157e6f128.css","style"]
+0:{"P":null,"b":"m8NMWt50jh2MsZF72ypkG","c":["","posts","ceske-budejovice","en"],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["city","ceske-budejovice","d"],{"children":[["lang","en","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/be05634157e6f128.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/dc38a887bd16fbf2.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/113dc32f99943d80.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/be78025b4d4e3fe7.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:I[2971,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"default"]
+f:I[16658,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"default"]
+10:I[5500,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"Image"]
+11:Tb74,# České Budějovice: Where Beer Flows and Squares Glow  
+
+## 1. Welcome to the Land of Giant Beer Mugs and Tiny Streets  
+Ah, České Budějovice—the city where the beer is cheaper than water, and the streets are so charming you’ll accidentally walk into a 13th-century building while staring at your map. If Prague is the flashy older sibling, Budějovice is the cool, underrated cousin who knows all the best spots.  
+
+## 2. Fun Facts That’ll Make You the Star of Your Next Pub Quiz  
+- **Home of Budweiser (the original one):** Sorry, America, but the *real* Budweiser hails from here. The Czechs have been brewing it since 1795, and they’re still side-eyeing St. Louis.  
+- **The Biggest Square in the Czech Republic:** Naměstí Přemysla Otakara II is so large you could fit a small village in it (or at least a lot of confused tourists).  
+- **A Tower That Leans (But Not Like Pisa):** The Black Tower has a slight tilt, but unlike its Italian rival, it’s not showing off—just gracefully aging.  
+
+## 3. Food You Must Try (Or Risk Offending the Locals)  
+- **Kulajda:** A creamy potato soup with mushrooms and a poached egg. It’s like a hug in a bowl, but fancier.  
+- **Svickova:** Beef in a creamy sauce with bread dumplings. If you don’t order this, did you even go to Czechia?  
+- **Budějovický Budvar:** Not technically food, but the local beer is so good it deserves its own category. Drink it. Thank us later.  
+
+## 4. One-Day Itinerary: How to Conquer Budějovice in 24 Hours  
+- **Morning:** Start at the Black Tower for panoramic views (and to burn off breakfast guilt).  
+- **Midday:** Wander the square, then hit the Budweiser Brewery for a tour (and samples—because it’s 5 o’clock somewhere).  
+- **Afternoon:** Stroll along the Malše River or get lost in the Samson Fountain’s mythology.  
+- **Evening:** Dinner at *Masné Krámy*, a medieval butcher’s hall turned restaurant. Order the pork knee and pretend you’re a king.  
+
+## 5. Expectation vs. Reality  
+- **Expectation:** A quiet, sleepy town where nothing happens.  
+- **Reality:** A vibrant city where the beer flows like a river, the history slaps you in the face, and you’ll somehow end up in a pub debating Czech politics with a friendly local.  
+
+## 6. The Local’s Cheat Sheet**  
+- **Transport:** Walk everywhere—the city center is compact. Trains to Prague take ~2.5 hours.  
+- **Etiquette:** Say “Dobrý den” (hello) when entering shops. Tipping ~10% is polite.  
+- **Hidden Gem:** *Pivovar Krajinská* is a cozy microbrewery with killer dark beer.  
+
+## 7. Final Thoughts: Go, Explore, and Drink Responsibly (Or Don’t)  
+České Budějovice is a gem waiting to be discovered—whether you’re here for the history, the food, or the beer (let’s be real, it’s the beer). So pack your bags, bring your stretchy pants, and get ready to fall in love with this underrated Czech darling. Na zdraví!  
+5:["$","div",null,{"className":"min-h-screen bg-gray-50 flex flex-col","children":[["$","$Le",null,{}],["$","$Lf",null,{"currentLang":"en","city":"ceske-budejovice"}],["$","main",null,{"className":"container mx-auto px-4 py-12 flex-grow","children":["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"w-full rounded-lg overflow-hidden mb-8 bg-gray-100 aspect-[16/9]","children":["$","$L10",null,{"src":"/images/cities/ceske-budejovice.jpg","alt":"Ceske Budejovice, Czechia","width":1600,"height":900,"unoptimized":true,"className":"w-full h-auto object-contain","priority":true}]}],["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center justify-between mb-4","children":[["$","div",null,{"children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-2","children":"Ceske Budejovice"}],["$","p",null,{"className":"text-xl text-gray-600","children":"Czechia"}]]}],["$","time",null,{"className":"text-gray-500","children":"December 24, 2025"}]]}],["$","div",null,{"className":"flex flex-col gap-1 text-sm text-gray-600","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"children":"Model:"}],["$","a",null,{"href":"https://huggingface.co/deepseek-ai/DeepSeek-V3","target":"_blank","rel":"noreferrer","className":"text-blue-600 hover:text-blue-700","children":"deepseek-ai/DeepSeek-V3"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"children":"Image Model:"}],["$","a",null,{"href":"https://huggingface.co/Tongyi-MAI/Z-Image-Turbo","target":"_blank","rel":"noreferrer","className":"text-blue-600 hover:text-blue-700","children":"Tongyi-MAI/Z-Image-Turbo"}]]}]]}]]}],["$","section",null,{"className":"mb-12","children":["$","div",null,{"className":"prose prose-lg max-w-none text-gray-700 leading-relaxed","children":[["$","pre","pre-0",{"children":["$","code","code-0",{"className":"language-markdown","children":"$11"}]}],"\n","$L12","\n","$L13"]}]}],"$L14"]}]}],"$L15"]}]
+16:I[22016,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],""]
+17:I[13642,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"default"]
+12:["$","hr","hr-0",{}]
+13:["$","p","p-0",{"children":["$","strong","strong-0",{"children":"END OF OUTPUT"}]}]
+14:["$","div",null,{"className":"mt-8 pt-8 border-t border-gray-200","children":["$","$L16",null,{"href":"/","className":"text-blue-600 hover:text-blue-700 font-medium inline-flex items-center gap-2","children":["← ","Back to all posts"]}]}]
+15:["$","$L17",null,{}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+c:[["$","title","0",{"children":"See the World by LLM - Daily City Discoveries"}],["$","meta","1",{"name":"description","content":"Discover a new city every day through AI-generated insights. Bilingual content in English and Chinese exploring cities around the world."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.db1ddbfa.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L18","3",{}]]
+8:null

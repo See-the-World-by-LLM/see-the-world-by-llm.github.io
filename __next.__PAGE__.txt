@@ -1,0 +1,1160 @@
+1:"$Sreact.fragment"
+2:I[2971,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+3:I[95752,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+39:I[13642,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+3a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3b:"$Sreact.suspense"
+4:T1486,
+## Welcome to Songkhla: Where Thailand Forgets to Be Touristy
+
+So you've been to Bangkok, you've island-hopped Phuket, and you're thinking, "What's next? Another beach town?" Enter Songkhla, the scruffy-but-loveable middle child of southern Thailand that your guidebook probably skipped. Nestled on a skinny peninsula between the Gulf of Thailand and a lake the size of Singapore, this city is where authentic Thai-Malay culture collides with a distinct "wait, what?" charm. It's less polished than its neighbors, but that's exactly why you'll brag about it later.
+
+## Fun Facts That Make You Go "Huh, Really?"
+
+1. **The Mermaid Has Nine Lives**: Songkhla's iconic Golden Mermaid statue has been decapitated **three times** since 2005—twice by vandals and once by a thunderstorm. She keeps getting fixed, presumably with extra neck reinforcements and trust issues.
+
+2. **Lake vs. Sea Real Estate**: You can watch the sunrise over Songkhla Lake (Thailand's largest natural lake) and the sunset over the Gulf of Thailand **on the same day**, making it the ultimate "I maximized my water views" flex.
+
+3. **Cat and Mouse: The Political Satire Sculpture**: The city has a famous statue of a cat and mouse that supposedly represents a star-crossed love legend, but locals joke it's actually about government corruption. Interpret that how you will.
+
+## Food That'll Make Your Taste Buds Do a Double-Take
+
+**Khao Yam** is the Beyoncé of Songkhla cuisine—a colorful rice salad tossed with toasted coconut, herbs, dried shrimp, and a funky-sweet fish sauce dressing. You'll find locals eating this for breakfast, which is your cue to abandon cereal forever.
+
+**Fish cakes** here aren't the sad frozen pucks you know. They're bouncy, fragrant disks of pure ocean joy, often served with a sweet cucumber-peanut sauce that you'll want to bathe in.
+
+**Roti with curry** at a Muslim-Thai teashop is mandatory. The flaky, buttery flatbread arrives hot enough to melt your fingerprints while you tear it apart and dunk it into rich, spicy curry. Breakfast of champions, or honestly, any meal of champions.
+
+## Your 24-Hour "I Did Songkhla" Itinerary
+
+**7:00 AM**: Hit Samila Beach before the sun gets cocky. Pose with the (intact-for-now) mermaid statue. The early light makes her look almost serene, not "I've been attacked multiple times."
+
+**9:00 AM**: Breakfast at a local **khao yam** spot. Order by pointing at what someone else is eating and smiling enthusiastically.
+
+**10:30 AM**: Stroll through Old Town Sino-Portuguese shophouses. Instagram the street art. Pretend you know about architecture.
+
+**12:30 PM**: Lunch at a waterfront seafood joint. Order the whole fish and feel both fancy and slightly guilty.
+
+**2:00 PM**: Escape the heat at the **National Museum** (air conditioning is a cultural experience). Learn about Songkhla's port history in 20 minutes, then spend 40 minutes appreciating the cool marble floors.
+
+**4:00 PM**: Rent a motorbike and circumnavigate Songkhla Lake. Stop at the **Tang Kuan Hill viewpoint** for sweaty-but-worth-it panoramas.
+
+**7:00 PM**: Dinner at **Night Market**. Follow the smoke clouds to find grilled seafood. Buy mystery snacks. Regret nothing.
+
+## Expectation vs. Reality: The Songkhla Edition
+
+**Expectation**: A sleepy fishing village where time stands still and locals smile beatifically while weaving fishing nets.
+
+**Reality**: A functional city with traffic, university students, and that one aggressive tuk-tuk driver who quotes you 500 baht for a 2km ride. The fishing nets are now made in China and the locals are too busy living their lives to be your Instagram backdrop. But the *real* reality? You'll love it precisely because it doesn't cater to tourists. When you find that perfect coffee shop with the owner who doesn't speak English but insists you try her homemade cake, you'll get it.
+
+## The Local's Cheat Sheet
+
+**Getting Around**: Songthaews (pickup truck taxis) cost 20-30 baht if you can figure out their cryptic routes. Motorbike rental is 200 baht/day—your best bet for lake exploration. Tuk-tuks are for emergencies or when you've given up on budgeting.
+
+**Dress Code**: Cover shoulders and knees when visiting temples. Yes, even in the heat. Think "respectful" not "runway ready."
+
+**Hidden Gem**: The **Prince of Songkla University Aquarium** is weirdly charming and nearly empty. Feed the fish, judge the taxidermy, and enjoy being the only tourist.
+
+**Secret Weapon**: **Ko Yo Island** (connected by bridge) has a silk weaving village where you can watch grandmas operate looms faster than your WiFi. Buy a scarf; feel cultured.
+
+**Best Time**: February to April for dry weather and minimal headless mermaid drama.
+
+## Go Forth and Songkhla
+
+Look, Songkhla isn't going to hold your hand or give you a participation trophy for showing up. It's a city that asks you to work a little—learn a few Thai phrases, navigate the chaos, eat rice salad before noon. But that's the magic. You'll leave with stories about the time you accidentally crashed a local wedding (free food!), or how you befriended a cat at the mouse statue. It's Thailand without the training wheels, and you're absolutely ready for it. The mermaid's waiting. Try not to decapitate her with your selfie stick.
+5:T1491,
+## 🌴 欢迎来到甲米：这里不是度假村，是泰式荒野求生真人秀！
+
+嘿，亲爱的旅行者！欢迎来到甲米——一个你以为会躺在沙滩上喝椰子水、看日落、灵魂升华的地方——结果第一天就被猴子抢了墨镜，第二天被水牛挡了路，第三天发现你租的电动摩托其实是“复古怀旧款”，油门踩下去它会哼《小苹果》。
+
+别慌，这很正常。甲米从不承诺宁静，它承诺的是**真实、荒诞、和满嘴芒果香的回忆**。
+
+## 🤯 3个让你怀疑人生的甲米冷知识
+
+1. **甲米的“翡翠池”其实是个天然游泳池，但水温会随月亮变冷**——据说满月那晚跳进去，你会被冻到怀疑人生，但当地人说：“那是海神在给你洗灵魂。”（建议穿泳裤，别穿内裤，因为你会被拍下来发TikTok。）
+2. **甲米有超过140个海岛，但只有3个有WiFi**——其他岛屿的信号还不如你奶奶的蓝牙音箱。当地人说：“没WiFi？那才是真正的度假。”（你：但我刚发了27条Instagram！）
+3. **甲米的猴子会开电动摩托**——不是开玩笑。2021年，一只叫“Tommy”的长尾猴真的骑着租来的电动车，从奥南海滩一路飙到Krabi Town，最后被警察拦下，原因是“无证驾驶+未戴头盔”。他被罚了一串香蕉，现在在动物园当网红。
+
+## 🍍 必尝的5种甲米美食（别问，吃了就懂）
+
+- **芒果糯米饭+椰奶冰沙**：甜到能治愈前任，但小心——你吃完会想立刻结婚，然后移民甲米。
+- **泰式炒河粉（Pad Thai）**：在街头小摊，老板会边炒边跟你聊人生：“你为什么来甲米？”你答：“放松。”他笑：“那你得先学会被猴子抢饭。”
+- **炸昆虫拼盘**：别脸红！这是甲米版“薯条”。蚱蜢脆、蚕蛹嫩、蝎子…嗯…有嚼劲。配啤酒，一口一个，灵魂升华。
+- **椰子冰淇淋**：用整颗椰子当碗，挖着吃。吃完后，你可以把椰壳当花盆，或者当鼓敲——当地人说，敲三下，好运来。
+- **甲米特色咖喱鱼头**：鱼头大到能当枕头，咖喱浓到能当墙漆。吃完后，你的眼睛会发光，邻居以为你中了魔法。
+
+## ⏰ 24小时甲米极限挑战攻略（别睡！）
+
+**06:00**：爬上**卧佛寺（Wat Tham Sua）**的1237级台阶——为了看日出。别数台阶，数猴子。你爬到一半，它会从树上跳下来，抢你水瓶，然后冲你放个屁。
+
+**08:30**：坐船去**皮拉岛（Poda Island）**——这里的白沙像撒了糖霜，海水蓝得像滤镜开了200%。记住：别脱鞋！沙子烫得能煎蛋。
+
+**12:00**：在**Krabi Town市场**吃午饭+买椰子。老板会问你：“要带壳走吗？”你点头，他笑：“那你得自己拎到酒店。”（你：我刚买了6个…）
+
+**15:00**：租个电动摩托（别信广告），去**翡翠池**。路上你会遇到：1头牛、3只鸡、2个迷路的游客，和一个用手机导航但信号为0的德国人。
+
+**18:00**：在**Railay Beach**看日落。坐在吊床上，喝椰子，听海浪。然后——一只猴子从天而降，偷走你的防晒霜。
+
+**21:00**：回镇上吃夜宵，看街头卖唱的泰国大叔弹吉他唱《爱情买卖》。你哭了。不是因为歌，是因为你发现你竟听懂了。
+
+## 😅 理想 vs. 现实：甲米版
+
+| 理想 | 现实 |
+|------|------|
+| 安静沙滩，只有海浪和我 | 沙滩上有5个卖椰子的、3个推按摩的、2个追着你卖手链的，和1只想和你合影的猴子 |
+| 漂亮日落，配红酒 | 日落很美，但你手里的“红酒”其实是椰子水+糖浆+蚊子标本 |
+| 悠闲骑行环岛 | 你骑了500米，车链断了，路边有位老奶奶用竹子帮你修好，还送你一颗芭乐 |
+| 写诗、冥想、找自我 | 你坐在石头上冥想，结果被一群蚂蚁围攻，它们觉得你身上有芒果味 |
+
+## 🧭 本地人秘籍：不告诉你，你就完了！
+
+- **交通**：别租电动摩托！除非你想在第3天变成“人类滑板”。用**双条车（Songthaew）**，上车先谈价，否则司机可能带你绕去他家吃晚饭。
+- **礼仪**：猴子不是宠物，是“岛主”。别对它们瞪眼，别拿食物逗它们，别在它们吃的时候拍照——否则你会被拍成“人类挑衅者”在Facebook病毒传播。
+- **隐藏景点**：**Klong Thom Hot Springs**——免费温泉！藏在丛林深处，导航没用，问当地人：“有没有水热热的、能泡澡、还有青蛙叫的？”他们会指着一条小路，笑而不语。你跟着走，会发现——哇！温泉里还有人带着狗一起泡！
+
+## 🌞 最后一句：别犹豫了，来甲米！
+
+你想要的宁静？这里没有。  
+你想要的冒险？这里多到爆。  
+你想要的美食？吃一口你就想改国籍。  
+你想要的回忆？猴子会帮你拍Vlog。
+
+甲米不是天堂——它是**热带喜剧片的片场，而你，是主角**。  
+来吧，带上防晒霜、好心情，和一颗准备好被猴子抢劫的心。  
+我们在这里，等你笑出眼泪，然后发朋友圈配文：“甲米，我回来了，这次，我带了防猴头盔。” 🐒🌴
+0:{"buildId":"m8NMWt50jh2MsZF72ypkG","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50 flex flex-col","children":[["$","$L2",null,{}],["$","main",null,{"className":"container mx-auto px-4 py-12 flex-grow","children":[["$","div",null,{"className":"grid gap-8 md:grid-cols-2 lg:grid-cols-2","children":[["$","$L3","songkhla",{"post":{"date":"$D2026-02-22T00:00:00.000Z","createdAt":1771761741741,"city":{"en":"Songkhla","zh":"甲米","country":"Thailand","countryZh":"泰国"},"slug":"songkhla","photoUrl":"/images/cities/songkhla.jpg","model":"moonshotai/Kimi-K2-Thinking","imageModel":"stabilityai/stable-diffusion-3.5-large","modelEn":"moonshotai/Kimi-K2-Thinking","modelZh":"Qwen/Qwen3-Next-80B-A3B-Instruct","summaryEn":"Discover Songkhla, Thailand's overlooked coastal gem where mermaids lose their heads and locals eat rice salad for breakfast. This guide reveals why this quirky city deserves 24 hours of your itinerary—and maybe a few more.","summaryZh":"你以为你来的是安静海滨小城，结果发现这里是泰式搞笑综艺现场——甲米的椰子会砸人，猴子比导游更懂路线，而你刚买的芒果糯米饭，已经被一只穿拖鞋的松鼠偷吃了一半。别怕，这正是它的魅力。","contentEn":"$4","contentZh":"$5"}}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le"]}],"$Lf"]}],"$L10"]}],["$L11","$L12"],"$L13"]}],"loading":null,"isPartial":false}
+14:T1558,
+## Kia Ora, You Magnificent Explorer! Welcome to Ōtautahi (Christchurch)
+
+So, you’ve landed in Christchurch, the city that proudly wears its title as the "Garden City" and has more roundabouts than a politician's speech. Forget what you think you know; this isn't just a stopover before the mountains. Christchurch is the cool, quirky friend who’s been through a lot but still knows how to have a ridiculously good time. It’s a place where English heritage and Kiwi ingenuity have a weird and wonderful baby, complete with a river running through its heart and a tram running through its… well, city centre. Buckle up, buttercup. Adventure (and possibly a confused pigeon) awaits.
+
+## Fun Facts That'll Make You the Hit of the Hostel
+
+*   **The Name Game:** Trying to say "Christchurch" is a mouthful, right? Good news! The Māori name for the city is **Ōtautahi** (oh-tau-tah-hee). It translates to "the place of Tautahi," named after a chief who once had a village here. Use it, and locals will nod in quiet approval.
+*   **A Very Tall Tipple:** Christchurch is home to the **Christchurch Casino**, which is housed in the old Government Buildings. While gambling might not be your thing, the building itself is historically significant. More importantly, just down the road, you'll find a pub that claims to have **the tallest bar in New Zealand**. It’s a lofty claim, and frankly, one best investigated personally.
+*   **Bridge of (Broken) Locks:** Like many cities, Christchurch has a love lock bridge. Unlike many cities, a good number of the locks are **broken**. It’s not a symbol of failed romance, but rather a testament to the 2011 earthquake that shook the city. It’s a strangely poignant and unique sight.
+
+## Get It In Your Gob: Local Food You Must Try
+
+You cannot, and I mean *cannot*, leave without trying a **cheesy, savoury mince pie** from a local bakery. It’s the unofficial food of New Zealand, and it will solve all your hunger-related problems. For something sweeter, track down a **Pacific-style pie** from a place like Fiddlesticks – think pulled pork, apple, and cinnamon. Washed down with a local craft beer from the brilliantly named **Pomeroy's Old Brewery Inn** or a cup of seriously good coffee (Kiwis are snobs about it, and for good reason), you’ll be fuelled for exploration.
+
+## The "I Only Have 24 Hours" Sprint
+
+*   **Morning (9 AM):** Start at the **Christchurch Botanic Gardens**. It’s free, stunning, and the perfect place to shake off that jet lag. Find the giant, weirdly fascinating daffodil sculpture and take the obligatory photo.
+*   **Late Morning (11 AM):** Stroll through the gardens to the **Canterbury Museum** right next door. It’s packed with fascinating history, including an incredible Antarctic exhibit and a delightfully bizarre Victorian street.
+*   **Lunch (1 PM):** Head to the **Riverside Market** for lunch. This indoor food hall is a paradise of options. Grab a famous **Samurai Bowl** from the iconic little red food truck, or sample literally anything else that catches your eye.
+*   **Afternoon (2:30 PM):** From the market, hop on the **historic tram** for a city tour. It’s a hop-on, hop-off service that takes you past all the major sights, giving your feet a well-deserved break.
+*   **Late Afternoon (4 PM):** Use the tram to get to the **Christchurch Art Gallery Te Puna o Waiwhetū**. It’s a architectural marvel with incredible, often interactive, exhibitions. And it’s free!
+*   **Evening (6 PM):** For your final act, take a **punting tour on the Avon River**. Glide peacefully in a flat-bottomed boat, pushed by a punter in traditional Edwardian gear. It’s the most Christchurch experience imaginable. Follow it up with a final dinner and drink in the revitalised **Terrace precinct**.
+
+## Expectation vs. Reality
+
+*   **Expectation:** A quiet, sleepy, English-style city full of retirees and rose gardens.
+*   **Reality:** A vibrant, innovative hub where cutting-edge street art covers shipping container malls, where the beer flows as freely as the river, and where the spirit of reinvention is palpable. It’s less "jolly good, old chap" and more "sweet as, let's rebuild this place with colour and crazy ideas."
+
+## The Local’s Cheat Sheet
+
+*   **Transport:** Your legs are your best friend in the central city. It’s flat and very walkable. For longer journeys, the Metro bus system is reliable, but you’ll need a **Metrocard** for cheaper fares (get one from a library or bus interchange). Uber and Zoomy also work well.
+*   **Etiquette:** **Don’t jaywalk.** Christchurch drivers are polite but they will mercilessly (and rightly) honk at you. Always wait for the green man. Also, always say thank you to the bus driver when you get off. It’s the law. (Not really, but it should be.)
+*   **Hidden Gem:** Skip the crowded gondola and head to **Godley Head** for an absolutely breathtaking coastal walk with epic views over the ocean and Lyttelton Harbour. You’ll earn those fish and chips afterwards.
+
+## Go Forth and Explore!
+
+Christchurch is a city that will surprise you. It’s resilient, beautiful, and has a fantastic sense of humour about itself. It doesn’t take itself too seriously, and neither should you. So get out there, eat the pie, pet a sheep (from a respectful distance, they’re kinda grumpy), and fall in love with the incredible energy of a city that’s constantly rising. Chur, Christchurch! You’re a legend.
+15:T1829,
+## 俏皮的欢迎语
+
+准备好来一座“摇”出来的惊喜之城了吗？欢迎来到基督城，一座正经的英伦外表下，藏着一颗不羁、艺术且略带“泥石流”气质心脏的城市。忘掉那些刻板的旅游指南，带上你的好奇心和笑点，跟我一起解锁这座花园之城的正确打开方式！
+
+## 城市冷知识，让你秒变“懂王”
+
+想在朋友面前炫耀一下？收下这三个冷知识，你就是朋友圈里最亮的星：
+
+1.  **城里可能有“过路企鹅”**：你没看错！除了在羊比人多的国家里当“村民”，一些勇敢的小蓝企鹅偶尔会心血来潮，从附近的港口溜达到市中心探险。如果你在夜间码头附近看到一个摇摇摆摆的小家伙，恭喜你，中了大奖！记得保持距离，它只是个想体验城市夜生活的宝宝。
+2.  **雅芳河有个“冒牌货”**：城里那艘让你少女心泛滥的平底船所在的雅芳河，其实名字是为了致敬其创始人家乡的……**苏格兰雅芳河**，而不是莎士比亚故乡（英格兰斯特拉特福）的那条。所以，撑船小哥念的诗句很可能跟莎翁没关系，别尬聊了！
+3.  **“先有教堂，后有城”**：基督城的名字来源于牛津的基督教堂学院。城市的规划者就是照着一个理想的英国大学城来设计的，所以它的中心必须是——大教堂。虽然地震后原址还在修复，但这“学院”般的基因是刻在骨子里的。
+
+## 填饱肚子：必尝美食清单
+
+旅行不唯有风景，还有“风味”！
+
+*   **肉派**：这绝对是新西兰的“国民食堂”！不是你想的那种甜派，而是酥脆外皮包裹着各种浓郁馅料的“肉炸弹”。从经典的牛排芝士到咖喱鸡，再来一勺番茄酱，一口下去，灵魂都得到了升华。找个本地派的店，比如Highgate Bakery或The Posh Pie，幸福感爆棚。
+*   **帕夫洛娃**：关于这道甜点到底是新西兰还是澳洲发明的，两国已经吵了几百年了。但在基督城，你不用管那么多，只管享用！外层酥脆、内里绵软如云朵的蛋白霜，配上厚厚的奶油和新鲜浆果，轻盈又罪恶，是减肥路上的“甜蜜绊脚石”。
+*   **本地精酿啤酒与咖啡**：Kiwi对咖啡的执着深入骨髓。一杯地道的Flat White（馥芮白）是唤醒清晨的必备良药。到了晚上，则属于精酿啤酒。基督城有不少优秀的精酿酒厂，比如Three Boys Brewery或The Craft Beer Bar，尝一杯Hazy Pale Ale，和当地人聊聊天气，瞬间融入。
+
+## 24小时极限挑战：基督城一日游攻略
+
+如果你的时间像裤腰带一样紧，这份攻略请收好：
+
+*   **上午 (9:00 - 12:00)**：从**植物园**开始，在玫瑰园和蕨类植物温室里做个“森系”青年。然后，步行至**雅芳河**，体验一次“伪·英伦贵族”的**平底船**之旅，让撑船小哥用英（带口音的）式英语为你解说。
+*   **中午 (12:00 - 14:00)**：直奔**市中心农贸市场**，这里是美食爱好者的天堂。买个热腾腾的肉派，再来份青口，找个位置坐下，感受人间烟火气。
+*   **下午 (14:00 - 17:00)**：来一场“城市寻宝”！以**纸板大教堂**为起点，沿着街道欣赏那些由地震废墟和灰色墙壁上“长”出来的**街头涂鸦艺术**。你会发现，整座城市就是一个巨大的、不断更新的画廊。
+*   **晚上 (17:00以后)**：在**New Regent Street**这条西班牙风情的彩色街道上，找家餐厅享用晚餐。饭后，登上**南极体验中心**的观景平台或找个高地酒吧，俯瞰华灯初上的城市夜景，为这充实的一天干杯。
+
+## 理想 vs. 现实：别被宣传照骗了！
+
+让我们来一场灵魂拷问，你想象中的基督城和你遇到的，可能有点不一样……
+
+**理想中的基督城**：
+> 在雅芳河上，我优雅地坐着平底船，微风拂过，阳光正好。我穿着碎花裙，像《唐顿庄园》里的大小姐。
+> 在植物园里，我与松鼠和鸽子嬉戏，岁月静好。
+> 走在英式风情的街道上，每个路人都对我微笑致意，说着“Cheers, mate!”。
+
+**现实中的基督城**：
+> 坐平底船是真的，但风可能有点大，吹得你的碎花裙变成了“风火轮”。拍照时要抓紧手机，不然它就为河流“献身”了。船小哥很热情，但他可能更关心下一趟的客人。
+> 植物园里没有松鼠，但有一大群超有“地盘意识”的鸭子，会追着你讨食，气势汹汹。
+> 路人确实很友善，但他们口中的“Sweet as, bro!”会让你一度怀疑自己的英语水平。别纠结，翻译过来就是“牛逼！”的意思，这是赞美！
+
+## 本地人秘籍：像Kiwi一样玩转基督城
+
+1.  **交通篇**：别迷信那个可爱的复古**有轨电车**，它主要是给游客绕圈圈用的。本地人出行靠的是**Metrocard公交卡**，或者干脆骑自行车（城市很平坦）。市中心不大，用“11路”（步行）探索才是最佳方式。
+2.  **礼仪篇**：在New Regent街那条漂亮的轨道上拍照，请务必左顾右盼！有轨电车真的会来，司机和本地人已经对“堵在路中间的自拍游客”见怪不怪了，但咱还是要做个有素质的旅行者。
+3.  **隐藏景点篇**：别只在市中心打转！花半小时车程去旁边的**利特尔顿**，这是一个充满波西米亚风情的港口小镇。在山坡上俯瞰海港，逛逛古董店和独立咖啡馆，你会发现比主城区更“懒散”和地道的新西兰风情。
+
+## 是时候出发了！
+
+基督城不是一座完美无瑕的城市，它的伤痕依然可见，但正是这些伤痕，催生了无与伦比的艺术、坚韧和创造力。它不是一个被封存在琥珀里的英伦小镇，而是一个正在热情生长、充满故事的生命体。
+
+所以，别再犹豫了。打包你的雨伞（以防万一的妖风）、你的幽默感，以及一个能装下好几个肉派的胃。来基督城吧，它会给你一个“摇”出来的、独一无二又超级“Sweet as”的拥抱！
+6:["$","$L3","christchurch",{"post":{"date":"$D2026-02-22T00:00:00.000Z","createdAt":1771747359163,"city":{"en":"Christchurch","zh":"基督城","country":"New Zealand","countryZh":"新西兰"},"slug":"christchurch","photoUrl":"/images/cities/christchurch.jpg","model":"deepseek-ai/DeepSeek-V3","imageModel":"tencent/HunyuanImage-3.0","modelEn":"deepseek-ai/DeepSeek-V3","modelZh":"zai-org/GLM-4.6","summaryEn":"This is your hilarious and handy guide to Christchurch, New Zealand, a city of punts, pancakes, and phoenix-like resilience. Get ready for a day packed with quirky charm, delicious eats, and a few friendly sheep.","summaryZh":"基督城，一座在废墟上重生、充满艺术气息与英伦风情的花园之城。这篇博客将带你用幽默的视角，探索它最地道的玩法和美食，让你爱上这座“摇”出来的惊喜之城。","contentEn":"$14","contentZh":"$15"}}]
+16:T1df5,
+## A Playful Welcome
+
+Ah, Venice! Welcome, dear wayward traveler, to the city that’s part dream, part theme park, and part impressive plumbing system. You’ve seen it in movies, read about it in books, and now you’re here, ready to be swept off your feet… and probably jostled by a tour group wielding selfie sticks like medieval weapons. But don't you worry! Beneath the crowds of gondoliers and the chorus of "O Sole Mio," there’s a city so ridiculously beautiful it almost hurts. Let’s dive in, shall we? (Not literally. The canals are… well, let’s just say they’re for looking at, not swimming in.)
+
+## At Least 3 Fun Facts About the City
+
+Before you get lost, let's get you learned! Impress your travel companions with these Venetian tidbits:
+
+*   **It's Built on a Forest:** Venice isn't just floating; it's built on a staggering number of wooden piles. We're talking millions of tree trunks, driven deep into the mud. The secret is that the water prevents oxygen from getting to the wood, so it petrifies into a rock-hard foundation. Your entire Instagram feed is literally supported by an ancient, underwater petrified forest.
+*   **Gondolier Licenses are Harder to Get Than a College Degree:** Becoming a gondolier is no joke. It requires a rigorous exam covering Venetian history, foreign languages, navigation skills, and a complex knowledge of the city's intricate waterways. There are only about 400 licensed gondoliers in the entire city. So yes, that guy serenading you while expertly dodging a water taxi has earned his stripes.
+*   **The City Has its Own Language Sort Of:** While everyone speaks Italian, you'll hear Venetian dialect, a language with its own distinct words, grammar, and phrases. For example, instead of "ciao," you might hear "s'mon" for "what's up?" and instead of *grazie*, you might hear *grasie*. It’s a little linguistic souvenir to take home with you.
+
+## Local Food You Must Try
+
+Fellow foodie, your mission, should you choose to accept it, is to eat your way through Venice beyond the tourist-trap pizza. Here’s your hit list:
+
+*   **Cicchetti and an *Ombra*:** This is Venetian fast food, but make it chic. *Cicchetti* (pronounced "chee-KET-tee") are small snacks, like tapas, served on bread or in small bowls. Think fried meatballs, creamy codfish paste, or tiny sandwiches. Pair them with an *ombra*, a small glass of wine, and hop from *bàcaro* (traditional bars) to *bàcaro*. It's the best way to do dinner.
+*   **Sarde in Saor:** Don't let the name scare you. This is a classic Venetian dish of sweet and sour sardines, marinated with onions, raisins, and pine nuts. It sounds weird, but it’s a delicious, complex taste of Venetian history (it was originally a way to preserve fish for long sea voyages).
+*   **Risotto al Nero di Seppia:** You've seen it on Instagram: the jet-black risotto that looks like it came from another planet. It's cooked with squid ink, which gives it a stunning color and a briny, oceanic flavor. Pro-tip: be prepared for a black smile for the rest of the evening. It’s worth it.
+
+## A One-Day Itinerary (Where to go if you only have 24 hours)
+
+Got just one day? No sweat. Here’s the whirlwind tour that hits the highlights without inducing total collapse.
+
+*   **Morning (8:00 AM - 12:00 PM):** Rise and shine before the crowds. Head straight to **St. Mark's Square (Piazza San Marco)**. Gawk at **St. Mark's Basilica** from the outside (the lines are a nightmare) and then take the pre-booked tour of the **Doge's Palace** to see where Venice’s powerful rulers lived and see the Bridge of Sighs from the inside.
+*   **Lunch (12:00 PM - 1:30 PM):** Escape the square and walk 10 minutes to the **Rialto Market** area. This is where the magic happens. Dive into a *bàcaro* like *Cantina Do Spade* for a standing lunch of incredible *cicchetti* and a cheap, delicious glass of wine.
+*   **Afternoon (1:30 PM - 5:00 PM):** Time to get lost. Cross the **Rialto Bridge** (snap the pic, then flee) and wander into the **Dorsoduro district**. This is the artsy, less-crowded heart of Venice. Get a gelato, find a sunny spot by the **Zattere promenade**, and just watch the boats go by. Optionally, visit the **Peggy Guggenheim Collection** if you're a modern art lover.
+*   **Evening (5:00 PM onwards):** As the sun sets, the mood changes. Take a *traghetto* (a cheap, 2-euro gondola ferry) across the Grand Canal for a classic Venice experience. Find a restaurant away from the main drag for a seafood dinner. End your night with a final, moonlit walk through St. Mark's Square, which is surprisingly beautiful and far less chaotic when the tour groups have gone to bed.
+
+## Expectation vs. Reality (Humorous Comparison)
+
+Let's be real. Venice sells a dream, but the reality is... a bit different.
+
+**Expectation:** You and your partner gliding through a serene, empty canal in a private gondola, your handsome gondolier singing a romantic Italian ballad as the sun sets.
+**Reality:** You're in a gondola traffic jam, sandwiched between a bachelorette party from Ohio and a family whose child is trying to poke the water with a breadstick. Your gondolier is on his phone, loudly discussing soccer.
+
+**Expectation:** Getting beautifully and romantically lost in the labyrinthine alleyways, only to stumble upon a charming, hidden square with a classical concert.
+**Reality:** You are *genuinely* lost. You've passed the same mask shop three times. Your phone has no signal. Your calves are on fire from walking over 479 tiny bridges, and the only "classical music" you hear is the wail of a distant ambulance boat.
+
+**Expectation:** Peacefully feeding the pigeons in St. Mark's Square, feeling like a Disney princess.
+**Reality:** You are being swarmed by feathered rats who view you and your croissant as a personal ATM. One tries to land on your head. You run away, shrieking, covered in a mix of breadcrumbs and existential dread.
+
+## The Local’s Cheat Sheet
+
+Want to blend in? Here’s how to Venice like a Venetian.
+
+*   **Transport:** The *vaporetto* (water bus) is your best friend, but it’s pricey. Get a 24-hour pass if you plan on using it more than twice. Pro move: use the *traghetto*! These are large gondolas that shuttle people across the Grand Canal at specific points for a mere €2. It's the gondola experience without the heart-stopping price tag.
+*   **Etiquette:** Do not stop on top of a bridge to take a photo. You will create a human traffic jam. Step to the side! When you get a coffee at a bar, it's much cheaper to drink it standing at the counter (*al banco*) than sitting at a table. And please, for the love of all that is holy, do not eat your lunch while sitting on the steps of a busy bridge.
+*   **Hidden Gem:** Escape the main islands. Take a 10-minute *vaporetto* ride to the island of **Giudecca**. You'll get incredible, postcard-perfect views of the Venice skyline minus the shoulder-to-shoulder crowds. It’s peaceful, has great restaurants, and feels like a real neighborhood.
+
+## An Encouraging Conclusion
+
+Yes, Venice can be crowded. Yes, your feet will ache. Yes, you will pay an outrageous amount for a bottle of water. But none of that matters. When you turn a corner and see the golden light hitting the water just right, or when you sip that perfect spritz while watching life float by, you’ll get it. You'll understand why people have been falling in love with this gloriously impractical, sinking masterpiece for centuries.
+
+So go. Get lost. Eat the weird-sounding sardines. Laugh at the chaos. Venice isn't a place you just see; it’s a place you experience. Now go make some soggy, beautiful memories.
+17:T1043,
+## 欢迎来到威尼斯：上帝喝醉后的调色盘
+
+（俏皮欢迎语）
+
+## 三个让你下巴掉地的冷知识
+
+- 威尼斯的“地基”其实是100万根松木桩！这些木桩泡在水里几百年不腐烂，因为缺氧环境让细菌无法生存。想象一下，你踩的每一步都站在“水下森林”上，是不是有点小紧张？
+
+- 贡多拉必须漆成黑色，这是16世纪的法律规定！贵族们不能炫耀财富，所以所有贡多拉统一黑漆。不过现在船夫可以偷偷在船尾加点小装饰，但整体还是黑漆漆的，毕竟“低调才是最高级的炫富”。
+
+- 威尼斯没有下水道系统！所有污水直接排进运河，但潮汐每天两次会把脏水冲走。所以，如果你觉得运河水有点“味道”，别怪当地人，这是大自然的“循环利用”系统。
+
+## 必尝的当地美食：吃货的水上盛宴
+
+- **墨鱼汁烩饭（Risotto al nero di seppia）**：黑漆漆的米饭，吃起来却鲜到掉眉毛。传说吃一口就能把整个亚得里亚海的味道装进胃里。
+
+- **Sarde in saor**：甜酸沙丁鱼，用洋葱、醋、葡萄干腌制，口感层次丰富。吃的时候别问“为什么沙丁鱼是甜的”，直接干就对了！
+
+- **提拉米苏**：虽然起源有争议，但在威尼斯你一定能找到最正宗的版本。别被名字骗了，它和“提拉米苏”无关，但和“救救我”的意大利语有关，因为好吃到让你想死。
+
+## 24小时极限攻略：跑断腿也要打卡！
+
+- **上午6:00-10:00**：抢在人潮前占领圣马可广场，和鸽子合影（记得别喂，否则可能被罚款）。然后钻进圣马可大教堂，看金马赛克震撼到说不出话。
+
+- **中午12:00**：冲到里亚托桥边的市场，吃一份炸海鲜拼盘（fritto misto），别选广场上的餐厅，找本地人排队的小摊。
+
+- **下午2:00-5:00**：坐水上巴士（Vaporetto）去多尔索杜罗区，逛学院桥，看威尼斯最美的水景。别坐贡多拉，除非你想体验“钱包哭泣”套餐。
+
+- **晚上7:00后**：躲进卡纳雷吉欧区的小巷，找家不起眼的trattoria，点杯Aperol Spritz，看夕阳把运河染成金色。记住：在威尼斯，迷路才是最好的旅行方式。
+
+## 理想 vs 现实：浪漫幻灭现场直播
+
+- **理想**：贡多拉上听着船夫唱情歌，微风拂面，浪漫到窒息。  
+  **现实**：船夫边唱边喊“€80”，你数着钞票的手在颤抖，还被旁边游客的自拍杆戳中后脑勺。
+
+- **理想**：圣马可广场是安静的文艺圣地，只有鸽子和阳光。  
+  **现实**：人山人海，鸽子抢你面包，警察举着“禁止喂食”的牌子，你连呼吸都得排队。
+
+- **理想**：威尼斯的每个角落都像明信片，随手一拍就是大片。  
+  **现实**：滤镜开到最大，照片里全是人头，连贡多拉都得P掉旁边三艘船才能看出是船。
+
+## 本地人秘籍：别当“游客傻白甜”
+
+- **交通**：别信“贡多拉必坐”的鬼话！水上巴士（Vaporetto）1日票只要€20，能坐遍全城。贡多拉？除非是求婚，否则请三思。
+
+- **礼仪**：在运河边小便？小心被罚€500！威尼斯的“公厕”少得可怜，建议提前解决。另外，别在教堂里穿短裤或露肩装，否则会被保安“请”出去。
+
+- **隐藏景点**：去Ca' d'Oro博物馆（比大教堂人少还便宜），或者爬上圣马可钟楼的侧面楼梯，能拍到无人群的绝美照片。还有，穆拉诺岛的玻璃工厂可以免费看工匠吹玻璃，比景区便宜。
+
+## 结尾：威尼斯在等你！
+
+别再刷手机幻想了！威尼斯的每条水道都藏着故事，每座桥下都有秘密。带上你的勇气和一双磨破的鞋，来感受这座“会呼吸的水城”吧——毕竟，人生苦短，总得为一场浪漫的迷路买单！
+</think>
+
+CITY_ZH: 威尼斯
+COUNTRY_ZH: 意大利
+SUMMARY: 一篇充满幽默的威尼斯旅游指南，揭秘城市冷知识、必吃美食和24小时攻略，带你从理想幻想到现实体验，最后用本地人秘籍助你玩转水城。
+7:["$","$L3","venice",{"post":{"date":"$D2026-02-22T00:00:00.000Z","createdAt":1771732890261,"city":{"en":"Venice","zh":"威尼斯","country":"Italy","countryZh":"意大利"},"slug":"venice","photoUrl":"/images/cities/venice.jpg","model":"zai-org/GLM-4.6","imageModel":"Qwen/Qwen-Image-2512","modelEn":"zai-org/GLM-4.6","modelZh":"Qwen/Qwen3-Next-80B-A3B-Thinking","summaryEn":"Forget the postcard-perfect fantasies and prepare for a beautiful, chaotic, and gloriously soggy adventure in Venice. This guide will help you navigate the canals, eat like a local, and laugh your way through the city's charming madness, all in 24 hours.","summaryZh":"一篇充满幽默的威尼斯旅游指南，揭秘城市冷知识、必吃美食和24小时攻略，带你从理想幻想到现实体验，最后用本地人秘籍助你玩转水城。","contentEn":"$16","contentZh":"$17"}}]
+18:T1386,
+## A Playful Welcome: You've Landed in the "Other" Athens
+Hola, you magnificent explorer! You’ve traded your usual latte for a *cafecito* and find yourself in Cuenca—a city that feels like a European grandpa and an Andean artist had a beautiful, well-behaved baby. This UNESCO World Heritage site isn't just pretty; it’s a living, breathing postcard with a killer food scene and more churches than you can shake a selfie stick at. Welcome. Try not to get whiplash from looking up at all the stunning architecture.
+
+## 3 Fun Facts That Make Cuenca, Well, Cuenca
+1.  **The Frog Orchestra:** On the façade of the "New Cathedral" (built only 150 years ago, so, new-ish), look closely. Among the stone carvings, you’ll find a frog playing a guitar and another on the drums. Because why should humans have all the liturgical musical fun?
+2.  **The Counted Steps:** The iconic blue-domed cathedral has exactly 52 steps leading up to its entrance, one for each week of the year. It’s a stairway to heaven with a built-in calendar.
+3.  **Panama Hat, Ecuadorian Heart:** That world-famous *Panama* hat? It’s a lie. They’re all made right here in Ecuador, and Cuenca is a hub for the finest *sombreros de paja toquilla*. So buy one, and feel smugly correct for the rest of your life.
+
+## Local Food You Must Try (Yes, Even That One)
+Forget your diet. Cuenca is for eating.
+*   **Cuy:** Let’s address the elephant… er, rodent in the room. **Roasted guinea pig** is a traditional Andean delicacy. It’s often served whole and crispy. Think of it as very gamey, dark-meat chicken. Be brave, get a photo, and thank the little guy for his sacrifice.
+*   **Hornado:** This is the showstopper. Imagine a whole pig, roasted until the skin is a symphony of crackle, served with llapingacho (potato patties), mote (hominy), and aji sauce. It’s a plate of pure joy.
+*   **Quimbolitos & Tamales:** Your sweet and savory steam-powered breakfast. **Quimbolitos** are sweet cakes steamed in leaves, while **tamales** here are a comforting bundle of maize dough, often with a center of chicken or pork. Perfect for a chilly morning.
+
+## The "I Only Have 24 Hours" Itinerary
+*   **Morning (8 AM - 12 PM):** Start in **Plaza de las Flores**, buy a flower crown because you’re fancy, then wander to the **New Cathedral** and the adjacent **Plaza Calderon**. Pop into the **Old Cathedral** (now a museum). Follow the **Tomebamba River** for stunning views of the city perched on cliffs above.
+*   **Lunch (1 PM):** Head to **Mercado 10 de Agosto**. Point at something delicious-looking at a food stall, eat it, and soak in the chaotic, authentic vibe.
+*   **Afternoon (2 PM - 5 PM):** Get lost in the **El Barranco** neighborhood for artisanal shops and galleries. Then, visit a **hat factory** (like Homero Ortega) to see how the magic is made.
+*   **Evening (6 PM - Late):** Enjoy a cocktail with a view at a rooftop bar overlooking the cathedrals. For dinner, find a traditional restaurant for your **Hornado** or **Cuy** pilgrimage. End your night with a quiet stroll along the illuminated river.
+
+## Expectation vs. Reality: A Humorous Comparison
+*   **Expectation:** A serene, slow-moving colonial town where time stands still.
+*   **Reality:** A bustling city where serene plazas exist just meters away from honking traffic circles that defy all known laws of physics. You will be both deeply relaxed and slightly on edge. It’s part of the charm.
+*   **Expectation:** The weather will be constantly "spring-like" as all the guides promise.
+*   **Reality:** You will experience all four seasons in a single afternoon. **Pack layers.** That sunny morning will turn into a drizzly, chilly evening faster than you can say, "I left my jacket at the hostel."
+*   **Expectation:** Eating *cuy* will be a terrifying, survivalist experience.
+*   **Reality:** It mostly tastes like... chicken. The real challenge is making eye contact with your plate.
+
+## The Local's Cheat Sheet: Don't Be a *Gringo* Tonto
+*   **Transport:** **Taxis are cheap and everywhere.** Just ensure they use the meter (*"con taximetro, por favor"*). For a real local experience, take the **tranvia** (tram) for just 35 cents.
+*   **Etiquette:** A polite "**Buenos días/tardes**" before any request goes a long way. Slow down. Don’t yell. Cuencanos are formal and polite.
+*   **Hidden Gem:** Skip the crowded miradors. For the best free view in town, go to the **fourth floor terrace of the Museo de la Ciudad**. It’s quiet, stunning, and you might have it all to yourself.
+*   **Money:** Small businesses and markets prefer cash. Have small bills.
+
+## Conclusion: Just Go.
+Cuenca is that rare place that actually lives up to the hype, but with more frogs, more hats, and more unpredictable weather. It’s beautiful, delicious, and just weird enough to be unforgettable. So book the ticket, pack a raincoat *and* sunglasses, and come see for yourself. Your Instagram feed—and your stomach—will thank you. ¡Hasta pronto!
+19:T992,
+[完整的Markdown格式博客文章。使用##标题对应上述部分、列表和粗体文本。]
+
+所以，我需要先写摘要：2句话的文章摘要。摘要应该概括文章内容，保持幽默和信息丰富。
+
+然后，CONTENT部分用Markdown格式，使用##标题对应每个部分。部分包括：
+
+- 欢迎语（可能作为开头）
+
+- 冷知识
+
+- 必尝美食
+
+- 一日游攻略
+
+- 理想 vs. 现实
+
+- 本地人秘籍
+
+- 结尾鼓励
+
+在CONTENT中，使用##标题，例如：
+
+## 欢迎语
+
+## 有趣冷知识
+
+等等。用户指定了部分，所以我应该用这些标题：
+
+1. 一个俏皮的欢迎语 → 可能标题是“欢迎来到昆卡！”
+
+2. 至少3个关于这座城市的有趣冷知识 → 标题如“昆卡的冷知识”
+
+3. 必尝的当地美食 → “必尝美食”
+
+4. 一日游攻略 → “24小时昆卡攻略”
+
+5. 理想 vs. 现实的幽默的对比 → “理想 vs. 现实”
+
+6. 本地人秘籍 → “本地人秘籍”
+
+7. 鼓励读者前往的结尾 → “结尾鼓励”
+
+在Markdown中，使用列表和粗体文本来突出关键点。
+
+现在，内容要幽默风趣。所以，用轻松、调侃的语气写。
+
+研究一些关于Cuenca的事实：
+
+- Cuenca是厄瓜多尔的第三大城市，位于安第斯山脉。
+
+- 它是联合国教科文组织世界遗产，因为其保存完好的殖民时期建筑。
+
+- 冷知识：例如，它被称为“厄瓜多尔的雅典”，因为其文化氛围；它是巴拿马帽的真正起源地（尽管名字叫巴拿马帽）；它有独特的节日如Pase del Niño Viajero。
+
+- 必尝美食：Cuy（豚鼠）、Hornado（烤猪肉）、Tortillas de Maíz（玉米饼）、Tres Leches蛋糕。
+
+- 一日游：参观新大教堂、旧大教堂、Turi观景台、Pumapungo考古遗址。
+
+- 理想 vs. 现实：理想是悠闲漫步，现实可能是拥挤的游客或天气变化。
+
+- 本地人秘籍：使用公共汽车或步行；尊重当地习俗；隐藏景点如当地市场。
+
+- 结尾：鼓励读者去体验。
+
+确保幽默：用夸张、自嘲或有趣比喻。
+
+结构CONTENT：
+
+- 开头：欢迎语，幽默地介绍。
+
+- 然后按顺序标题。
+
+写摘要：2句话。例如：“这篇博客带你探索厄瓜多尔昆卡的魅力，从冷知识到美食冒险。准备好笑出声，同时计划你的完美之旅！”
+
+现在，输出格式：
+
+CITY_ZH: 昆卡
+
+COUNTRY_ZH: 厄瓜多尔
+
+SUMMARY: [摘要]
+8:["$","$L3","cuenca",{"post":{"date":"$D2026-02-22T00:00:00.000Z","createdAt":1771718633257,"city":{"en":"Cuenca","zh":"昆卡","country":"Ecuador","countryZh":"厄瓜多尔"},"slug":"cuenca","photoUrl":"/images/cities/cuenca.jpg","model":"deepseek-ai/DeepSeek-V3.2","imageModel":"stabilityai/stable-diffusion-3.5-large","modelEn":"deepseek-ai/DeepSeek-V3.2","modelZh":"deepseek-ai/DeepSeek-R1-0528","summaryEn":"This post is your irreverent, slightly caffeinated guide to Cuenca, Ecuador. We'll cover everything from frog orchestras to fried guinea pig, ensuring you leave informed, amused, and already planning your trip.","summaryZh":"[2句话的文章摘要] -","contentEn":"$18","contentZh":"$19"}}]
+1a:T1b06,
+## A Playful Welcome
+
+Welcome to Częstochowa—where the Virgin Mary doesn’t just look holy, she looks like she’s been through a war (and won). If you’re expecting a sleepy Polish town with a few churches and a lot of schnitzel, congratulations: you’ve been gently misled by Google Maps. Częstochowa is more like the Marvel Universe’s Thor: lots of thunder, zero chill, and a shrine that’s been drawing pilgrims since the 14th century. Bring comfy shoes. Bring an open heart. And definitely bring an appetite—you won’t leave hungry.
+
+## 3 Fun Facts About the City (Because You Need to Sound Smart at Dinner)
+
+- **The Black Madonna Isn’t Just a Filter:** The famous icon of the Virgin Mary at Jasna Góra Monastery isn’t dark because of poor lighting or a bad Instagram filter—it’s literally blackened by centuries of candle soot, smoke from pilgrims’ prayers, and possibly a few accidental kitchen mishaps. Locals say it weeps sometimes. Scientists say it’s condensation. We say: *who cares? It’s magic*.
+  
+- **The Monastery Survived 300 Years of “Just One More Invasion”:** In 1655, 2,000 monks and guards held off 3,000 Swedish troops for nearly a month. The Swedes left. The Poles celebrated. The Swedes are still mad. It’s been called “The Lourdes of the East,” but with more pierogi and fewer French accents.
+
+- **Częstochowa Has a “Pilgrim Parking Lot” Bigger Than Your Local Walmart:** Over 3 million pilgrims visit annually. That’s more than the population of Ireland. Imagine parking your bike next to 3 million people praying, crying, and taking selfies with a painting that’s older than your great-great-great-grandma’s wedding dress.
+
+## Local Food You Must Try
+
+Forget your diet. You’re in Poland. Here’s the sacred trifecta:
+
+1. **Pierogi Częstochowskie** — Not just any pierogi. These are stuffed with potatoes, cheese, and a secret filling called “*tajemnicza mąka nadziei*” (mystery flour of hope). They’re boiled, then fried in butter until golden. Eat them with sour cream and a whisper of gratitude.
+
+2. **Żurek with White Sausage** — A sour rye soup that tastes like fermented nostalgia. Served in a bread bowl, it’s the culinary equivalent of hugging your Polish grandma. Bonus: the sausage is so good, you’ll forget your ex’s name.
+
+3. **Kielbasa “Z Jasnej Góry”** — A smoked pork sausage that’s been blessed by the monastery chaplain (allegedly). It’s thick, smoky, and slightly suspiciously perfect. Pair it with a local beer called “*Brew of the Holy Ghost*”—yes, that’s the real name.
+
+## One-Day Itinerary: 24 Hours in Częstochowa (No Naps Allowed)
+
+**8:00 AM — Rise and Shine (and Pray)**  
+Start at **Jasna Góra Monastery**. Arrive early to beat the crowds and the line for the Black Madonna. Pro tip: If you’re not Catholic, just smile, nod, and pretend you’re praying for good Wi-Fi. The vaulted halls are stunning—and the gift shop sells relics shaped like tiny icons. You *will* buy one.
+
+**10:30 AM — Walk the Pilgrims’ Path**  
+Stroll the **Pilgrims’ Way**, a scenic, tree-lined path from the city center to the monastery. Locals jog here, nuns meditate here, and tourists take 200 photos of “The Gate of the Holy Virgin.” It’s basically the Polish version of a spiritual Instagram filter.
+
+**12:30 PM — Pierogi Pandemonium**  
+Lunch at **Restauracja Pod Brzozą**. Order the pierogi, the żurek, and one of those suspiciously perfect kielbasas. Eat slowly. Cry a little. Then order dessert: *sernik* (Polish cheesecake) with a side of existential joy.
+
+**3:00 PM — The Church of St. James (The “Underrated Gem”)**  
+Skip the obvious. Head to this quiet, Gothic-chic church. It’s got 17th-century frescoes, a chapel that smells like incense and regret, and a single old man playing accordion on the steps. He’ll play “My Heart Will Go On” if you tip him 5 złoty. Do it.
+
+**6:00 PM — Sunset at the Chapel of the Holy Cross**  
+Perched on a hill, this tiny chapel offers panoramic views of Częstochowa. Bring a bottle of wine, or just a soda. The sunset paints the monastery gold, and for 10 minutes, you’ll forget you’re in a city and think you’ve stumbled into a Renaissance painting.
+
+**8:30 PM — Dinner & Drunken Dolce Vita**  
+End the night at **Karczma Pod Chmurą**, a cozy tavern with wooden beams and a bartender who knows your name after one drink. Order a shot of *pirówka* (Polish fruit brandy) and listen to locals sing folk songs. You won't understand the words. But you’ll feel them.
+
+## Expectation vs. Reality (A Humorous Comparison)
+
+| Expectation | Reality |
+|-------------|---------|
+| “It’s just another quiet Polish town.” | “It’s a spiritual theme park with more pilgrims than Disneyland has tourists on Christmas Eve.” |
+| “The Black Madonna is just an old painting.” | “The Black Madonna is basically the Polish version of Beyoncé—mysterious, powerful, and everyone wants a picture with her.” |
+| “I’ll eat one pierogi and be full.” | “I ate five. Then I cried. Then I bought a pierogi-shaped keychain.” |
+| “There’s no nightlife.” | “There’s a guy in a monk robe playing saxophone outside the monastery at midnight. Don’t ask. Just join the dance circle.” |
+
+## The Local’s Cheat Sheet
+
+- **Transport:** The city is walkable, but buses (number 1, 10, 13) connect the train station to Jasna Góra. Buy tickets from machines—they don’t care if you speak Polish. Just show the driver your ticket like you’re handing over your soul.  
+- **Etiquette:** When entering churches, cover your shoulders. No tank tops. No flip-flops. No loud TikTok dances. And for the love of the Virgin, *don’t* take selfies with your phone in the front of the chapel. You’re not on a runway.  
+- **Hidden Gem:** The **Częstochowa Museum of the First Polish Army** is tucked away in a former brewery. It’s weird, fascinating, and has a display of WWII uniforms that look like they were worn by people who definitely had better hair than you.  
+- **Pro Tip:** Bring cash. Many small shops and churches don’t take cards. And if you see a lady selling *bogatki* (blessed candles), buy one. She’ll bless your trip, your socks, and your future romantic prospects.
+
+## An Encouraging Conclusion
+
+Częstochowa doesn’t just welcome visitors—it *transfigures* them. You come for the monastery. You stay for the pierogi. You leave with a heart full of awe, a stomach full of butter, and maybe a tiny Virgin Mary charm dangling from your keychain. It’s not the most glamorous city in Europe. But it’s one of the most alive. So if you’ve ever doubted the power of faith, food, or the fact that Poland can turn a blackened painting into a global pilgrimage magnet—you need to come here. And yes, you *do* need to try the kielbasa. Just don’t say I didn’t warn you.
+1b:T1293,
+# 琴斯托霍瓦：不止是修道院，还有“圣母的培根”！
+
+嘿，各位旅行勇士和“来都来了”爱好者们！准备好探索波兰最神圣也最令人惊喜的城市之一了吗？别担心，我们不是来布道的，是来寻找乐趣和炸饺子的！欢迎来到琴斯托霍瓦——一个让你的灵魂（和胃）都得到满足的地方。
+
+## 一个俏皮的欢迎语
+
+欢迎来到琴斯托霍瓦，这里大概是世界上唯一一个你既能看到虔诚的朝圣者泪流满面，又能看到游客因为吃到太多波兰饺子而“痛苦”呻吟的地方。别紧张，这里的氛围好极了，保证让你在神圣与“吃撑”之间找到完美的平衡！
+
+## 关于这座城市的冷知识
+
+*   **黑白双雄的传说**：城市标志光明山修道院里的黑圣母像，其实最初是拜占庭风格的，后来因为年代久远和香火熏燎才变黑。但当地人更爱一个传奇版本：她是在一次战斗中，用烟灰涂脸来躲避入侵者的“机智少女”。
+*   **波兰的“好莱坞”**：琴斯托霍瓦是波兰的摇滚乐重镇！自1986年以来，这里每年举办波兰最大、历史最悠久的摇滚音乐节之一。所以，别只惦记着念珠，也准备好摇滚起来吧！
+*   **钢铁之城**：在成为朝圣中心之前，琴斯托霍瓦是波兰重要的工业基地，以钢铁生产闻名。所以，这座城市可以说是真正意义上的“刚柔并济”——既有钢铁般的意志，又有虔诚柔软的内核。
+
+## 必尝的当地美食
+
+在精神食粮之外，别忘了填饱你的肚子！
+*   **Żurek**：一种用发酵黑麦做的酸汤，通常装在一个大面包碗里，里面还有香肠和鸡蛋。味道浓郁独特，是解宿醉的波兰神器。
+*   **Pierogi**：波兰饺子是必吃的！在这里，你可以尝到**Częstochowa风格的Pierogi**，馅料可能更接地气，比如土豆和奶酪，或者蘑菇和卷心菜。
+*   **Kiełbasa z Cebulą**：简单的烤香肠配炒洋葱，是街头最常见的小吃，简单粗暴的美味。
+*   **“圣母的培根”**：开玩笑的，没有这种东西！但如果你在菜单上看到`Boczek`，那就是货真价实的培根，放心点！
+
+## 一日游攻略：神圣与世俗的24小时
+
+*   **上午 (9:00 - 12:00)**：直奔主题——**光明山修道院**。去看那幅著名的黑圣母像，感受一下庄严肃穆的气氛。别忘了在堡垒城墙散步，俯瞰城市全景。
+*   **中午 (12:30 - 14:00)**：下山到老城区，找一家传统的**牛奶吧**吃午饭。这是波兰社会主义时期的食堂，价格实惠，能吃到最地道的波兰家常菜。
+*   **下午 (14:30 - 17:00)**：探索一下**琴斯托霍瓦主街**，逛逛小商店。然后可以去**Jasna Góra 啤酒厂**喝一杯当地酿造的啤酒，让你的朝圣之旅带点微醺。
+*   **晚上 (19:00以后)**：在老城广场找一家评分高的餐厅，享用一顿丰盛的波兰大餐，为这充实的一天干杯！
+
+## 理想 vs. 现实
+
+*   **理想**：你想象中自己在修道院庄严的圣像前，心灵受到深深的震撼，陷入哲学的沉思。
+*   **现实**：你被一群热情的朝圣团包围，努力想拍一张没有陌生人入镜的照片，心里主要在思考：“午餐的饺子要点什么馅儿的？”
+*   **理想**：你优雅地漫步在历史悠久的主街上，感受着中欧的文艺气息。
+*   **现实**：你正在和一阵突如其来的妖风作斗争，发型变得狂野不羁，并开始怀疑波兰的天气是不是在和你开玩笑。
+
+## 本地人秘籍
+
+*   **交通**：城市很小，**用走的就行**！从火车站到修道院大约需要走30分钟，但沿途可以感受城市风貌。如果懒得走，可以跳上一辆便宜的小巴士。
+*   **礼仪**：在修道院内，**请保持安静并穿着得体**（避免背心、短裤）。这不是建议，是要求！否则你可能进不去。
+*   **隐藏景点**：除了修道院，可以去看看**琴斯托霍瓦市政厅**和**7 Kamienic 博物馆**，了解这座城市不为人知的工业历史。或者，在**Stary Rynek**（老市场广场）找个长椅坐下，观察来往的行人，这才是真正的本地生活。
+
+## 结尾
+
+所以，你还等什么呢？琴斯托霍瓦这座矛盾又和谐的城市正等着你去发现。来这里，为你的Instagram增添一些神圣的照片，为你的味蕾带来一场东欧的盛宴，更重要的是，为你的人生故事加上一个“嘿，你知道波兰那个有黑圣母和超棒饺子的地方吗？”的精彩章节。打包行李，带上胃口和一颗冒险的心，出发吧！Częstochowa awaits! （琴斯托霍瓦在等你！）
+9:["$","$L3","czestochowa",{"post":{"date":"$D2026-02-21T00:00:00.000Z","createdAt":1771704069049,"city":{"en":"Czestochowa","zh":"琴斯托霍瓦","country":"Poland","countryZh":"波兰"},"slug":"czestochowa","photoUrl":"/images/cities/czestochowa.jpg","model":"Qwen/Qwen3-Next-80B-A3B-Instruct","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"Qwen/Qwen3-Next-80B-A3B-Instruct","modelZh":"deepseek-ai/DeepSeek-V3","summaryEn":"Częstochowa, Poland, is the spiritual powerhouse of the nation with a blackened Virgin, a monastery that laughs in the face of invaders, and pierogi so good they’ll make you question your life choices. Forget boring cities—this is where faith, food, and fortresses collide in the most delightfully weird way.","summaryZh":"这篇文章将带您以轻松幽默的方式探索波兰的“灵性之都”琴斯托霍瓦。除了著名的光明山修道院，您还将发现这座城市隐藏的冷知识、美食秘籍和只有当地人才知道的小技巧。","contentEn":"$1a","contentZh":"$1b"}}]
+1c:T138d,
+## A Long Time Ago, in a Galaxy Not So Far Away...
+
+Greetings, earthlings and aspiring Jedi! If you’ve ever dreamed of dual-sunset selfies, trading your speeder for a beat-up Renault, and discovering that the Force is strong with this one particular patch of the Tunisian Sahara, then pack your bags (and a spare hydration unit). Welcome to Tataouine—yes, it’s a real place, and no, George Lucas didn’t just make it up. He just, you know, borrowed the name and the vibe. Your adventure into this otherworldly landscape starts now.
+
+## 3 Fun Facts That Aren't Just Sci-Fi Hype
+
+*   **The Name Game:** The city's name, **Tataouine**, comes from the Berber word *Titawin*, which means "water springs." Ironically, you’ll spend most of your time here feeling parched and marveling at the lack of water, but it’s the thought that counts.
+*   **The Original Inspiration:** Long before it inspired a dusty planet on the Outer Rim, Tataouine was famous for its **ksars**—ancient fortified granaries built by the Berbers into the hillsides. These aren't movie sets; they're the real, thousand-year-old deal, and they're stunning.
+*   **A Cinematic Claim to Fame:** While the iconic Luke Skywalker homestead was filmed a few hours north, the region is dotted with locations from the prequel trilogy. Keep your eyes peeled for **Mos Espa**, a full-blown Star Wars set (now a tourist attraction) that will make you feel like you’ve just stepped off a landing pod.
+
+## Fueling Your Adventure: Local Food You MUST Try
+
+Forget blue milk. The real culinary Force here is earthly and delicious. You absolutely cannot leave without trying:
+
+*   **Couscous Tataouine Style:** This isn't your Tuesday night side dish. This is a monumental pile of fluffy semolina, topped with a rich, dark sauce of lamb, onions, and a unique blend of spices called **Tabel**. It’s a flavor blast to the senses.
+*   **Makhbous:** Think of it as the ultimate protein-packed pastry. It’s a flaky, savory pie stuffed with ground lamb, onions, and a hearty helping of harissa. Perfect for eating with one hand while fending off Tusken Raiders with the other.
+*   **Bsissa:** The local superfood. This mix of roasted barley, spices, and pulses is traditionally mixed with olive oil and eaten for breakfast. It’ll give you the energy you need to trek through the desert canyons.
+
+## The Ultimate 24-Hour Itinerary: Tataouine in a Blink
+
+*   **Morning (9 AM):** Head straight to the **Medina of Tataouine**. It’s a bustling, low-key market where you’re more likely to find a new teapot than a lightsaber. Soak in the authentic atmosphere.
+*   **Late Morning (11 AM):** Drive out to **Ksar Ouled Soltane**. This multi-story granary is a breathtaking example of Berber architecture and is so strikingly alien it was used as a location for the slave quarters in *The Phantom Menace*. The views are incredible.
+*   **Lunch (1 PM):** Find a local spot for that mandatory **Couscous Tataouine**. You’ve earned it.
+*   **Afternoon (3 PM):** Make the drive to the **Mos Espa film set**. Wander through the streets of Anakin Skywalker’s hometown, pretend to bet on a podrace, and take approximately 500 photos.
+*   **Evening (6 PM):** Find a vantage point to watch the **sunset**. With the golden light washing over the ochre landscape, you’ll understand why this place captivated a filmmaker. It’s pure magic (and only has one sun, sorry).
+
+## Expectation vs. Reality
+
+*   **Expectation:** Dodging jawas trying to sell me rusty droids, bartering for power converters, and getting into a cantina brawl with a Rodian.
+*   **Reality:** Dodging enthusiastic local kids trying to sell me fossilized sea urchins, bartering for a slightly overpriced ceramic camels, and getting into a passionate debate with a cafe owner about the best way to sweeten mint tea. (Spoiler: with a whole sugar cube in your mouth, obviously).
+
+## The Local’s Cheat Sheet
+
+*   **Transport:** **Louages** (shared taxis) are the way to go for getting between cities, but to truly explore the scattered ksars and film sets, you’ll need to **hire a local driver or rent a car**. Trust me, your feet will thank you.
+*   **Etiquette:** This is a conservative region. **Dress modestly** (covering shoulders and knees is a sign of respect). Always ask permission before taking photos of people, especially women.
+*   **Hidden Gem:** Everyone goes to Ksar Ouled Soltane, but make time for **Chenini**. This incredible hilltop village is partially carved into the mountain itself and offers a hauntingly beautiful look into the past. The hike to the top is worth every step.
+
+## Conclusion
+
+So, is Tataouine a quirky pit stop for nerds? Absolutely. But it’s also a profoundly historical, culturally rich, and visually stunning destination that stands firmly on its own two feet, no blastar rifle required. It’s a place where myth and reality collide in the most wonderful way. May the Force—and a good helping of couscous—be with you on your journey
+1d:T18d1,
+## 欢迎来到"星球大战"的故乡！
+
+嘿，各位星际旅行者和地球探险家！欢迎来到塔塔乌因——这个听起来像某种外星饮料，但实际上是突尼斯南部一颗被沙漠环绕的宝石！如果你以为这里是卢克·天行者的家乡，那你猜对了一半！这里不仅是电影的取景地，更是真实存在的人类文明与自然奇观的完美结合。准备好你的防晒霜和想象力，我们要开始这段"绝地"之旅了！
+
+## 有趣冷知识：比《星球大战》更酷的事实
+
+1. **"塔塔乌因"不是"塔图因"**：虽然《星球大战》中的塔图因(Tatooine)灵感来源于这里，但当地发音更接近"塔塔乌因"(Tataouine)。有趣的是，在柏柏尔语中，这个名字意为"泉水"或"绿洲"，完全符合这座沙漠小镇的实际特征！看来乔治·卢卡斯不仅取了名字，还抓住了精髓！
+
+2. **地下城市的秘密**：塔塔乌因周围散布着被称为"马特玛"(Matmata)的地下住宅。这些不是电影布景，而是真实存在的柏柏尔人传统住所，有些已有数百年历史！想象一下，你的邻居可能就住在你正下方，这绝对是世界上最"接地气"的社区了！
+
+3. **星战迷的朝圣地**：虽然电影中的许多场景已被拆除，但仍有几个原址保留至今。最著名的是"斯克纳洞穴"(Skeikha's Cave)，曾是欧比旺·克诺比的隐居地。每年都有成千上万星战迷前来朝圣，有些人甚至穿着全套戏服，让这个沙漠小镇变成了现实版的"科洛桑"！
+
+## 舌尖上的塔塔乌因：不容错过的美食
+
+来到塔塔乌因，你的味蕾也将经历一场星际冒险！以下是必尝的当地美食：
+
+- **库斯库斯**(Couscous)：这不是普通的库斯库斯！塔塔乌因的库斯库斯通常搭配羊肉和丰富的蔬菜，香料使用独特，让你一口就尝到北非的精髓。
+
+- **巴吉尔盖**(Brik)：这种炸面皮包裹着鸡蛋、金枪鱼或蛤蜊的美食，是塔塔乌因的街头小吃之王。小心咬开，滚烫的蛋液会给你一个"惊喜"！
+
+- **薄荷茶**(Moroccan Mint Tea)：别被名字迷惑，这是整个北非的国民饮品。在塔塔乌因，当地人会用传统方式倒茶，表演出令人惊叹的茶艺，同时为你奉上这提神醒脑的"沙漠甘露"。
+
+- **烤全羊**(Mechoui)：在特殊场合，当地人会烤整只羊，外皮酥脆，肉质鲜嫩。如果你有幸遇到这种盛宴，请不要犹豫，加入这场"肉食星球"的狂欢！
+
+## 24小时塔塔乌因极速攻略
+
+如果你只有一天时间探索这座神奇的小镇，别担心！这份攻略将带你领略塔塔乌因的精华：
+
+**上午（8:00-12:00）**：
+- 8:00 在当地咖啡馆享用传统早餐，尝试羊角面包配薄荷茶
+- 9:00 参观塔塔乌因老城区，探索柏柏尔建筑和传统市场
+- 10:30 前往附近的马特玛地下村庄，体验柏柏尔人的生活方式
+
+**中午（12:00-14:00）**：
+- 12:30 在当地家庭餐厅享用正宗的库斯库斯午餐
+- 13:30 短暂休息，消化美食并为下午的探险储备能量
+
+**下午（14:00-18:00）**：
+- 14:00 前往《星球大战》拍摄地斯克纳洞穴，感受原力
+- 15:30 参观塔塔乌因博物馆，了解地区历史和电影拍摄背后的故事
+- 17:00 在日落时分登上小镇附近的沙丘，欣赏壮观的沙漠日落
+
+**晚上（18:00-22:00）**：
+- 19:00 在传统餐厅享用烤全羊或巴吉尔盖晚餐
+- 21:00 参加当地的文化表演，欣赏传统音乐和舞蹈
+- 22:00 在星空下享用薄荷茶，结束完美的一天
+
+## 理想 vs. 现实：塔塔乌因的幽默对比
+
+**理想中的塔塔乌因**：
+- 你漫步在《星球大战》的原始场景中，随时可能遇到穿着绝地服装的当地人
+- 沙漠温度宜人，微风轻拂，阳光恰到好处
+- 每个街角都有热情的当地人邀请你品尝最正宗的美食
+- 交通便利，随时可以租到一辆飞行的 landspeeder（陆地飞车）穿越沙漠
+
+**现实中的塔塔乌因**：
+- 你站在一个看起来像电影场景但实际只是普通建筑的角落，周围只有几位同样失望的星战迷
+- 沙漠温度高达45°C，感觉自己像是正在被烤化的R2-D2
+- 每个街角都有人试图向你推销"正宗"的星战纪念品，有些甚至是义乌制造
+- 交通主要依靠出租车和偶尔经过的骆驼，飞车？那得等到下一集了！
+
+## 本地人秘籍：像当地人一样探索塔塔乌因
+
+**交通贴士**：
+- 别被出租车司机开出的高价吓到！坚持使用计价器或提前谈好价格（通常从老城区到任何景点不应超过10突尼斯第纳尔）。
+- 想体验真正的当地交通？试试"louage"（共享出租车），它们是连接城镇间的经济实惠方式。
+- 租车自驾是个好主意，但记得在沙漠中带上额外的水和食物，GPS信号可能不太稳定。
+
+**礼仪与文化**：
+- 进入清真寺前，请脱鞋并确保穿着得体（女性最好带上头巾）。
+- 拍摄当地人前，请先征得同意，尤其是柏柏尔老人，他们可能不喜欢被拍照。
+- 用右手递接食物和物品，在当地文化中，左手被认为是不洁的。
+
+**隐藏景点**：
+- 大多数游客不知道的"小贾巴宫殿"(Little Jabba's Palace)是另一个星战拍摄地，位于小镇以北15公里处。
+- 塔塔乌因东南部的"星之门"(Star Gate)沙丘是观赏星空的最佳地点，远离城市光污染。
+- 当地人知道一家隐藏在老城区小巷中的传统茶馆，那里有最地道的薄荷茶和最友好的老板。
+
+## 结语：为什么你应该立即前往塔塔乌因
+
+亲爱的读者，如果你还在犹豫是否要去塔塔乌因，请允许我用一句话说服你：这里不仅有《星球大战》的魔力，还有真实的柏柏尔文化、壮观的沙漠景观和热情好客的人民。塔塔乌因不是一个你匆匆路过的地方，而是一个值得你放慢脚步，细细品味的小镇。无论你是星战迷、文化探索者还是自然爱好者，这里都能给你带来难忘的体验。
+
+所以，别再犹豫了！收拾你的行囊，带上你的好奇心，准备好迎接一场既"遥远"又"接地气"的冒险。在塔塔乌因，你会发现有时候最神奇的星球，其实就在地球上。愿"沙漠之力"与你同在！
+a:["$","$L3","tataouine",{"post":{"date":"$D2026-02-21T00:00:00.000Z","createdAt":1771689678619,"city":{"en":"Tataouine","zh":"塔塔乌因","country":"Tunisia","countryZh":"突尼斯"},"slug":"tataouine","photoUrl":"/images/cities/tataouine.jpg","model":"deepseek-ai/DeepSeek-V3.1","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"deepseek-ai/DeepSeek-V3.1","modelZh":"zai-org/GLM-4.5-Air","summaryEn":"This isn't your average desert destination; it's a gateway to another galaxy and a deep dive into ancient Berber culture. Get ready for a day of Star Wars magic, mouth-watering food, and sun-soaked adventure in the real-life Tatooine.","summaryZh":"塔塔乌因是突尼斯南部一座被沙漠环绕的奇妙小镇，因成为《星球大战》系列电影的取景地而闻名于世。这座融合了柏柏尔文化、阿拉伯传统和电影魔力的城市，将为游客提供一次穿越时空的独特体验。","contentEn":"$1c","contentZh":"$1d"}}]
+1e:T1aa9,
+## A Playful Welcome to Gondar, Baby!
+
+Welcome, adventurous souls, to Gondar—the city where castles are older than your grandmother's grandmother's recipe forinjera, and the history is so thick you could almost spread it on toast. Nestled in the Ethiopian highlands at 2,133 meters above sea level, Gondar is the kind of place that makes you wonder why you ever wasted time on beach vacations when you could be wandering through medieval fortress complexes instead.
+
+Known as the "Camelot of Africa" (no crowns required), Gondar is a treasure trove of royal palaces, ancient churches, and enough storytelling potential to keep your Instagram feed fed for months. So grab your walking shoes, charge your camera, and let's dive into the whimsical world of Gondar!
+
+---
+
+## Fun Facts About Gondar That'll Make You the Star of Trivia Night
+
+🕰️ **The Castle Complex Dates Back to the 17th Century**  
+Emperor Fasilidas started building this royal enclave in 1635, and his successors kept adding to it like an architectural Lego project. The result? A UNESCO World Heritage Site that's been standing strong for nearly 400 years.
+
+🏰 **It's Called "The Camelot of Africa"**  
+And no, there's no Prince Charming on a white horse—though there IS a horse market if you're in the market for one. The nickname comes from the medieval castles that remind visitors of King Arthur's legendary fortress.
+
+🧘 **Gondar Is a Gateway to Simien Mountains National Park**  
+If you think Gondar is impressive, just wait until you see the Afro-alpine landscapes, endemic wildlife (like the walia ibex and Ethiopian wolf), and dramatic cliffs that await just a short trip away.
+
+---
+
+## Local Food You MUST Try (Your Taste Buds Will Thank You)
+
+*Injera* (let's be honest, you knew this was coming) is the spongy, tangy sourdough flatbread that accompanies every Ethiopian meal. But in Gondar, you should go beyond the basics:
+
+- **Kitfo**: Raw or barely cooked minced beef mixed with spices and clarified butter. It's like steak tartare's exotic cousin. Try it at least once—your friends back home will either be horrified or fascinated.
+
+- **Tibs**: Sautéed meat (usually beef or lamb) with onions, garlic, and rosemary. Comfort food with a capital C.
+
+- **Shiro**: A thick stew made from roasted chickpeas or lentils. Perfect for vegetarians, and honestly, everyone should try it.
+
+- **Coffee (Bunna)**: Ethiopia is the birthplace of coffee, and Gondar takes its brew seriously. Visit a local coffee ceremony where beans are roasted, ground, and prepared right in front of you. It's basically meditation with caffeine.
+
+---
+
+## One-Day Itinerary: Gondar in 24 Hours
+
+### Morning (8:00 AM - 11:00 AM)
+- **Start at Fasilids Castle Complex**: Get there early to beat the crowds. Walk through the emperors' chambers, imagine yourself in a throne room, and take way too many photos.
+- **Visit the Bath of Fasilidas (Quskuam)**: This historic pool is still used for Timket (Epiphany) celebrations. Even without the festival, it's a stunning spot.
+
+### Midday (11:30 AM - 1:30 PM)
+- **Refuel at a Local Restaurant**: Grab some tibs and injera. Check out one of the local spots near the market for an authentic experience.
+- **Explore the Debre Berhan Selassie Church**: Famous for its ceiling—covered in hundreds of angelic faces. Yes, they're watching, but they're friendly!
+
+### Afternoon (2:00 PM - 5:00 PM)
+- **Stroll Through the Local Market**: The Gondar market is chaotic, colorful, and overwhelming in the best way. Buy some spices, chat with vendors, and practice your Amharic greetings.
+- **Visit the Kuskuam Complex**: Another castle and church area, often less crowded than the main site.
+
+### Evening (6:00 PM - 9:00 PM)
+- **Catch a Sunset**: Head to a rooftop restaurant overlooking the city. The highlands glow gold as the sun dips below the horizon.
+- **Dinner & Coffee**: End your day with a traditional coffee ceremony. You'll sleep well, we promise.
+
+---
+
+## Expectation vs. Reality (The Humorous Comparison)
+
+| **Expectation** | **Reality** |
+|---|---|
+| You'll have the castles all to yourself for aesthetic travel shots. | You'll be dodging selfie sticks and tour groups from 9 AM sharp. |
+| The weather is always "spring-like" at 2,100 meters. | It's basically winter in the morning, spring at noon, and a guessing game by evening. Pack layers! |
+| You'll effortlessly navigate the city using your magnetic charm and Google Maps. | Google Maps will occasionally give up. Locals will find this hilarious and help you anyway. |
+| You'll master the art of eating injera without making a mess. | You'll haveinjera in places you didn't know food could reach. Embrace the mess—it's part of the experience. |
+| You'll be in and out of the castles in an hour. | Three hours later, you're still taking photos and pretending you're an Ethiopian emperor. |
+
+---
+
+## The Local's Cheat Sheet
+
+### 🚖 Transport
+- **Bajajs (Three-Wheeled Taxis)**: These are everywhere and dirt cheap. Agree on a price before you hop in—or prepare for some friendly (or not-so-friendly) negotiation.
+- **Walking**: The city center is very walkable. Just watch out for the random holes in the sidewalk—they're like surprise yoga poses for your ankles.
+
+### 🙏 Etiquette
+- **Greet People**: A friendly "Selam" (hello) or "Irehabty" (how are you?) goes a long way. Ethiopians are incredibly hospitable.
+- **Dress Modestly**: This is a conservative city. Cover your shoulders and knees, especially when visiting churches.
+- **Right Hand Rule**: Use your right hand for eating and greeting. The left hand is considered unclean—sorry, lefties!
+
+### 💎 Hidden Gems
+- **Fasilides Bath During Timket**: If you're in Gondar in January, the water is blessed and people actually take the plunge. It's chaotic, cold, and utterly unforgettable.
+- **Sunset at the University of Gondar**: The campus has a great viewpoint overlooking the city and mountains. Bonus: it's free!
+- **The Simien Mountains Day Trip**: Even with limited time, a day trip to the Simien Mountains is worth it. Dramatic drop-offs, endemic wildlife, and views that belong on a postage stamp.
+
+---
+
+## Come for the Castles, Stay for the Magic
+
+Gondar isn't just a destination—it's an experience that'll slap you awake from your scroll-induced coma and remind you that the world is massive, old, and wonderfully weird. Whether you're a history buff, a foodie, or just someone who needs a break from the ordinary, this city delivers.
+
+So book that flight, pack your bags, and get ready to fall in love with the "Camelot of Africa." The castles are waiting, the coffee is brewing, and the locals are ready to welcome you with open arms and perhaps a slightly confused smile (because, let's be honest, not many tourists venture here).
+
+Go now. Adventure is calling. 🌍✈️
+1f:T178f,
+## 欢迎来到贡达尔——准备好被古老石头和咖啡香气同时俘获了吗？
+
+**嗨，冒险家们！**  
+如果你以为非洲只有野生动物和撒哈拉，那你就OUT了——欢迎来到埃塞俄比亚的“城堡之城” **贡达尔**！在这里，古老的宫殿会和你的胃争夺注意力，而咖啡的香味会把你从现代的疲惫中直接拽进中世纪的梦境。准备好笑点与知识点齐飞的旅程了吗？出发吧！
+
+---
+
+## 有趣冷知识（保证让你在茶余饭后成为焦点）
+
+1. **城堡之城**：贡达尔拥有超过 70 座保存完好的中世纪石造宫殿和教堂，** Fasil Gheb（法西尔城堡）** 更是被联合国教科文组织列为世界遗产，被誉为“埃塞俄比亚的 Camelot”。  
+2. **“皇家浴室”**：在城郊的 **Kuskuam** 遗址，有一处被认为是古代皇家沐浴的天然温泉——水温永远保持在 28°C，传说中可以让人瞬间“洗去”旅行的疲惫。  
+3. **咖啡仪式之都**：埃塞俄比亚是咖啡的故乡，而贡达尔的 **咖啡仪式**（Buna）不仅是喝咖啡，更是一场社交、祝福和讲故事的盛大表演——**记得准备好你的“咖啡笑话”**！  
+4. **动物界的“网红”**：在城里的 **Mountent 市场**，你还能看到当地人牵着的 **“埃塞俄比亚羊”**，它们的卷毛像是天然的绒线球，简直萌到没朋友。
+
+---
+
+## 必尝的当地美食（让你的味蕾也来一次穿越）
+
+- **Injera（英吉拉）**：带点酸味的发酵薄饼，配上 **Wat（炖肉或蔬菜酱）**，是每餐的标配。  
+- **Kitfo（基特福）**： minced raw beef 拌上香料和黄油，喜欢“血腥”口感的勇敢者必试！  
+- **Shiro（希罗）**：鹰嘴豆粉做的浓郁酱汁，配上英吉拉，简直是素食者的天堂。  
+- **Tej（特吉）**：本地蜂蜜酒，甜度高得可以把你直接送进“梦境”。  
+- **咖啡仪式（Buna）**：在炭火上慢慢烘焙、研磨、冲泡的咖啡，一口喝下去，你会明白为何埃塞俄比亚人把咖啡当成“液体黄金”。  
+
+> **小贴士**：点菜时别忘了说 “*Alicha*”（不辣）或 “*Mirq*”（辣），否则可能会有意外的“热情”体验哦！
+
+---
+
+## 一日游攻略（24 小时玩转贡达尔）
+
+| 时间 | 活动 | 小贴士 |
+|------|------|--------|
+| **08:00** | 早餐 + **咖啡仪式** | 找一家当地咖啡店，体验正宗 Buna，记得配上 **Kolo**（烤大麦） |
+| **09:30** | 前往 **Fasil Gheb**（法西尔城堡） | 早到人少，拍照不抢镜！ |
+| **11:00** | 参观 **Debre Berhan Selassie 教堂** | 别忘了抬头看天花板上的 **“万眼天使”** 壁画 |
+| **12:30** | 午餐 – **Injera + Wat** | 建议去 **Fasil Lodge Restaurant**，景观超赞 |
+| **14:00** | 逛 **Kukua 市场**（当地市集） | 买些手工艺品，记得讨价还价——**价格是“笑”出来的** |
+| **16:00** | 轻松徒步至 **Kuskuam 遗址** | 这里有古老的石桥和传说中可以治病的温泉 |
+| **18:30** | 日落时分返回 **Fasil Gheb** 外观 | 在城墙根下拍一张“王者背影” |
+| **20:00** | 晚餐 – **Kitfo + Tej** | 体验“生猛”美味，配上本地音乐 |
+| **21:30** | 夜游 **Gondar 夜市** | 小摊的烤羊肉串是夜宵首选 |
+
+> **行程亮点**：如果时间紧迫，别错过 **Fasil Gheb** 与 **Debre Berhan Selassie**，这两站已经把“历史”和“艺术”全部打包。
+
+---
+
+## 理想 vs. 现实：幽默对比
+
+| 理想中的贡达尔 | 现实中的贡达尔 |
+|----------------|----------------|
+| **浪漫夕阳**：金色余晖洒在古老的城堡上，我宛如王子/公主。 | **夕阳+街头喇叭**：突然冒出热情的小贩大喊“**，**，买一送一！” |
+| **悠闲咖啡**：在安静的小店细细品尝手冲咖啡。 | **咖啡仪式**：一次仪式要 30 分钟，期间七大姑八大姨都会来聊家常，根本停不下来！ |
+| **漫步古城**：只有我和影子回荡在石子路上。 | **漫步古城**：身后跟着一群好奇的孩子们，边跑边叫“*Faranji*（外国人）！” |
+| **精致住宿**：五星级的房间配有 Spa。 | **住宿**：多数是家庭旅馆，热水时有时无，但房东的 **笑容** 是五星级的。 |
+
+> **结论**：理想总是丰满，现实却常常“骨感”，但正是这种反差让旅行充满笑声与故事。
+
+---
+
+## 本地人秘籍（老司机的隐藏Tips）
+
+- **交通**：在市区，最方便的交通方式是 **Bajaj（三轮摩托）**，上车前先和司机“议价”，通常 **5-10比尔** 就能搞定短途。若想更自由，可租一辆自行车（**约 30比尔/天**）。
+- **礼仪**：进入教堂或清真寺请 **脱鞋**，并且 **不要穿短裤**——尊重当地宗教是基本的“礼貌加分”。  
+- **隐藏景点**：  
+  - **库尔西尔山（Kuskuam）** 的古老石桥，传说中是古代王子私奔的通道，拍照超有感。  
+  - **皇家浴池（Royal Bath）**：每月的第一周会对外开放，水面映出城堡倒影，浪漫满分。  
+- **语言**：学会几句 **阿姆哈拉语** 会让你瞬间变成“VIP”：  
+  - “*Selam*” = 你好  
+  - “*Ameseginalehu*” = 谢谢  
+  - “*Ete?”* = 多少钱？  
+- **最佳旅行时间**：10月至次年3月是干季，天气凉爽，适合徒步和拍照。雨季（6-9月）虽然绿意盎然，但道路泥泞，行程会更具挑战性（适合喜欢冒险的你）。
+
+---
+
+## 结语：别犹豫，快出发！
+
+**还在等什么？** 贡达尔这座城市像一杯浓郁的 **埃塞俄比亚咖啡**：入口有点苦涩（现实的坑），但回味却是甘甜的（历史的香）。快把机票订好，背上行囊，来这里和古老的城堡一起摇摆，和本地人一起笑谈人生！记得带上你的 **笑容** 与 **好奇心**，这座城市的每块石头都会为你讲述一段奇幻故事。**出发吧，未来的“贡达尔达人”！**
+b:["$","$L3","gondar",{"post":{"date":"$D2026-02-21T00:00:00.000Z","createdAt":1771675353847,"city":{"en":"Gondar","zh":"贡达尔","country":"Ethiopia","countryZh":"埃塞俄比亚"},"slug":"gondar","photoUrl":"/images/cities/gondar.jpg","model":"MiniMaxAI/MiniMax-M2","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"MiniMaxAI/MiniMax-M2","modelZh":"MiniMaxAI/MiniMax-M2","summaryEn":"This travel blog post explores the enchanting city of Gondar, Ethiopia, blending humor with practical travel advice to help visitors navigate the \"Camelot of Africa\" like a local.","summaryZh":"在埃塞俄比亚的高原上，贡达尔以其保存完好的中世纪城堡和浓郁的咖啡文化吸引着背包客；而这篇攻略将带你用一天的时间，笑看这座古城的理想与现实。","contentEn":"$1e","contentZh":"$1f"}}]
+20:T2058,
+## Pleven: Bulgaria's Best Kept Secret (Or Just Really Good at Hide and Seek?)
+
+Alright, globe-trotters and accidental tourists, gather 'round! Forget Sofia's hustle and Plovdiv's ancient swagger for a hot second. Let's talk about **Pleven**. You might be scratching your head, muttering, "Ple-who-ven?" Exactly! That's part of its charm. Nestled in the rolling hills of Northern Bulgaria, Pleven is like that quiet kid in class who turns out to be a secret rockstar ninja. It's got history that packs a punch (literally, involving cannons), parks prettier than your Instagram feed, and a vibe so laid-back you'll forget what stress feels like. Prepare for surprises!
+
+## Fun Facts That'll Make You Sound Like a Local (Or at Least a Well-Read Tourist)
+
+1.  **The Panorama That Puts IMAX to Shame:** Pleven is home to the **Pleven Panorama**, one of only about 50 massive panoramic paintings *in the entire world*. It depicts the epic, five-month Siege of Pleven (1877) during the Russo-Turkish War. Standing inside is like being teleported onto a 19th-century battlefield, complete with sound effects and mannequins frozen mid-charge. It's history, but make it immersive (and slightly overwhelming before coffee).
+2.  **A Mausoleum Like No Other (Seriously, Where's the Body?):** High on a hill overlooking the city sits the **St. George the Conqueror Chapel Mausoleum**. It's stunning, neo-Byzantine, and built to honor the Russian and Romanian soldiers who died freeing Bulgaria. The fun fact? Despite being a mausoleum, **there are no actual bodies buried inside**. It's purely a memorial. Think of it as a very grand, very empty trophy case for national gratitude.
+3.  **The Wine Lake That Wasn't (But Kinda Was):** Legend whispers (and some historical records nod vaguely) that after the Siege of Pleven, the victorious Russian troops celebrated by... draining the city's wine cellars into a nearby lake. Hence the name **Kaylaka Park**'s "Wine Lake" (*Viren Ezera*). While historians debate the exact volume of vino involved, the romantic (and slightly tipsy) notion persists. We choose to believe. Because why not?
+
+## Chow Down Like a Champion: Pleven's Must-Try Bites
+
+Bulgarian food is glorious everywhere, but Pleven adds its own flair:
+
+*   **Banitsa with a Pleven Twist:** You know banitsa, the flaky, cheesy pastry that is basically Bulgaria's answer to happiness? Here, they often make it with **fresh, local cheese** that's slightly tangier and crumblier. Perfect fuel for sightseeing. Eat it warm. Just do it.
+*   **Kachamak (Качамак):** Think polenta's heartier, more rustic Bulgarian cousin. It's a simple but soul-warming dish made from **cornmeal, water, salt, and sirene cheese**, often topped with fried pork cracklings or just a generous slab of butter. It's peasant food elevated to comfort food royalty. Embrace the carbs.
+*   **Pleven-Style Meatballs (Кюфтета по Плевенски):** These aren't your average meatballs. They're typically **larger, flatter**, and seasoned with a distinct blend that might include savory or mint. Often served sizzling from the pan with a mountain of fries or a simple shopska salad. Pure, unadulterated meaty goodness.
+*   **Local Wines:** Northern Bulgaria is wine country! Ask for **local Gamza or Merlot** in the restaurants. They might not have the global fame of French wines, but they offer fantastic value and authentic character. Support the locals and get a little merry!
+
+## The "I Only Have 24 Hours and a Camera" Itinerary
+
+Okay, speed demon, let's maximize that day:
+
+*   **Morning (9:00 AM - 12:00 PM):** Start strong at the **Pleven Panorama**. Allow at least 1.5 hours to gawk at the massive painting and explore the surrounding park with its very real, very old cannons and trenches. History lesson: absorbed.
+*   **Lunch (12:30 PM - 1:30 PM):** Head towards the city center. Grab a hearty lunch at a traditional **mehana (tavern)**. Order the Pleven-style meatballs or some kachamak. Don't forget the shopska salad!
+*   **Afternoon (1:45 PM - 5:00 PM):** Explore the **City Center**. Admire the grand **Regional History Museum** building (pop in if time allows, but the exterior is impressive enough for a quick stop). Stroll down **Pedestrian Street (Knyaz Alexander I)**, browse the shops, and find the charming **"Secret Garden of Pleven"** tucked away near the Drama Theatre – a perfect spot for a quick coffee break. Then, taxi or bus up to the **St. George the Conqueror Chapel Mausoleum** for breathtaking panoramic views of the city. Reflect on the lack of bodies.
+*   **Late Afternoon (5:15 PM - 7:00 PM):** Wind down in **Kaylaka Park**. Walk around the lakes (including the legendary Wine Lake!), breathe in the pine-scented air, maybe rent a paddle boat if you're feeling energetic. Find a quiet bench and just *be*.
+*   **Evening (7:30 PM onwards):** Dinner time! Find another cozy mehana or a restaurant in the center or near Kaylaka. Try something you haven't had yet, sip on local wine, and soak in the relaxed Pleven evening vibe.
+
+## Expectation vs. Reality: The Pleven Edition
+
+*   **Expectation:** Arriving in a grand, bustling metropolis pulsating with undiscovered energy!
+    **Reality:** Stepping off the bus/train into a pleasantly calm, slightly sleepy provincial city where the biggest rush hour involves pensioners strolling to the park. It's charming, not chaotic.
+*   **Expectation:** The Panorama will be a quick, interesting art exhibit.
+    **Reality:** You emerge 90 minutes later, blinking in the sunlight, slightly disoriented, humming a Russian military march you swear you've never heard before, and checking over your shoulder for Cossacks. It's an *experience*.
+*   **Expectation:** Finding the "Secret Garden" will involve complex riddles and a map with a big 'X'.
+    **Reality:** Asking a friendly local who points you down a clearly marked alleyway about 50 meters from the main street. Still pretty, though!
+*   **Expectation:** Kaylaka Park's "Wine Lake" will shimmer faintly purple and smell vaguely of Merlot.
+    **Reality:** It looks like... a lovely lake. But the *story* makes you grin every time you look at it. Imagination is key!
+
+## The Local's Cheat Sheet: Navigate Pleven Like a Pro
+
+*   **Getting Around:** The city center is **very walkable**. For the Panorama (slightly out of center) or Kaylaka Park/Mausoleum (further out), **taxis are cheap and plentiful** (use apps like TaxiMe or OK Supertrans). There are **buses**, but routes/times can be less intuitive for short stays. Walking + taxis is your best bet.
+*   **Etiquette:** Standard Bulgarian politeness applies. A simple "**Zdrasti**" (Hello) and "**Merci**" (Thank you) go a long way. **Nodding for "No" and shaking head for "Yes"?** Not really a thing in everyday interactions anymore, especially with younger people. Just speak clearly. Tipping around 10% in restaurants is appreciated.
+*   **Hidden Gems:**
+    *   **The Wine Cellar in Kaylaka:** Near the main entrance of Kaylaka Park, there's an actual wine cellar you can peek into (or sometimes even visit for tastings – inquire locally!). Connect with the legend!
+    *   **The Regional History Museum:** If you have *any* extra time beyond the Panorama, this place is packed with fascinating artifacts, including stunning Thracian treasures. Worth a proper visit.
+    *   **Evening Strolls in Kaylaka:** Locals love their evening walks in the park. Join them! The light is magical, and the atmosphere is pure relaxation.
+    *   **The Drama Theatre Building:** Even if you don't see a show, the building itself is architecturally interesting. Check its schedule – you might get lucky!
+
+## So, Should You Bother with Pleven?
+
+Absolutely! Pleven won't hit you over the head with glamour, but it will sneak up on you with its unique blend of dramatic history, surprising green spaces, genuine local flavor, and a pace of life that feels refreshingly human. It’s the antidote to overtourism. You won't find hordes of selfie sticks, just solid history, delicious food, friendly locals, and a story about a lake full of wine (maybe). Ditch the predictable, embrace the underrated. Pack your walking shoes, your appetite, and a sense of humor. Pleven is waiting to pleasantly surprise you. Go find it!
+21:T1522,
+# 普列文：除了“围城”，这里还有全世界最好的红酒和……好多台阶！
+
+嘿，各位旅行大侠！如果你正在地图上寻找一个既不是热门旅游流水线、又能让你在朋友间显得超有品味的宝藏目的地，那么恭喜你，你挖到宝了！欢迎来到保加利亚的“心脏”——普列文（Pleven）。别被它严肃的历史名头吓到，这里可比你想象的要“醉人”得多！
+
+## 一个俏皮的欢迎语
+欢迎来到普列文，这里空气中的历史尘埃可能比你爷爷的旧夹克还多，但别担心，我们很快就会用醇香的红酒把它们全部冲走！准备好你的酒杯和好胃口，因为这座城市可不只会跟你讲历史课。
+
+## 至少3个关于这座城市的有趣冷知识
+*   **“阶梯”之王**：普列文拥有全巴尔干半岛最长的阶梯之一——由**101级台阶**组成的纪念阶梯（Memorial Staircase）。爬上去不仅能俯瞰全城，还能理直气壮地告诉自己：“我今天运动量达标了，晚饭可以多吃一块烤肉！”
+*   **酒神的秘密基地**：普列文地区拥有全欧洲最大的**地下酒窖**之一（Kaylaka Complex），隧道总长**超过20公里**！据说里面存了上百万升红酒。想象一下，你脚下踩着的不是土地，而是一片葡萄酒的海洋。
+*   **改名狂魔**：这座城市在历史上换过好几次名字。它曾叫过“普列文”、“普列夫尼亚”，甚至在奥斯曼帝国时期被称为“普列夫内”。所以，如果你记不住它的名字，没关系，历史上很多人都没搞明白过。
+
+## 必尝的当地美食
+来普列文，你的味蕾没有休息的权利！
+*   **Плевенска капама (Plevenska Kapama)**：这是当地的终极盛宴！在一个巨大的陶罐里，层层叠放酸菜、几种不同的肉类（通常是鸡肉、猪肉和羊肉）和香肠，慢炖数小时。这简直是为“选择困难症”患者量身定做的福音——你不用选择，全都要！
+*   **本地葡萄酒**：别忘了，你可是在保加利亚最大的葡萄酒产区之一。点一杯醇厚的**梅洛（Merlot）** 或**赤霞珠（Cabernet Sauvignon）**，你会明白为什么当地人谈起红酒总是满脸自豪。
+*   **巴尼萨 (Banitsa)**：经典的保加利亚奶酪馅饼，是完美的早餐或小吃。热乎乎、香喷喷，是开启一天探险模式的绝佳燃料。
+
+## 一日游攻略 (如果只有24小时该去哪里)
+时间紧，任务重，跟着走就对了！
+*   **上午**：直接冲向**普列文全景图纪念馆**（Pleven Panorama）。这是世界上仅有的少数几个全景画纪念馆之一，用震撼的360度画面带你瞬间穿越回1877年那场著名的围城战。保证比你读十本历史书印象更深刻。
+*   **中午**：在市中心找一家传统餐馆（Mehana），大口吃掉上面提到的**Kapama**，并用一杯红酒犒劳自己。
+*   **下午**：去**Kaylaka公园**散步消食。这里是城市的绿肺，有湖泊、岩壁和步道。别忘了去找找那些神秘的地下酒窖入口闻闻酒香（如果开放参观，一定要进去！）。
+*   **傍晚**：挑战那**101级台阶**，爬到顶部的圣乔治圆形大厅（St. George the Conqueror Chapel），在日落时分享受全城最佳视野。
+*   **晚上**：回到市中心，在** pedestrian-only Alexander I Street** 上找家咖啡馆坐下，像本地人一样观察来往行人，为完美的一天干杯。
+
+## 理想 vs. 现实的幽默的对比
+*   **理想**：我像个博学的历史学家，在纪念碑前沉思，感受历史的厚重。
+*   **现实**：我满脑子都在想：“这台阶怎么还没完？！”以及“等下晚饭点什么酒配我的Kapama？”
+*   **理想**：我用流利的保加利亚语和当地人亲切交谈。
+*   **现实**：我疯狂地点头微笑，并试图用“Здравей（你好）”和“Благодаря（谢谢）”走遍天下。
+*   **理想**：在Kaylaka公园拍出仿佛置身原始森林的大片。
+*   **现实**：照片背景里总有几个正在惬意野餐或慢跑的本地大爷。
+
+## 本地人秘籍 (关于交通、礼仪或隐藏景点的建议)
+*   **交通**：市中心很小，**全靠双脚**就能搞定。如果要去稍远的Kaylaka公园，打车非常便宜，但**上车前务必和司机谈好价格**，或者确认打表。
+*   **礼仪**：保加利亚人**点头表示“不”**，**摇头表示“是”**。是的，你没看错。这可能会让你彻底懵圈，所以最安全的方式是用语言确认“Da（是）”或“Ne（否）”。
+*   **隐藏景点**：除了著名的Kaylaka，还可以去**历史博物馆**看看，里面收藏了围城战的丰富史料。另外，留意散落在城市各处的**俄军士兵纪念碑**，它们静静地讲述着过去的故事。
+
+## 鼓励读者前往的结尾
+所以，还等什么呢？普列文这座低调的城市，就像一个等待被打开的惊喜盲盒，里面装满了历史、美酒和保加利亚式的热情。它可能没有索菲亚的繁华或黑海边的喧嚣，但它有着独一无二的故事和味道。快来亲自爬一爬那“要命”的台阶，尝一口那“醉人”的美酒，然后把你的惊喜发现，告诉下一个还不知道这里有多酷的旅行者吧！Наздраве（干杯）！
+c:["$","$L3","pleven",{"post":{"date":"$D2026-02-21T00:00:00.000Z","createdAt":1771661001298,"city":{"en":"Pleven","zh":"普列文","country":"Bulgaria","countryZh":"保加利亚"},"slug":"pleven","photoUrl":"/images/cities/pleven.jpg","model":"deepseek-ai/DeepSeek-R1-0528","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"deepseek-ai/DeepSeek-R1-0528","modelZh":"deepseek-ai/DeepSeek-V3","summaryEn":"This travel blog post serves up Pleven, Bulgaria with a side of humor and practical tips. Discover quirky history, must-eat foods, a jam-packed 24-hour itinerary, and the hilarious gap between expectation and reality in this charmingly underrated city.","summaryZh":"这篇幽默风趣的文章带你探索保加利亚的“英雄之城”普列文，揭秘它的冷知识、美食和隐藏玩法。准备好被这座融合了历史、美酒和独特魅力的城市惊艳吧！","contentEn":"$20","contentZh":"$21"}}]
+22:Tbf2,
+## A Playful Welcome to Sohar, Oman!
+
+Hey, fellow travelers! Are you ready to venture off the beaten path and explore a city that's a perfect blend of traditional and modern? Look no further than Sohar, Oman! This charming coastal city is waiting to be discovered, and I'm excited to share its secrets with you.
+
+## Fun Facts About Sohar
+
+Before we dive into the nitty-gritty of Sohar, here are some fun facts to get you excited:
+
+* **Sohar is home to the oldest Sultanate in the Arabian Peninsula**, with a rich history dating back over 2,000 years. Talk about old school!
+* **The city is famous for its copper mining**, which has been its lifeblood for centuries. You might even stumble upon some ancient copper mines while exploring.
+* **Sohar has its own unique dialect**, which is different from standard Arabic. Try to pick up a few phrases, and you'll win over the locals' hearts!
+
+## Local Food You Must Try
+
+Omani cuisine is a delightful blend of Middle Eastern, Indian, and African flavors. Be sure to try these local specialties:
+
+* **Shuwa**: A traditional Omani dish made with meat, rice, and spices, cooked in an underground oven. It's a flavor explosion!
+* **Luqaimat**: Sweet dumplings filled with dates, nuts, and spices. They're the perfect dessert or snack.
+* **Kahwa**: A traditional Omani coffee, served with dates and a touch of cardamom. It's a warm and cozy treat.
+
+## One-Day Itinerary: 24 Hours in Sohar
+
+If you only have a day to spare, here's a whirlwind tour to make the most of your time:
+
+* **Morning**: Start at the Sohar Fort, a historic castle that offers stunning views of the city. Explore the surrounding souk (market) for some local shopping and snacking.
+* **Afternoon**: Head to the Sohar Beach, where you can relax and enjoy the sun, sand, and sea. Don't forget to try some fresh seafood for lunch!
+* **Evening**: Visit the Sohar Souq, where you can haggle for souvenirs, try some street food, and soak up the lively atmosphere.
+
+## Expectation vs. Reality
+
+**Expectation**: Sohar is a sleepy, traditional town with nothing to do.
+**Reality**: Sohar is a vibrant city with a rich history, eclectic markets, and a stunning coastline. It's a hidden gem waiting to be explored!
+
+## The Local's Cheat Sheet
+
+Before you embark on your Sohar adventure, here are some insider tips:
+
+* **Getting around**: Taxis are plentiful, but you can also rent a car for a day to explore the surrounding areas.
+* **Etiquette**: Respect the local culture by dressing modestly, removing your shoes when entering mosques or homes, and using your right hand when eating or giving/receiving something.
+* **Hidden gem**: The Sohar Fish Market is a must-visit, even if you're not a fish lover. The energy and colors are infectious!
+
+## Conclusion
+
+Sohar, Oman, is a city that will steal your heart with its warm hospitality, rich history, and stunning natural beauty. Whether you're a history buff, foodie, or beach lover, Sohar has something for everyone. So, pack your bags and get ready to discover the secrets of this charming Omani city!
+23:T13ad,
+## 🎉 俏皮的欢迎语  
+嗨，旅行狂人们！准备好把行李箱装进时间机器，瞬间冲到中东的“海上埃及”——索哈尔了吗？别担心，这里没有金字塔，只有更酷的渔港、古老的堡垒和随时随地可以掀起的“咖啡浪”。系好安全带，咱们要起航啦！
+
+## 🧊 有趣冷知识（至少3个）  
+1. **“世界上最古老的灯塔”**——索哈尔灯塔建于公元9世纪，虽然现在已经是个博物馆，但它仍然在夜空中发出“历史的光”。  
+2. **海龟的“度假村”**——每年夏季，成千上万只绿海龟会在索哈尔的海岸产卵，夜晚可以听到它们把“沙子”装进小袋子里，真是自然界的快递员。  
+3. **盐城的沙子比盐还贵**——索哈尔的盐田出产的海盐因含有微量的矿物质而被称为“金色盐”，据说皇室厨师每公斤要付出比黄金还贵的代价。  
+4. **驼铃不是唯一的交通信号**——在古代，索哈尔的港口用的是“敲鼓”来指挥船只进出，比今天的灯塔更有节奏感。  
+
+## 🍽 必尝的当地美食  
+- **海鲜烤鱼（Samak Mashwi）**：用本地香料腌制后直接烤在炭火上，外酥里嫩，配上一杯薄荷酸奶饮料，简直是海风的味道。  
+- **阿曼咖啡（Qahwa Omani）**：咖啡里加入豆蔻和肉桂，喝完后会让你的舌头跳起传统舞蹈。  
+- **椰枣肉卷（Maqbous）**：把香软的椰枣塞进烤鸡肉里，甜咸交织，是当地人婚礼必备甜点。  
+- **盐烤鸡（Dawoodah）**：直接埋在盐坑里烤，鸡肉吸收盐的“微量矿物”，吃完后你会觉得自己也闪闪发光。  
+
+## 🗺 一日游攻略（只有24小时该去哪里）  
+| 时间 | 行程 | 小贴士 |
+|------|------|--------|
+| 08:00 | **索哈尔堡垒（Sohar Fort）** | 早起避人潮，别忘了带防晒帽，堡垒内有免费导览音频。 |
+| 10:00 | **古老的灯塔博物馆** | 进门前拍张自拍，灯塔顶部视野极佳，适合拍“我在古代灯塔的自拍”。 |
+| 12:00 | **海滨市场（Souq Al Batin）** | 试吃烤鱼配椰枣酱，顺手买点手工银饰，讨价还价时记得笑容满面。 |
+| 13:30 | **午餐：海鲜烤鱼 + 阿曼咖啡** | 推荐坐在海边露台，感受海风与咖啡的完美混搭。 |
+| 15:00 | **海龟产卵观赏（季节限定）** | 若遇产卵季，提前预约夜间导览，记得穿长袖防蚊。 |
+| 17:30 | **哈迪尔海滩（Hadiya Beach）** | 日落前在沙滩上散步，拍下金色海面，顺便练练拍照技巧。 |
+| 19:30 | **晚餐：盐烤鸡 + 椰枣肉卷** | 选一家靠海的餐厅，点上一壶薄荷茶，结束完美一天。 |
+| 21:00 | **夜间港口散步** | 看灯塔灯光闪烁，听渔夫们的海上故事，给自己打个“旅行之星”。 |
+
+## 🤹‍♂️ 理想 vs. 现实（幽默对比）  
+| 理想 | 现实 |
+|------|------|
+| “在灯塔顶端俯瞰整个阿拉伯海，感觉自己是《指环王》里的巫师。” | 你爬到顶端后发现风把帽子吹走，手机信号只剩 1%——只能用手绘地图回去。 |
+| “在海龟产卵现场静静观察，感受自然的神圣。” | 夜里蚊子如同迷你直升机，海龟太害羞，只好在沙子里留下“脚印”做纪念。 |
+| “在市场里砍价，笑容灿烂，买到独一无二的手工银饰。” | 砍价时店家用阿拉伯语快速切换价格表，你的英文‘Can I have a discount?’ 被翻译成‘你想要免费吗？’ |
+| “在沙滩上晒日光浴，感受海风拂面。” | 沙子细得像糖粉，晒得你像烤熟的鸡腿，忘了带防晒霜。 |
+
+## 🧭 本地人秘籍（交通、礼仪或隐藏景点）  
+- **交通秘籍**：在市区打车最省钱的方式是直接叫“出租车”（阿拉伯语：تاكسي），而不是使用国际租车APP，因为当地司机更熟悉小巷子，能避开旅游车常走的拥堵路段。  
+- **礼仪小贴士**：拜访当地家庭或餐馆时，递东西请用右手递交，左手保持在膝上；如果被邀请喝咖啡，记得在喝完后轻轻敲杯底，这是表示“谢谢”。  
+- **隐藏景点**：**阿斯兰山洞（Aslan Cave）**——位于城郊的岩石裂缝中，仅有当地渔民知道入口，洞内有古代石刻和天然的凉爽水池，是夏日避暑的秘密天堂。  
+- **手机充值**：购买当地的“Omantel”预付费卡只需10里亚尔，数据流量足够你一整天刷IG上传美照，记得在便利店叫“充值”而不是英文“top‑up”。  
+
+## 🚀 鼓励前往的结尾  
+如果你厌倦了千篇一律的旅游路线，想要一场兼具历史、自然和美食的全感官冲击，那么索哈尔就是你下一站的完美答案。把行李箱装进“时间机器”，冲向这座被海风与沙漠共同拥抱的城市——保证你回来后，朋友们都会问：“你到底去了哪个星球？”  
+
+快点订票吧，索哈尔的灯塔已经点亮，等着你的到来！ 🎈🌊🕌
+d:["$","$L3","sohar",{"post":{"date":"$D2026-02-21T00:00:00.000Z","createdAt":1771646476491,"city":{"en":"Sohar","zh":"索哈尔","country":"Oman","countryZh":"阿曼"},"slug":"sohar","photoUrl":"/images/cities/sohar.jpg","model":"meta-llama/Meta-Llama-3-70B-Instruct","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"meta-llama/Meta-Llama-3-70B-Instruct","modelZh":"openai/gpt-oss-120b","summaryEn":"Discover the hidden gem of Sohar, Oman, a city steeped in history and culture, with a dash of fun facts, delicious local food, and a jam-packed one-day itinerary. Get ready to fall in love with this charming city and its warm Omani hospitality.","summaryZh":"索哈尔是阿曼的古老港口城市，充满了海风、香料和惊喜。本文用幽默的笔触带你在24小时内玩转这座被沙漠和海洋双重拥抱的城市。","contentEn":"$22","contentZh":"$23"}}]
+24:T911,
+[Full blog in Markdown with ## for section headers, lists, bold, etc.]
+
+ Let's plan:
+
+ 1. Playful Welcome: 
+    - Welcome the reader with a fun, energetic tone. Maybe joke about the name or the journey.
+
+ 2. Fun Facts (at least 3):
+    - Fact 1: Tulsipur was once a kingdom (Tulsipur State) and now is a sub-metropolitan city in Dang Deukhuri.
+    - Fact 2: It's known for its religious harmony (Hindu, Muslim, Buddhist, Christian) and many temples/mosques.
+    - Fact 3: The city is a gateway to the beautiful Deukhuri Valley and is surrounded by the Mahabharat Range.
+
+ 3. Local Food You Must Try:
+    - Mention local specialties: 
+        - **Gundruk ko Jhol** (fermented leafy green vegetable soup)
+        - **Sidra** (a type of local bread, often made from rice or wheat, sometimes stuffed)
+        - **Local Thakali Thali** (since Thakali cuisine is popular in the region, but note that Tulsipur has its own Thakali restaurants)
+
+ 4. One-Day Itinerary:
+    - Morning: Visit the Tulsipur Bazaar and local temples (like the Shiva Temple).
+    - Afternoon: Head to the nearby Rapti River for a picnic or short walk, then lunch at a local eatery.
+    - Evening: Explore the local market for handicrafts and try street food. End with sunset views from a nearby hill.
+
+ 5. Expectation vs. Reality (humorous):
+    - Expectation: A sleepy village with nothing to do.
+    - Reality: A bustling town with chaotic charm, where you might get caught in a parade of goats or find a festival happening.
+
+ 6. The Local’s Cheat Sheet:
+    - Transport: Tempos and rickshaws are common. Bargain for rickshaws. Buses are available but crowded.
+    - Etiquette: Dress modestly, remove shoes before entering homes/temples, and use your right hand for giving/taking.
+    - Hidden Gems: Ask locals about the nearby hot springs (Tapti Kunda) or the less-visited Siddha Baba Temple.
+
+ 7. Encouraging Conclusion:
+    - Encourage the reader to visit and experience the warmth of the people and the unexpected adventures.
+
+ Now, write in Markdown with the specified sections.
+</think>
+SUMMARY: This lively travel guide to Tulsipur, Nepal, serves up humor, local secrets, and a whirlwind 24-hour adventure. Discover quirky facts, must-try foods, and why this underrated gem will charm your socks off (if the goats don’t steal them first).
+25:T13a5,
+## 🎉 俏皮的欢迎语  
+嗨，旅行狂人们！准备好把行李箱塞进“惊喜”这个词里了吗？欢迎来到**图尔西普尔**——一个连GPS都偶尔会“迷路”的地方，但正因为如此，它才更值得你用脚步去探险！
+
+## ❄️ 有趣冷知识（至少3条）  
+1. **牛是街头的“红绿灯”**：在图尔西普尔，牛群常常悠闲地横穿马路，司机们会比等红灯更耐心地让它们先过去。  
+2. **“雨季的彩虹”是自然的免费灯光秀**：每年6‑9月的雨季，雨后天空会出现七彩彩虹，甚至有时会出现“双彩虹”，堪称天然的Instagram滤镜。  
+3. **“大象邮递员”并非传说**：在郊区的某些村庄，仍有大象帮助运送邮件和小包裹，虽然现在大多数已改用摩托车，但偶尔还能看到“大象快递”。  
+4. **世界上最小的“火车站”**：图尔西普尔的火车站只有两间小屋，站台长度不足一辆巴士的长度，却仍然每天迎来数百名旅客。  
+
+## 🍽 必尝的当地美食  
+- **达尔巴特（Dal Bhat）**：尼泊尔的国民套餐，配上香喷喷的红扁豆汤、米饭和多种小菜，吃完后会让你忍不住想再来一碗。  
+- **莫莫（Momo）**：蒸或煎的饺子，里面包着绞肉或蔬菜，配上特制的辣酱，简直是味蕾的“过山车”。  
+- **塔尔卡里（Tarkari）**：当地的蔬菜咖喱，使用新鲜的季节蔬菜和独特的香料，颜色鲜艳、口感层次丰富。  
+- **甘蔗汁（Gur Roti）**：在街头摊位上买一杯新鲜压榨的甘蔗汁，甜而不腻，解渴又提神。  
+
+## 🗺 一日游攻略（如果只有24小时该去哪里）  
+| 时间 | 行程 | 小贴士 |
+|------|------|--------|
+| **08:00‑09:00** | **早餐**：在市中心的“老马车咖啡馆”点一碗热腾腾的达尔巴特 + 一杯甘蔗汁 | 早点去，避免排队 |
+| **09:30‑11:30** | **图尔西普尔古城墙**：漫步城墙，俯瞰河谷全景，拍摄“我在尼泊尔的第一张全景照”。 | 带好防晒帽，墙上有不少小摊位卖手工艺品 |
+| **12:00‑13:30** | **午餐 & 逛市集**：在**巴格马蒂市场**尝莫莫，顺便淘点手工银饰或羊毛围巾。 | 记得砍价，笑容是最佳武器 |
+| **14:00‑15:30** | **塔尔卡里瀑布**（Tarkari Falls）：短途巴士可达，瀑布下的清凉水潭是拍照的绝佳背景。 | 穿防滑鞋，带防水袋保护手机 |
+| **16:00‑17:30** | **寺庙巡礼**：参观**帕尔巴特寺（Pashupatinath）**，感受当地的宗教氛围。 | 进入寺庙请脱鞋，保持安静 |
+| **18:00‑19:30** | **晚餐**：在河边的“星光餐厅”点一份烤羊肉配塔尔卡里，配上当地酿造的啤酒。 | 预订座位，河景最佳时段是日落时分 |
+| **20:00‑22:00** | **夜市 & 音乐**：逛**夜光市集**，尝试当地的烤玉米，顺便欣赏现场的民俗乐队。 | 小心钱包，夜市人多热闹 |
+
+## 🤔 理想 vs. 现实（幽默对比）  
+| 理想 | 现实 |
+|------|------|
+| **理想**：在清晨的雾中，站在城墙上俯瞰云海，像电影《指环王》里的英雄。 | **现实**：雾散了，城墙上有一只好奇的山羊在“审视”你的背包。 |
+| **理想**：在瀑布旁的吊床上悠闲地喝椰子水。 | **现实**：吊床被当地小孩抢走，变成了“摇摇乐”。 |
+| **理想**：在夜市品尝莫莫，配上浪漫的烛光。 | **现实**：烛光被街灯抢走，只有炭火的“微光”，但味道依旧让人上瘾。 |
+| **理想**：坐在咖啡馆里，写下旅行日志，背景是悠扬的笛声。 | **现实**：咖啡馆里正上演“牛群穿越马路”的现场秀，笛声被牛哞声盖过。 |
+
+## 🕵️‍♂️ 本地人秘籍（交通、礼仪、隐藏景点）  
+- **交通**：市区的**三轮摩托（Tempo）**是最快捷的“打车”方式，记得先和司机议价，**不接受“先走后付”**的套路。  
+- **礼仪**：进入寺庙或家庭时，**双手合十说“Namaste”**是必备礼貌；如果不小心踩到别人的脚，立刻低头道歉，笑容会帮你化解尴尬。  
+- **隐藏景点**：  
+  1. **“隐秘的石桥”**（Hidden Stone Bridge）：位于城郊的老林中，只有当地老人会指路，桥下有清澈的泉水，适合野餐。  
+  2. **“彩绘墙壁”**：在市中心的巷子里，有一面被涂鸦艺术家装饰的墙，背后藏着一家只卖手工巧克力的小店。  
+- **小技巧**：买水果时，**先闻后挑**——如果闻到淡淡的花香，那一定是新鲜的。  
+
+## 🚀 鼓励读者前往的结尾  
+如果你已经在脑海里勾勒出一幅“山谷、瀑布、牛群与莫莫”的画面，那就别再犹豫了！**图尔西普尔**等着用它的热情、幽默和独特的尼泊尔味道，把你的旅行清单刷满。收拾行囊，踏上这段24小时的奇幻冒险——保证你回家后会有一堆笑话和一颗想再来一次的心！ 🌏✈️
+e:["$","$L3","tulsipur",{"post":{"date":"$D2026-02-21T00:00:00.000Z","createdAt":1771632169217,"city":{"en":"Tulsipur","zh":"图尔西普尔","country":"Nepal","countryZh":"尼泊尔"},"slug":"tulsipur","photoUrl":"/images/cities/tulsipur.jpg","model":"deepseek-ai/DeepSeek-R1","imageModel":"Qwen/Qwen-Image-2512","modelEn":"deepseek-ai/DeepSeek-R1","modelZh":"openai/gpt-oss-120b","summaryEn":"[2-sentence summary]","summaryZh":"图尔西普尔是尼泊尔北部的隐藏宝石，兼具自然风光与热闹市集。本文用幽默的笔调为你揭开这座城市的奇闻趣事、必吃美食和24小时速览攻略。","contentEn":"$24","contentZh":"$25"}}]
+f:["$","nav",null,{"className":"mt-10 flex flex-wrap items-center gap-2","aria-label":"Pagination","children":[[["$","a","1",{"href":"/","aria-current":"page","className":"px-4 py-2 rounded border text-sm font-medium text-white bg-blue-600 border-blue-600","children":1}],["$","a","2",{"href":"/page/2","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":2}],["$","a","3",{"href":"/page/3","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":3}],["$","a","4",{"href":"/page/4","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":4}],["$","a","5",{"href":"/page/5","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":5}],["$","a","6",{"href":"/page/6","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":6}],["$","a","7",{"href":"/page/7","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":7}],["$","a","8",{"href":"/page/8","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":8}],["$","a","9",{"href":"/page/9","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":9}],["$","a","10",{"href":"/page/10","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":10}],["$","a","11",{"href":"/page/11","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":11}],["$","a","12",{"href":"/page/12","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":12}],["$","a","13",{"href":"/page/13","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":13}],["$","a","14",{"href":"/page/14","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":14}],["$","a","15",{"href":"/page/15","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":15}],["$","a","16",{"href":"/page/16","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":16}],["$","a","17",{"href":"/page/17","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":17}],["$","a","18",{"href":"/page/18","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":18}],["$","a","19",{"href":"/page/19","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":19}],["$","a","20",{"href":"/page/20","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":20}],["$","a","21",{"href":"/page/21","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":21}],["$","a","22",{"href":"/page/22","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":22}],["$","a","23",{"href":"/page/23","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":23}],["$","a","24",{"href":"/page/24","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":24}],["$","a","25",{"href":"/page/25","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":25}],"$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37"],"$L38"]}]
+10:["$","$L39",null,{}]
+11:["$","script","script-0",{"src":"/_next/static/chunks/64185856f3d01436.js","async":true}]
+12:["$","script","script-1",{"src":"/_next/static/chunks/50da8c85b8b02a97.js","async":true}]
+13:["$","$L3a",null,{"children":["$","$3b",null,{"name":"Next.MetadataOutlet","children":"$@3c"}]}]
+26:["$","a","26",{"href":"/page/26","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":26}]
+27:["$","a","27",{"href":"/page/27","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":27}]
+28:["$","a","28",{"href":"/page/28","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":28}]
+29:["$","a","29",{"href":"/page/29","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":29}]
+2a:["$","a","30",{"href":"/page/30","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":30}]
+2b:["$","a","31",{"href":"/page/31","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":31}]
+2c:["$","a","32",{"href":"/page/32","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":32}]
+2d:["$","a","33",{"href":"/page/33","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":33}]
+2e:["$","a","34",{"href":"/page/34","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":34}]
+2f:["$","a","35",{"href":"/page/35","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":35}]
+30:["$","a","36",{"href":"/page/36","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":36}]
+31:["$","a","37",{"href":"/page/37","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":37}]
+32:["$","a","38",{"href":"/page/38","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":38}]
+33:["$","a","39",{"href":"/page/39","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":39}]
+34:["$","a","40",{"href":"/page/40","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":40}]
+35:["$","a","41",{"href":"/page/41","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":41}]
+36:["$","a","42",{"href":"/page/42","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":42}]
+37:["$","a","43",{"href":"/page/43","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":43}]
+38:["$","span",null,{"className":"ml-2 text-sm text-gray-500","children":["Page ",1," of ",43]}]
+3c:null

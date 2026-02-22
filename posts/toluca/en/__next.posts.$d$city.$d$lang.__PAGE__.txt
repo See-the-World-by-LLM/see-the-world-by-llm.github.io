@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[2971,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"default"]
+3:I[16658,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"default"]
+4:I[5500,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"Image"]
+d:I[22016,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],""]
+e:I[13642,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/113dc32f99943d80.js","/_next/static/chunks/be78025b4d4e3fe7.js"],"default"]
+f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+5:Ta9e,# Toluca, Mexico: The Underrated Gem You Didn’t Know You Needed  
+
+## 1. Welcome to Toluca: Where the Air is Thin and the Fun is Thick  
+Bienvenidos to Toluca, the capital of the State of Mexico and the city that’s *way* cooler than its reputation suggests. Nestled at 2,680 meters above sea level, you’ll gasp—both from the altitude and the stunning views. Pro tip: Hydrate like it’s your job, or the altitude *will* humble you.  
+
+## 2. Fun Facts to Impress Your Travel Buddies  
+- **Cosmic Capital**: Toluca is home to the **Cosmovitral**, a breathtaking botanical garden housed in a stained-glass masterpiece. It’s like stepping into a kaleidoscope.  
+- **Sausage Central**: The city is famous for its *chorizo verde* (green sausage). Yes, it’s green. No, it’s not St. Patrick’s Day.  
+- **Volcano Views**: Popocatépetl and Iztaccíhuatl, two iconic volcanoes, loom nearby. Perfect for Instagram—or for pretending you’re in a fantasy novel.  
+
+## 3. Food You Must Try (Or Else)  
+- **Chorizo Verde**: Spicy, herby, and inexplicably green. Pair it with a fresh tortilla and thank us later.  
+- **Tacos de Plátano**: Sweet plantain tacos? Trust us, they’re a thing—and they’re glorious.  
+- **Licor de Mora**: A local blackberry liqueur. Sip it slowly, or it’ll sneak up on you like a ninja.  
+
+## 4. One-Day Itinerary: Toluca in 24 Hours  
+- **Morning**: Start at the **Cosmovitral** (opens at 9 AM). Stare at the stained glass until you feel spiritually enlightened.  
+- **Afternoon**: Hit the **Mercado Municipal** for chorizo verde tacos and souvenir hunting. Buy a sombrero. You know you want to.  
+- **Evening**: Sunset at **Nevado de Toluca**, a dormant volcano. Bonus points if you hike to the crater lakes (and don’t pass out from the altitude).  
+
+## 5. Expectation vs. Reality  
+- **Expectation**: A quaint, sleepy town with cobblestone streets.  
+- **Reality**: A bustling city with chaotic traffic, street vendors yelling about chorizo, and at least one random parade. (Why? Who knows. Just go with it.)  
+
+## 6. The Local’s Cheat Sheet  
+- **Transport**: Use Uber or sitios (taxi stands). Avoid hailing cabs on the street unless you enjoy adventure.  
+- **Etiquette**: Greet everyone with a friendly “buenos días.” Tolucans are warm but appreciate politeness.  
+- **Hidden Gem**: **Calle Independencia** at night—live music, bars, and zero tourists. You’re welcome.  
+
+## 7. Conclusion: Go Forth and Explore!  
+Toluca might not be on every traveler’s radar, but that’s part of its charm. It’s quirky, delicious, and full of surprises. So pack your bags, bring your stretchy pants, and get ready to fall in love with this underrated gem. ¡Vámonos!  
+0:{"buildId":"m8NMWt50jh2MsZF72ypkG","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50 flex flex-col","children":[["$","$L2",null,{}],["$","$L3",null,{"currentLang":"en","city":"toluca"}],["$","main",null,{"className":"container mx-auto px-4 py-12 flex-grow","children":["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"w-full rounded-lg overflow-hidden mb-8 bg-gray-100 aspect-[16/9]","children":["$","$L4",null,{"src":"/images/cities/toluca.jpg","alt":"Toluca, Mexico","width":1600,"height":900,"unoptimized":true,"className":"w-full h-auto object-contain","priority":true}]}],["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center justify-between mb-4","children":[["$","div",null,{"children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-2","children":"Toluca"}],["$","p",null,{"className":"text-xl text-gray-600","children":"Mexico"}]]}],["$","time",null,{"className":"text-gray-500","children":"December 31, 2025"}]]}],["$","div",null,{"className":"flex flex-col gap-1 text-sm text-gray-600","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"children":"Model:"}],["$","a",null,{"href":"https://huggingface.co/deepseek-ai/DeepSeek-V3","target":"_blank","rel":"noreferrer","className":"text-blue-600 hover:text-blue-700","children":"deepseek-ai/DeepSeek-V3"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"children":"Image Model:"}],["$","a",null,{"href":"https://huggingface.co/Tongyi-MAI/Z-Image-Turbo","target":"_blank","rel":"noreferrer","className":"text-blue-600 hover:text-blue-700","children":"Tongyi-MAI/Z-Image-Turbo"}]]}]]}]]}],["$","section",null,{"className":"mb-12","children":["$","div",null,{"className":"prose prose-lg max-w-none text-gray-700 leading-relaxed","children":[["$","pre","pre-0",{"children":["$","code","code-0",{"className":"language-markdown","children":"$5"}]}],"\n","$L6","\n","$L7"]}]}],"$L8"]}]}],"$L9"]}],["$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+6:["$","hr","hr-0",{}]
+7:["$","p","p-0",{"children":"This format ensures your blog post is engaging, easy to read, and packed with personality. Happy travels!"}]
+8:["$","div",null,{"className":"mt-8 pt-8 border-t border-gray-200","children":["$","$Ld",null,{"href":"/","className":"text-blue-600 hover:text-blue-700 font-medium inline-flex items-center gap-2","children":["← ","Back to all posts"]}]}]
+9:["$","$Le",null,{}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/113dc32f99943d80.js","async":true}]
+b:["$","script","script-1",{"src":"/_next/static/chunks/be78025b4d4e3fe7.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null
