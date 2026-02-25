@@ -1,0 +1,978 @@
+1:"$Sreact.fragment"
+2:I[2971,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+3:I[95752,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+3a:I[13642,["/_next/static/chunks/dc38a887bd16fbf2.js","/_next/static/chunks/64185856f3d01436.js","/_next/static/chunks/50da8c85b8b02a97.js"],"default"]
+3b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3c:"$Sreact.suspense"
+4:T1190,
+## 🎉 Welcome to Komárno—Where Slovakia High-Fives Hungary
+
+Ever wanted to be in two countries at once without bending the laws of physics? Buy a one-way ticket to Komárno, the Danube-side town that forgot to pick a team. One minute you’re sipping Slovak borovička, the next you’re across the bridge in Komárom, Hungary, eating lángos and pretending your Duolingo streak finally paid off. Bring stretchy pants and a sense of linguistic confusion—both will be tested.
+
+## 🦟 3 Fun Facts That Make You Sound Smarter at Parties
+
+1. **Europe’s Largest Fortress Carpet**: Komárno’s 19th-century fort system is so sprawling it could carpet-bomb a small principality. Historians call it the “ring of stone”; locals call it “that place we lost the frisbee.”
+2. **Mosquito Royalty**: The town’s coat of arms literally features a mosquito. Legend says medieval fishermen were so fed up they immortalized their buzzy nemesis—proving passive-aggressive heraldry is timeless.
+3. **The 100% Hungarian-Slovak Town**: Street signs rotate languages faster than a Netflix subtitle glitch. You can order *káva* or *kávé* and get the same caffeine, but the waiter will still correct your pronunciation.
+
+## 🍽️ Local Food You Must Try (a.k.a. How to Gain 3 Pounds by Lunch)
+
+- **Komárňanské zemiakové placky**: Potato pancakes the size of a small pizza, served with garlic dip that doubles as vampire repellent.  
+- **Hungarian-Slovak fusion lángos**: Deep-fried dough wearing a parka of sour cream, cheese, and bacon bits. Dietitians weep; taste buds rejoice.  
+- **Waffle-on-a-Stick from EuroVelo 6 Trail Stall**: Because nothing refuels a cyclist like sugar branded with the town crest (yes, the mosquito makes a cameo).
+
+## ⏱️ One-Day Itinerary: 24 Hours, Zero FOMO
+
+**08:00** – Fortress breakfast: climb the Old Fortress ramparts for sunrise; reward yourself with a kofola and a panoramic “I’m-the-king-of-the-Danube” selfie.  
+**10:00** – Europe Place: wander the courtyard-sized model of EU landmarks—perfect for pretending you’ve been to 24 countries before brunch.  
+**12:00** – Market stomach: hit the Friday farmers’ market for potato-pancake Jenga and homemade *slivovica* samples (bring a designated walker).  
+**14:00** – Thermal in the thermal baths: cross the bridge to Hungary’s Komárom Spa, because your pores deserve a bilingual soak.  
+**16:30** – Klapka Square chill: admire the wedding-cake Town Hall, sip iced *frapp*, and debate whether the statue’s horse is smirking at you.  
+**19:00** – Danube sunset cruise: one hour, two countries, infinite mosquito silhouettes—bring the lángos leftovers for duck bribery.  
+**21:00** – Craft beer at *Mlynská Kaváreň*: toast your border-hopping day with a local *Zlatý Bažant* and the sudden realization you still can’t pronounce “Komárno.”
+
+## 🤡 Expectation vs. Reality
+
+| Expectation | Reality |
+|-------------|---------|
+| “It’s just a sleepy border town.” | You log 18,000 steps chasing fountains, fortress tunnels, and a street band playing Slovak reggae. |
+| “Language barrier nightmare.” | Everyone under 30 speaks English, German, and passive-aggressive TikTok. |
+| “Mosquitoes will carry me away.” | They’re more interested in the river; you leave with zero bites and one souvenir T-shirt that says “Mosquito Capital—Still Better Than Brussels.” |
+
+## 🕵️ The Local’s Cheat Sheet
+
+- **Transport**: City is walkable in 20 minutes flat; rent a bike at *BikeKomo* for €10 to flex on the EuroVelo trail.  
+- **Etiquette**: Greet with “Dobrý deň” before noon; after noon, just nod and look thirsty—locals will feed you.  
+- **Hidden Gem**: The shell-sculpted “Shelter of Lover’s Despair” behind the New Fortress—bring chalk, write your ex’s name, instant closure.  
+- **Cash**: Cards accepted everywhere except the waffle guy—he operates on pure optimism and coins.  
+- **Toilet Intel**: Public loos cost 50¢; fortress café lets you pee for free if you buy a €1 espresso—cheapest rental in Europe.
+
+## 🧳 Conclusion: Come for the Mosquito, Stay for the Memories
+
+Komárno won’t land on glossy magazine covers, but that’s exactly why you should stamp your passport here. It’s the kind of place that slips you history, calories, and bilingual banter in a single sunburned day—then waves goodbye from the middle of a bridge, shouting “Viszlát! Čau! Don’t forget the pancakes!”
+5:T11e8,
+## 嘿，朋友！欢迎来到“一脚踩两国”的奇妙小镇！
+如果你在地图上寻找一个能让你左脚在斯洛伐克喝咖啡，右脚在匈牙利吃点心的地方，那么恭喜你，你发现了科马尔诺(Komárno)！这个多瑙河畔的小城就像一个低调的跨界明星，充满了让你会心一笑的惊喜。别被它安静的外表骗了，这里的趣事多着呢！
+
+## 三个让你在酒桌上显摆的冷知识
+1.  **双胞胎之城**：科马尔诺和河对岸的匈牙利科马罗姆(Komárom)在历史上本就是同一座城市，像一对被迫分家的双胞胎。如今，两座城市由桥梁紧密相连，上演着现实版的“两岸一家亲”。
+2.  **要塞之王**：这里是欧洲最大的防御要塞建筑群之一——“科马尔诺要塞”的所在地。它不是一座孤零零的城堡，而是一整套庞大的、像迷宫一样的防御系统，堪称中世纪版的“超级工程”。
+3.  **地理中心**：科马尔诺所在的位置，被认为是历史上“大匈牙利王国”（奥匈帝国时期）的**精确地理中心点**。城里有一个纪念柱标记着这个点，站在这里，你可以假装自己曾是帝国的“肚脐眼”。
+
+## 停下来！必须往嘴里塞的当地美食
+*   **“匈牙利锅”里的斯洛伐克风味**：由于历史渊源，这里的美食是两国的混合体。一定要试试 **“古拉什”(Guláš)**，但这里的版本可能更浓郁。搭配的不是面条，而是当地的**面粉饺子(Halušky)**，这种碳水加碳水的快乐，你值得拥有。
+*   **河鲜的馈赠**：多瑙河赐予了美味的**炸鱼或鱼汤**。在河畔餐厅点一份，新鲜度有保障。
+*   **甜蜜收尾**：寻找一种叫做 **“Štrúdel”** 的果馅卷饼（苹果或樱桃馅最经典），它完美体现了奥匈帝国的甜点传统，酥皮和甜蜜的馅料是完美的句号。
+
+## 时间管理大师的24小时极限挑战
+如果你只有一天，别慌，跟着这个节奏走：
+*   **上午（当个文化人）**：直奔**科马尔诺要塞**(Komárno Fortress)。别想着全部逛完，重点参观核心的“星堡”，想象一下当年士兵在这里守城的样子。然后在老城广场转转，看看色彩柔和的**新市政厅**。
+*   **中午（做个吃货）**：在老城区找家温馨的餐馆，把上面提到的古拉什和饺子塞进肚子。
+*   **下午（玩个跨界）**：做点刺激的——**步行或骑自行车过桥去匈牙利的科马罗姆**！这绝对是今日高潮，记得在桥中间拍张“一脚踏两国”的傻气照片。在对面逛一个小时，感受微妙的差异。
+*   **傍晚（当个闲人）**：回到科马尔诺这边，沿着**多瑙河畔**散步，看夕阳把河面和要塞染成金色，这才是小镇的正确打开方式。
+
+## 理想很丰满，现实也很幽默
+*   **理想**：我将优雅地探索宏大的要塞，读懂每一块砖石的历史故事，像个博学的考古学家。
+*   **现实**：在巨大的要塞里走到腿软，满脑子想的都是“古人建这么大干嘛？”，最后只想找个城墙角落坐下喝口水，并真诚敬佩古代工程师的“卷”。
+*   **理想**：在中心广场的露天咖啡馆，像个巴黎人一样悠闲地观察本地生活。
+*   **现实**：广场安静得可能只有你和鸽子，你成了被鸽子观察的对象。但这份宁静，不正是匆忙世界里的奢侈品吗？
+
+## 本地人悄悄告诉你的小秘籍
+1.  **交通**：小镇中心用脚丈量最棒。想去要塞或稍远点，打车非常便宜。**最重要的公交线路是过桥去匈牙利那边**，方便又便宜。
+2.  **礼仪**：这里生活节奏慢，**微笑和简单的问候（比如“Dobrý deň” 日安）** 能为你加分。在餐厅不用急着催单，享受慢时光。
+3.  **隐藏景点**：除了主要塞，问问当地人关于 **“帕尔菲宫”(Palffy Palace)** 或**欧洲广场**(Eurovea)——一个露天建筑博物馆，汇集了欧洲各国风格的迷你建筑，拍照很有趣，而且免费！
+
+## 是时候出发了！
+所以，如果你想找一个没有汹涌人潮、能同时收集两个国家印记、还能用美食抚慰心灵的地方，科马尔诺正穿着它的“跨界拖鞋”，懒洋洋地等着你呢。它可能不会让你尖叫，但一定会让你频频露出“原来如此”和“还挺有意思”的微笑。收拾行囊，来这个多瑙河畔的“双面娇娃”小镇，创造你自己“一脚踩两国”的搞笑故事吧！
+0:{"buildId":"V5Z4XLvcqVaXIUbjd_Wbo","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50 flex flex-col","children":[["$","$L2",null,{}],["$","main",null,{"className":"container mx-auto px-4 py-12 flex-grow","children":[["$","div",null,{"className":"grid gap-8 md:grid-cols-2 lg:grid-cols-2","children":[["$","$L3","komarno",{"post":{"date":"$D2026-01-21T00:00:00.000Z","createdAt":1768953750342,"city":{"en":"Komarno","zh":"科马尔诺","country":"Slovakia","countryZh":"斯洛伐克"},"slug":"komarno","photoUrl":"/images/cities/komarno.jpg","model":"moonshotai/Kimi-K2-Instruct","imageModel":"zai-org/GLM-Image","modelEn":"moonshotai/Kimi-K2-Instruct","modelZh":"deepseek-ai/DeepSeek-V3.2","summaryEn":"Komárno—Slovakia’s half-Magyar, mosquito-branded border town—turns out to be a quirky open-air gallery of waffles, fortresses, and Europe’s most over-achieving mosquitoes. Spend 24 hours here and you’ll leave with a full stomach, a camera roll of wedding-cake architecture, and at least one new Hungarian word you can’t pronounce.","summaryZh":"这篇文章将带你探索斯洛伐克南部边境小城科马尔诺的独特魅力。通过幽默的视角，介绍了它的历史冷知识、必尝美食和高效的一日游攻略，让你在笑声中规划一场难忘的旅程。","contentEn":"$4","contentZh":"$5"}}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le"]}],"$Lf"]}],"$L10"]}],["$L11","$L12"],"$L13"]}],"loading":null,"isPartial":false}
+14:T15f4,
+## Welcome to Sinfra, Where Rubber Meets the Road! 🌍✈️
+
+Ah, Sinfra! That charming slice of Ivorian paradise where the timber industry practically hums lullabies and the local markets burst with more personality than a Nollywood comedy. Whether you're here for business, adventure, or pure curiosity about what lies beyond the usual Abidjan or Yamoussoukro tourist trail, buckle up – we're about to turn your 24-hour Sinfra sprint into an unforgettable West African adventure!
+
+## Three Hilariously Interesting Facts About Sinfra
+
+- **Timber Capital Vibes**: Sinfra sits like royalty in the heart of Ivory Coast's timber belt, surrounded by forests so lush they'll make you question if you're still in the same country where traffic chaos is the national sport.
+- **The "What, Where?" Factor**: Ask any Ivorian about Sinfra, and watch their eyebrows do the Cha-cha – it's the kind of place that makes even seasoned Africa travelers pause and go, "Wait, seriously? There's a town there?"
+- **Agriculture Overdrive**: This little powerhouse cranks out cocoa and coffee like it's auditioning for a role in "West Africa's Greatest Hits," making it the chocolate lover's indirect best friend.
+
+## Local Food You Absolutely Must Try
+
+- **Attiéké with Grilled Fish**: Think of it as cassava's cooler, tangier cousin served with fish so fresh it practically waves hello from your plate.
+- **Alloco (Fried Plantains)**: Sweet, caramelized plantains that taste like dessert but act like comfort food – basically the ultimate "I-hate-mornings-but-love-breakfast" dish.
+- **Grilled Chicken with Piklispice**: If regular chicken is a solo artist, this is the full orchestra – smoky, spicy, and so aromatic your neighbors will definitely ask what smells amazing.
+- **Fresh Palm Wine (wine de palme)**: For the brave souls! It's like nature's very own fermented cocktail, served with all the rustic charm West Africa can muster.
+
+## Your 24-Hour Sinfra Sprint: Where to Go When Time's Ticking
+
+**Morning (8 AM – 12 PM)**:
+- Start at the local market (marché central) – your sensory overload will thank you later! Browse the fresh produce stalls, practice your "bonjour" in French, and maybe negotiate your first Ivorian souvenir.
+- Take a stroll around the timber district to see the industry that keeps Sinfra humming (plus great photo ops if you like that industrial-chic aesthetic).
+
+**Lunch (12 PM – 2 PM)**:
+- Find a local restaurant serving attiéké with grilled fish – this is basically your West African initiation ceremony.
+- Try some fresh tropical fruits from nearby stalls – they taste like vacation should feel.
+
+**Afternoon (2 PM – 6 PM)**:
+- Visit a local timber facility or sawmill (if permitted) – it's like seeing the behind-the-scenes of Sinfra's bread and butter.
+- Explore the town's administrative center and nearby neighborhoods to get a feel for local life.
+
+**Evening (6 PM – 10 PM)**:
+- Enjoy an alloco feast as the sun sets over this modest but mighty town.
+- If you're lucky, catch some local music or cultural activities – Ivorian hospitality shines brightest when the lights dim and the conversations heat up.
+
+## Expectation vs. Reality: The Sinfra Edition
+
+**Expectation**: "Oh, it'll be like any other Ivorian town!"  
+**Reality**: More timber industry than you'd expect, surprisingly peaceful atmosphere, and locals who are genuinely curious about the random visitor who actually chose Sinfra of all places.
+
+**Expectation**: "Ivy League hospitality everywhere!"  
+**Reality**: Genuine, warm Ivorian charm that makes you feel like you're visiting someone's well-kept secret hometown rather than a tourist destination.
+
+**Expectation**: "Fast-paced city life!"  
+**Reality**: Pleasant small-town pace where conversation trumps speed, and you'll find yourself slowing down whether you want to or not.
+
+## The Local's Cheat Sheet: Insider Secrets for Your Sanity
+
+**Transportation**:
+- Taxis-brousse (shared taxis) are your best friends for getting around locally
+- Negotiate fares before hopping in – friendly haggling is the norm, not the exception
+- Walking is often the most enjoyable way to explore the town center
+
+**Etiquette**:
+- Learn basic French greetings – even "Bonjour!" opens more doors than closed fists
+- Dress modestly but comfortably – you're in business casual territory
+- Always ask permission before photographing people, especially in markets
+
+**Hidden Gems**:
+- The morning market buzz starts around 7 AM – arrive early for the freshest everything
+- Local music sessions often happen in the evenings near community centers
+- The surrounding forests offer beautiful (but hot!) afternoon walks for nature lovers
+
+## Conclusion: Your Sinfra Adventure Awaits!
+
+Look, Sinfra might not be everyone's first choice when plotting an African adventure, and that's exactly what makes it fantastic! It's the kind of place where authentic experiences trump Instagram-ready moments, where genuine conversations replace rushed sightseeing, and where you'll walk away with stories that'll make your friends go, "Wait, you went WHERE?" 
+
+Whether you're here for work, wanderlust, or pure curiosity, Sinfra delivers that special West African charm with zero pretense and maximum heart. So pack your sense of adventure, bring your appetite for the unexpected, and get ready to fall in love with one of Ivory Coast's most delightfully overlooked gems. Your 24 hours here might just turn into your most memorable days in Africa! 
+
+Safe travels, and remember – in Sinfra, every day feels like you're discovering a secret the world forgot to tell! 🌍✨
+15:T165e,
+# 锡夫拉探险记：在西非的十字路口寻找……好吧，寻找乐趣！
+
+## 1. 一个俏皮的欢迎语
+
+嘿，你！对，就是你，那位正在地图上寻找下一个冒险目的地的旅行者。你滑过了巴黎的铁塔，跳过了曼谷的夜市，现在，你的手指是不是正悬在西非的一个小点上，心想：“锡夫拉？这地方是干嘛的？”欢迎来到锡夫拉——科特迪瓦那个你可能从未听说过，但绝对值得你为之取消“网飞”订阅一天的奇妙小镇！别被它低调的外表骗了，这里的故事比你的行李箱轮子走过的路还要多。
+
+## 2. 至少3个关于这座城市的有趣冷知识
+
+*   **“西非的十字路口”**：锡夫拉可不是普通的乡镇，它是连接科特迪瓦经济首都阿比让和第二大城市布瓦凯的重要交通枢纽。想象一下，它就是西非版的“郑州”，每天上演着南来北往的物流大戏，只不过这里的“演员”是装满可可、咖啡和热情乘客的巴士。
+*   **神秘的“鬼城”传说**：镇上有一个几乎废弃的旧区，布满殖民时期遗留下的破败建筑。当地人可能会神秘地告诉你一些故事，让它充满了探险色彩。当然，别担心，所谓的“鬼”可能只是几只好奇的蜥蜴和在阳光下打盹的猫。
+*   **名字的误会**：锡夫拉这个名字听起来是不是有点耳熟？没错，它和一种昂贵的象牙工艺品“Ivory”共享了名字（因为国家叫科特迪瓦，Ivory Coast）。但请放心，在这里你绝对找不到任何象牙交易，取而代之的是浓郁的咖啡香和甜蜜的可可豆。环保又可爱！
+
+## 3. 必尝的当地美食
+
+在锡夫拉，你的味蕾将开启一场冒险：
+*   **阿提耶克（Attiéké）**：这是用木薯制成的颗粒状主食，口感有点像北非的古斯米，但更清爽。通常配上**烤鱼**和洋葱番茄酱，是当地人的灵魂食物。试着用手抓着吃，体验地道的吃法！
+*   **凯德古南（Kedjenou）**：一种用瓦罐慢火炖煮的鸡肉或珍珠鸡，配以大量蔬菜和香料。它的美味秘诀在于“不加水”，全靠食材自身的水分，味道浓郁到让你想和那口锅合影。
+*   **博芬（Bofin）**：如果你够勇敢，可以试试这种用芭蕉和羊肝制成的“重口味”香肠。它是当地小酒馆里的热门下酒菜，味道……嗯，非常独特，保证让你的美食地图再扩展一个板块。
+
+## 4. 一日游攻略 (如果只有24小时该去哪里)
+
+**上午 (8:00 - 12:00)：** 直奔**锡夫拉大市场**！这里是小镇的心脏，喧嚣、多彩、充满活力。别只顾着看，去闻一闻香料的味道，摸一摸五颜六色的布料，和卖水果的阿姨聊聊天（即使语言不通，微笑是世界通用货币）。
+
+**中午 (12:00 - 14:00)：** 在市场附近找一家地道的“maquis”（露天小餐馆），点一份**阿提耶克配烤鱼**。这是补充能量的最佳方式，也为下午的探索做好准备。
+
+**下午 (14:00 - 17:00)：** 租一辆摩托车或打车去探索小镇边缘和那些**充满历史感的殖民建筑**。拍一些颇有“废墟美学”风格的照片，然后在附近的村庄走走，看看当地人是如何日常生活的。
+
+**傍晚 (17:00 - 19:00)：** 回到镇中心，感受日落时分的魔力。找个路边摊，喝一杯冰镇的本土啤酒或果汁，看着小镇从白天的忙碌逐渐过渡到夜晚的闲适。
+
+**晚上 (19:00以后)：** 晚餐尝试**凯德古南**。之后，如果恰逢周末，可以去有现场音乐的酒吧，感受一下锡夫拉的夜生活节奏。
+
+## 5. 理想 vs. 现实的幽默的对比
+
+*   **理想：** 我优雅地坐在一家精致的咖啡馆外，小口啜饮着现磨咖啡，笔记本上写满了深刻的旅行感悟。
+*   **现实：** 我正狼狈地躲过一辆飞驰而来的摩的，手里紧紧攥着吃了一半的烤鱼，汗水浸透了衬衫，但脸上却挂着因为吃到美食而满足的傻笑。这里的魅力不在于“精致”，而在于“真实”。
+
+*   **理想：** 我发现的隐藏景点是一个宁静祥和、鲜为人知的神圣寺庙。
+*   **现实：** 我发现的“隐藏景点”是一群在空地上踢自制足球的孩子，他们热情地邀请我加入，而我笨拙的脚法成了当天最好的喜剧表演。
+
+## 6. 本地人秘籍 (关于交通、礼仪或隐藏景点的建议)
+
+*   **交通：** 别指望谷歌地图了，在这里最可靠的导航是**你的嘴**！多问路，人们会很乐意指路。市内主要交通工具是**摩托车出租车（摩的）**，上车前一定要谈好价格。
+*   **礼仪：** 见面打招呼是关键！学会一句简单的法语问候“**Bonjour**”（白天）或“**Bonsoir**”（晚上），会瞬间拉近你和当地人的距离。拍照前，尤其是拍人，请务必**先征得对方同意**。
+*   **隐藏景点：** 问问当地人哪里可以找到**现场制作“阿提耶克”的作坊**。看着女工们熟练地将木薯磨碎、发酵、蒸制，整个过程本身就是一场迷人的表演。这比任何纪念品都更能让你了解这里的生活。
+
+## 7. 鼓励读者前往的结尾
+
+所以，你还等什么呢？锡夫拉可能没有列入你最初的旅行清单，但正是这些计划之外的邂逅，才构成了最难忘的冒险。它或许不完美，但绝对真实、热情、充满惊喜。来吧，跳出舒适区，来这个西非的十字路口，书写一段属于你自己的、带着烤鱼香味和摩的轰鸣声的故事。锡夫拉正在等着你，带着它那标志性的、有点混乱却又无比真诚的微笑。
+6:["$","$L3","sinfra",{"post":{"date":"$D2026-01-20T00:00:00.000Z","createdAt":1768939268814,"city":{"en":"Sinfra","zh":"锡夫拉","country":"Ivory Coast","countryZh":"科特迪瓦"},"slug":"sinfra","photoUrl":"/images/cities/sinfra.jpg","model":"MiniMaxAI/MiniMax-M2","imageModel":"black-forest-labs/FLUX.1-dev","modelEn":"MiniMaxAI/MiniMax-M2","modelZh":"deepseek-ai/DeepSeek-V3.1-Terminus","summaryEn":"Discover Sinfra, Ivory Coast's hidden timber town gem, where authentic West African charm meets unexpected humor in this engaging travel guide through one of West Africa's most off-the-beaten-path destinations.","summaryZh":"这篇博客将带您以幽默风趣的方式探索科特迪瓦的“西非十字路口”锡夫拉。文章揭秘了这座城市的冷知识、必尝美食和一日游攻略，并提供了本地人的独家秘籍。","contentEn":"$14","contentZh":"$15"}}]
+16:T1424,
+## **¡Bienvenidos a Tarapoto! Where the Jungle Meets the Party**  
+Welcome to Tarapoto, Peru’s unofficial “Gateway to the Jungle” and the place where even the trees seem to dance. Nestled in the San Martín region, this city is a vibrant mix of lush rainforests, cascading waterfalls, and a laid-back vibe that’ll make you forget your deadlines exist. Whether you’re here to hike, eat, or just people-watch (looking at you, roaming parrots), Tarapoto is ready to steal your heart—and maybe your sunglasses.  
+
+## **3 Fun Facts About Tarapoto That’ll Make You Go “¡No Mames!”**  
+1. **Tarapoto’s Nickname is “City of Palms”**—but don’t be fooled. While palm trees abound, this place is also home to howler monkeys, toucans, and the occasional rogue sloth. Keep your camera handy; you never know when a furry friend will photobomb your selfie.  
+2. **It’s Home to Peru’s First Commercial Airport** (built in 1931). Back then, flying here meant dodging parrots mid-landing. Today, it’s just a short, pothole-free ride from the runway to downtown. Progress!  
+3. **Tarapoto Hosts the Annual Festival of San Juan**—a week-long party where locals drench each other with water (yes, even strangers). Bring a change of clothes or prepare to embrace your inner soggy tourist.  
+
+## **Local Food You Must Try (Or Risk Offending the Culinary Gods)**  
+- **Juane**: A flavor-packed rice ball stuffed with chicken, egg, and olives, wrapped in a bijao leaf. It’s like a Peruvian tamale, but with more jungle flair.  
+- **Tacacho con Cecina**: Fried plantain balls topped with smoked pork and a side of spicy salsa. Warning: May cause involuntary happy dances.  
+- **Chicha Morada**: A sweet, purple drink made from purple corn. It’s non-alcoholic (unless you’re at a homemade party), but it pairs perfectly with every meal.  
+- **Ceviche de Río**: Unlike coastal ceviche, this river version uses fish from the nearby Huallaga River. Squeeze some lime, add chili, and thank the river gods.  
+
+## **One-Day Itinerary: How to Crush Tarapoto in 24 Hours**  
+**Morning**:  
+- Start at **Plaza de Armas** for a coffee and people-watching session. Bonus points if you spot a local selling handmade crafts.  
+- Head to **Ahuashiyacu Waterfall** (a 20-minute taxi ride). Hike the short trail, take a dip, and pretend you’re in a shampoo commercial.  
+
+**Lunch**:  
+- Devour a **Juane** and **Tacacho con Cecina** at **Restaurante El Mirador**. The view of the city is free, but the food will cost you $5. Worth it.  
+
+**Afternoon**:  
+- Visit **Lago Lindo** for kayaking or paddleboarding. If you’re lazy, just lounge by the lake and watch the world go by.  
+- Stop by **Museo Regional de San Martín** to geek out on local history. Admission is cheap, and the artifacts are cooler than your Instagram feed.  
+
+**Evening**:  
+- Sip **Chicha Morada** at **Bar El Tunco** while listening to live music. If the band plays cumbia, prepare to embarrass yourself on the dance floor.  
+
+**Night**:  
+- End with a street food binge at **Mercado Central**. Try **anticuchos** (grilled beef hearts) if you’re brave. Pro tip: Close your eyes and pretend it’s a kebab.  
+
+## **Expectation vs. Reality: A Humorous Showdown**  
+**Expectation**: You’ll arrive in Tarapoto and immediately be greeted by a troupe of dancing parrots, a margarita in hand, and a view of the Amazon canopy.  
+**Reality**: You’ll arrive in a slightly sweaty taxi, realize your Airbnb is uphill, and accidentally step on a rogue lizard. But hey, the margaritas are still cheap!  
+
+**Expectation**: Hiking to waterfalls will involve serene trails and Zen-like meditation.  
+**Reality**: You’ll slip on mud, get attacked by mosquitoes, and arrive at the waterfall looking like a drowned rat. But the selfie game will be strong.  
+
+**Expectation**: Local food will be “exotic” but manageable.  
+**Reality**: You’ll eat something called “cuy” (guinea pig) and spend the next hour debating whether to tell your mom.  
+
+## **The Local’s Cheat Sheet: How to Blend In (Sort Of)**  
+- **Transport**: Taxis are cheap but negotiate the fare upfront. Mototaxis (three-wheeled carts) are fun but hold onto your hat—these drivers don’t believe in brakes.  
+- **Etiquette**: Always greet locals with a friendly “¡Buenos días!” or “¡Hola!” Even if your Spanish is terrible, they’ll appreciate the effort.  
+- **Hidden Gem**: **El Bosque de Orquídeas**, a secret orchid garden 10 minutes from downtown. It’s free, peaceful, and Instagram-worthy.  
+- **Pro Tip**: Bring bug spray. The jungle loves tourists, but not in a romantic way.  
+
+## **Conclusion: Go Forth and Explore (But Bring Sunscreen)**  
+Tarapoto isn’t just a destination; it’s an adventure wrapped in palm leaves and served with a side of salsa. Whether you’re here for the waterfalls, the food, or the chance to outrun a howler monkey, this city will leave you smiling—and maybe a little sweaty. So pack your bags, leave your worries behind, and let Tarapoto work its magic. After all, life’s too short for boring vacations.  
+
+**¡Hasta luego, Tarapoto!** 🌴✈️
+17:T1306,
+## 俏皮的欢迎语
+嗨，背包客们！欢迎来到**“热带摇滚之城”——塔拉波托**，在这里，雨林的树叶比你的社交媒体通知还要多，椰子水比咖啡更提神。系好安全带，准备好被绿意冲击吧！
+
+## 有趣冷知识（至少3条）
+- **香蕉王国**：塔拉波托所在的圣马丁省是世界上最大的香蕉出口地之一，几乎每家每户的厨房都有一根“自带保鲜期”的香蕉。  
+- **青蛙歌手**：雨林里住着一种叫“玻璃树蛙”的小哥，它们的皮肤透明得可以直接看到心跳，晚上还会发出细微的“呱呱”合唱。  
+- **名字谜团**：当地传说“Tarapoto”来自于古老的佩鲁语，意为“鸟儿的栖息地”，但也有人说是“好吃的水果聚集地”，两者都对——这里的水果真的太好吃了！  
+- **雨季的彩虹**：在雨季，塔拉波托的天空常常出现“双层彩虹”，下层是常规的七色，上层则是一条“隐形彩虹”，只要你站在特定的瀑布旁才能看到。  
+
+## 必尝的当地美食
+- **Juane**：用鸡肉、酸橙、黄油米和香料包在香蕉叶里蒸，味道浓郁、香气扑鼻。  
+- **Tacacho con Cecina**：捣碎的烤香蕉泥配上腌制的烟熏猪肉，简直是“甜咸情缘”。  
+- **Patacones**：两次炸制的青蕉片，外酥里软，配上酸奶酱或鳄梨酱，停不下来。  
+- **Ceviche de Pirarucú**：本地巨骨舌鱼做的酸橘腌鱼，肉质柔软，口感像海的清凉拥抱。  
+
+## 一日游攻略（只有24小时该去哪里）
+| 时间段 | 行程安排 | 小贴士 |
+|--------|----------|--------|
+| **上午 8:00‑10:30** | **Ahuashiyacu 瀑布**：在清晨的雾气中冲个凉，拍下“雾中仙子”。 | 带上防滑袜，雨鞋必备，别忘了防蚊喷雾。 |
+| **上午 11:00‑12:30** | **Mercado Central（中央市场）**：尝一碗热腾腾的 Juane，顺便买点当地水果（香蕉、木瓜、马蹄）。 | 用西班牙语说“¡Qué rico!”会让摊主笑开怀。 |
+| **下午 13:00‑15:30** | **雨林徒步**：雇一位本地向导，探索**Lago Caballo**的红树林和隐蔽观鸟点。 | 记得带上防水背包，装好干粮和水。 |
+| **下午 16:00‑17:30** | **Plaza de los Héroes**：在市中心的广场喝一杯“马黛茶”，感受当地人的悠闲。 | 旁边有一间小咖啡馆售卖手工咖啡，别错过。 |
+| **晚上 18:00‑20:00** | **夜市美食狂欢**：吃完 Tacuchos、Patacones，再来一杯椰子酒，结束完美的一天。 | 靠近河边的摊位味道最正宗。 |
+
+## 理想 vs. 现实（幽默对比）
+| 理想 | 现实 |
+|------|------|
+| **理想**：在 Ahuashiyacu 瀑布下拍出《蓝色星球》般的梦幻自拍。 | **现实**：被一只好奇的雨林猴子抢走了你的帽子，只好用树枝凑成“自拍杆”。 |
+| **理想**：在雨林徒步时遇到稀有金色树蛙，拍照发朋友圈。 | **现实**：脚下一滑，摔进了泥巴塘，金色树蛙成了旁观者。 |
+| **理想**：在夜市大快朵颐，吃遍所有当地美食。 | **现实**：胃里装满了 Patacones，却被热情的摊主递上一杯“超辣酱”，眼泪比雨水还多。 |
+| **理想**：在 Plaza de los Héroes 静静欣赏落日。 | **现实**：广场的街头艺人开始演奏桑巴，大家一起“舞动”，连路灯都在闪烁。 |
+
+## 本地人秘籍（交通、礼仪、隐藏景点）
+- **交通秘籍**：城里最省钱的出行方式是**摩托出租（Moto‑Taxi）**，价格只要 2‑3 索尔。但记得先确认司机是否有安全头盔，否则“风中飞翔”的感觉不太安全。  
+- **礼仪小贴士**：遇到当地人，先说 **“¡Hola, buenos días!”**（你好，早上好），然后轻轻点头。买东西时，多说 **“¡Muchas gracias!”**（非常感谢），店主会回赠一个小巧的水果或微笑。  
+- **隐藏景点**：  
+  - **Catarata de Huacachina**：不在旅游地图上，却是当地人最爱去的秘密瀑布，只有走小径才能抵达。  
+  - **La Casa del Café**：一间坐落在旧仓库里的咖啡馆，供应自家烘焙的有机咖啡，配上手工烤制的香蕉面包，绝对是“隐世天堂”。  
+- **防蚊攻略**：即使是傍晚的微风，也会带来蚊子大军。携带**DEET**或**含柠檬桉的防蚊喷雾**，并在衣服上喷一层薄薄的**薄荷油**，效果惊人。  
+
+## 鼓励读者前往的结尾
+塔拉波托不只是一个地图上的点，它是**雨林的心跳**、**水果的甜美**以及**笑声的交响**。如果你想在 24 小时内体验亚马逊的原始魅力、品尝让味蕾跳舞的美食、并在理想与现实之间找到自己的笑点——**立刻背起背包，飞向塔拉波托吧**！记住，雨林不等人，甜香蕉也不等你迟到。🌴✨
+7:["$","$L3","tarapoto",{"post":{"date":"$D2026-01-20T00:00:00.000Z","createdAt":1768924887290,"city":{"en":"Tarapoto","zh":"塔拉波托","country":"Peru","countryZh":"秘鲁"},"slug":"tarapoto","photoUrl":"/images/cities/tarapoto.jpg","model":"baidu/ERNIE-4.5-300B-A47B-Base-PT","imageModel":"black-forest-labs/FLUX.1-dev","modelEn":"baidu/ERNIE-4.5-300B-A47B-Base-PT","modelZh":"openai/gpt-oss-120b","summaryEn":"Tarapoto, Peru’s “City of Palms,” is a jungle-adjacent paradise where monkeys swing through trees, waterfalls beg for selfies, and local food will make your taste buds throw a fiesta. Whether you’re here for adventure, relaxation, or both, this lively town delivers with a side of Peruvian charm.","summaryZh":"塔拉波托是亚马逊的热带天堂，兼具城市的便利与原始雨林的神秘。来这里，你会在24小时内吃遍当地美味、玩转隐藏景点，甚至还能领悟“理想 vs. 现实”的人生哲学。","contentEn":"$16","contentZh":"$17"}}]
+18:T1552,
+## A Playful Welcome
+Hey there, adventure-seeker! Tired of the same old Havana hustle? Santa Clara, Cuba, is calling your name—and it’s not just because they need more tourists to distract from their traffic jams. This charming city is the underdog of Cuban travel, packed with revolutionary history, mouthwatering food, and a vibe so lively, it’ll make your suitcase jealous. So grab your sunscreen (and maybe a translator app), and let’s dive into the real Cuba!
+
+## 3 Fun Facts About the City
+- **Fact 1**: Santa Clara’s name comes from Saint Clare of Assisi, but locals joke it’s because the town is so "saintly" that even the traffic lights obey the rules (they don’t—this is Cuba, after all).  
+- **Fact 2**: In 1958, Che Guevara’s rebels derailed a train full of weapons for Batista’s army—a move so clever, it not only won the revolution but also gave the city its most famous souvenir: a rusty old train car on display at the El Tren Blindado Museum.  
+- **Fact 3**: The city’s main square has a statue of Che, and locals swear his eyes follow you around the plaza. Pro tip: If you’re feeling shy, just stare back—he’s seen worse.  
+
+## Local Food You Must Try
+- **Ropa Vieja**: Shredded beef simmered in a tangy tomato sauce—Cuba’s answer to "comfort food" that’s so good, you’ll forget your ex’s name (and maybe your diet).  
+- **Lechón Asado**: Slow-roasted pork so tender, it practically falls off the bone and into your mouth. Warning: May cause spontaneous dance moves.  
+- **Café Cubano**: A shot of espresso so strong, it could power a small city—or at least your 24-hour adventure. Pair it with a "pastelito" (cuban pastry) for the ultimate breakfast combo.  
+
+## A One-Day Itinerary
+- **8 AM: Che Guevara Mausoleum & Museum**  
+  Start your day by paying respects to the revolutionary who derailed a train for fun. Don’t worry—he’s not actually here (his remains were moved to Santa Clara in 1997, but he’s still the star of the show). Bonus: The museum’s gift shop sells Che-themed souvenirs, including "I ❤️ Revolution" T-shirts (but skip the ones with his face—trust us).  
+- **10 AM: Parque Vidal**  
+  Stroll through the heart of Santa Clara, where locals play dominoes, chat over café cubano, and stare at you like you’re the weirdo with a camera. Grab a seat, people-watch, and try to guess who’s telling the juiciest gossip.  
+- **12 PM: Lunch at La Casona**  
+  This family-run paladar serves ropa vieja so good, you’ll forget your mother’s cooking (sorry, Mom). Pro tip: Ask for the "special" and hope for lechón asado—it’s worth the wait.  
+- **2 PM: El Tren Blindado Museum**  
+  See the actual derailed train car from Che’s battle—perfect for Instagram, but also a history lesson. Bonus: The guide might tell you about the "secret tunnel" (it’s probably just a myth, but hey, Cuba loves a good story).  
+- **4 PM: Historic Streets & Street Art**  
+  Wander the colorful colonial streets, snap pics of faded pastel buildings, and admire the street art near the university. Pro tip: Avoid the stray cats—they’re judging your photography skills.  
+- **7 PM: Dinner & Salsa Night**  
+  Feast on lechón asado at a local spot (or try the "bistec empanizado" if you’re feeling adventurous), then hit up a salsa club where the dance moves are better than your TikTok attempts. Remember: In Santa Clara, everyone’s a dancer—even the pigeons.  
+
+## Expectation vs. Reality
+**Expectation**: A quiet, sleepy colonial town with cobblestone streets and no one in sight.  
+**Reality**: A vibrant city where the streets are alive with music, street vendors, and stray dogs that look like they’ve seen it all. The only thing slower than the Wi-Fi is the traffic, but hey—Cuban time is just an excuse to savor every moment. And while you might expect to find a "postcard-perfect" Cuba, you’ll actually discover a real, unfiltered, and hilarious slice of life that’ll make your heart sing (and your camera roll overflow).  
+
+## The Local’s Cheat Sheet
+- **Transport**: Forget renting a car—Cuban roads are like a game of Frogger, and the buses run on "Cuban time" (which is a myth, but they’re still slow). Hop in a "coco taxi" (those cute coconut-shaped cars) for a fun ride, or just walk—you’ll discover more that way.  
+- **Etiquette**: Always say "buenos días" and never ask about politics—unless you want to hear a 2-hour lecture. And please, don’t take photos of people without asking; Cubans love a good chat, but they’re not your personal photo props.  
+- **Hidden Gems**: The street art alley near the university (where the murals are so good, you’ll want to frame them—just don’t, because they’re part of the city’s soul). Also, the local mercado (market) on Saturdays is a treasure trove of fresh produce, handmade crafts, and the best "pastelitos" you’ll ever taste.  
+
+## An Encouraging Conclusion
+So, pack your bags, leave Havana behind, and head to Santa Clara—where history, flavor, and fun collide. This city isn’t just a stop on your Cuban itinerary; it’s the real deal, a place where every corner tells a story, every bite of food is a celebration, and every stranger you meet might just become a friend. Trust me, your Instagram feed (and your soul) will thank you. Now go forth and explore—just remember to bring your sense of humor and a good pair of walking shoes. ¡Viva Santa Clara!
+19:T15ec,
+## 一个俏皮的欢迎语  
+嘿，亲爱的旅行者！欢迎来到圣克拉拉——这里连空气都带着朗姆酒香，连鸽子都比你更懂革命历史！准备好迎接一场“历史+冰淇淋+意外惊喜”的三重奏了吗？  
+
+## 至少3个关于这座城市的有趣冷知识  
+- **装甲列车大戏**：1958年，切·格瓦拉在这里截停了政府军的装甲列车，直接导致巴蒂斯塔政权崩溃。现在博物馆里还保留着那列“翻车”的列车，但别担心，它现在是静态展品——除非你碰巧在参观时遇到古巴式的“电力故障”，它可能突然开始“动起来”（其实是工作人员在搞笑）。  
+- **切·格瓦拉雕像的“身高梗”**：城市中心那座17米高的青铜雕像，号称“古巴最大”，但本地人悄悄说：“其实它比切·格瓦拉真人矮了30厘米，毕竟古巴人习惯性‘拔高’革命英雄。”（不过雕像的军帽倒是真的能遮阳，建议游客戴个帽子去拍照，避免晒黑。）  
+- **7月26日大道的“长度迷思”**：这条主干道号称“比哈瓦那的何塞·马蒂大道还长”，但实际长度只有12公里。本地人笑称：“长度不重要，重要的是它连接了革命的过去和……今天还在堵车的现在！”  
+
+## 必尝的当地美食  
+- **Ropa Vieja**：慢炖牛肉配洋葱青椒，名字直译是“破旧衣服”，但吃起来比你的旧牛仔裤还柔软！建议搭配黑豆饭，吃完后你会觉得“革命”就是这么香。  
+- **Lechón Asado**：全烤乳猪，外皮酥脆到能当鼓敲。本地人秘诀：去“El Palacio de los Deportes”附近的小摊，比酒店便宜一半，但记得带现金——这里可能“刚好”没电，只能用古巴式“现金支付法”。  
+- **Cuban Sandwich**：火腿、烤猪肉、奶酪、酸黄瓜夹在古巴面包里烤得金黄。但小心！本地人会说：“这三明治的热量足以支撑你走完革命之路，但别在烈日下吃，否则汗水会把三明治变成‘古巴汤’。”  
+
+## 一日游攻略 (如果只有24小时该去哪里)  
+- **上午：切·格瓦拉陵墓 & Tren Blindado博物馆**  
+  7点起床，先去陵墓感受“革命精神”，然后去博物馆看那列著名的装甲列车。注意：博物馆的空调可能“罢工”，但没关系，古巴人会给你递一杯冰镇柠檬水，顺便讲个革命笑话。  
+- **中午：La Carreta餐厅**  
+  在7月26日大道上找这家老字号，点Ropa Vieja和Lechón Asado。如果服务员问“要不要加糖”，别犹豫——古巴的糖比你的烦恼还甜。  
+- **下午：Plaza de la Revolución & 圣克拉拉大教堂**  
+  广场是拍照圣地，但小心“突然出现”的街头艺人，他们可能会用吉他弹奏《Guantanamera》逼你跳舞。大教堂的彩窗很美，但记得仰头看时别撞到鸽子——它们可是这里的“官方摄影师”。  
+- **晚上：Plaza de la Revolución夜景 & Daiquiri酒吧**  
+  傍晚时分，广场的灯光和革命标语会给你拍出“电影感”照片。最后去“Café La Habana”点一杯Daiquiri，但别问“为什么没有吸管”——古巴的吸管是“限量供应”，用吸管反而显得你不够本地人。  
+
+## 理想 vs. 现实的幽默的对比  
+- **理想**：悠闲地坐在革命广场的长椅上，喝着冰咖啡，听街头乐队弹奏《Guantanamera》，阳光温柔地洒在脸上。  
+  **现实**：你刚坐下，就被一群热舞的古巴大妈“邀请”加入即兴舞蹈，咖啡因为“电力故障”断电，只能用蜡烛照明，而乐队突然改奏《Yankee Go Home》——但你发现歌词其实是在唱“欢迎来到古巴”！  
+- **理想**：在Tren Blindado博物馆静静感受历史，触摸装甲列车的锈迹，思绪飘回1958年。  
+  **现实**：博物馆里挤满游客，解说员用古巴式幽默讲得比历史书还生动，但空调坏了，大家一边擦汗一边听，最后你发现“历史”其实是被汗水浸湿的T恤。  
+
+## 本地人秘籍 (关于交通、礼仪或隐藏景点的建议)  
+- **交通**：别信出租车司机说的“最近路线”，他们可能绕路赚外快。正确姿势：坐“almendrón”（私人出租车），提前谈好价格，但记得用古巴比索CUP——外币可能被“神秘消失”。或者，直接问路人：“¿Dónde está el baño?”（洗手间在哪？），他们通常会带你绕一圈再告诉你正确方向，但这是古巴式“友情导航”。  
+- **隐藏景点**：别只盯着切·格瓦拉陵墓，去“Parque Vidal”（维达尔公园）的角落，那里有个“秘密冰淇淋摊”，老板会给你免费加一勺“革命风味”（其实是朗姆酒冰淇淋）。但小心别被当地小孩“偷吃”——他们可是冰淇淋界的“FBI”。  
+- **礼仪**：在古巴，说“Gracias”（谢谢）时要配上灿烂笑容，但别太热情——本地人会以为你想买他们的摩托车。如果有人邀请你跳舞，别拒绝，否则他们会用“革命精神”说服你：跳不跳？不跳就是反革命！  
+
+## 鼓励读者前往的结尾  
+还在犹豫？圣克拉拉的革命精神会把你变成“历史爱好者”，连你的行李箱都开始想留下！这里没有WiFi信号，但有比WiFi更强大的东西——人与人之间的温暖、朗姆酒的香气，还有切·格瓦拉雕像的“凝视”。快收拾行囊吧，古巴的“革命”正等着你加入！（P.S. 带上防晒霜，这里的阳光比革命口号还耀眼！）
+8:["$","$L3","santa-clara",{"post":{"date":"$D2026-01-20T00:00:00.000Z","createdAt":1768910709178,"city":{"en":"Santa Clara","zh":"圣克拉拉","country":"Cuba","countryZh":"古巴"},"slug":"santa-clara","photoUrl":"/images/cities/santa-clara.jpg","model":"Qwen/Qwen3-Next-80B-A3B-Thinking","imageModel":"Qwen/Qwen-Image-2512","modelEn":"Qwen/Qwen3-Next-80B-A3B-Thinking","modelZh":"Qwen/Qwen3-Next-80B-A3B-Thinking","summaryEn":"Santa Clara, Cuba, is the underdog of Cuban travel—packed with revolutionary history, mouthwatering food, and a vibrant energy that’ll steal your heart (and maybe your wallet). Forget the crowds of Havana; this charming city offers an authentic, unforgettable experience that’s equal parts hilarious and inspiring.","summaryZh":"这座古巴革命的“心脏”不仅藏着切·格瓦拉的传奇故事，还用冰淇淋和朗姆酒治愈你的旅行疲惫。来吧，让圣克拉拉的街头魔法带你穿越时空！","contentEn":"$18","contentZh":"$19"}}]
+1a:T1332,
+## A Playful Welcome  
+Bienvenue (or should we say, *Bem-vindo*?) to Evora, where history doesn’t just knock—it kicks down the door with a chariot and a grin! This UNESCO-listed gem in Portugal’s Alentejo region is like a theme park for history buffs, minus the long lines and overpriced popcorn. Here, cobblestones whisper secrets, and every corner feels like a movie set for *Gladiator 2: The Portuguese Edition*. So grab your comfiest walking shoes (and maybe a sense of humor), because Evora is about to take you on a ride through time that’s more fun than a bull in a china shop.  
+
+## At Least 3 Fun Facts About the City  
+1. **Bone Zone**: The Capela dos Ossos (Chapel of Bones) isn’t just a name—it’s literally decorated with human skulls and bones. Over 5,000 of them line the walls, with a cheerful sign that reads, *"We bones that are here, for yours we wait."* So, if you’re feeling morbidly cheerful, this is your happy place.  
+2. **Roman Spa Day**: Evora’s Temple of Diana isn’t just a ruin—it’s the city’s oldest Tinder profile. Built in the 1st century AD, it’s *still* standing tall and single, making it the most eligible bachelorette in town.  
+3. **Alentejo’s Foodie Capital**: Forget Michelin stars—Evora’s locals believe the best meals are served in *tascas* (tiny taverns) where the wine flows like water and the pork is so delicious, it’ll make you question your vegetarian life choices.  
+
+## Local Food You Must Try  
+- **Alentejo Pork**: This isn’t just pork; it’s a porky masterpiece. Try *cozido à alentejana* (pork and cl stew) or *porco preto* (black pork)—so tender, it’ll make you weep tears of joy (and maybe guilt if you’re a PETA member).  
+- **Queijo Serpa**: A sheep’s milk cheese so good, it should have its own fan club. Drizzle it with honey, and you’ve basically won at life.  
+- **Migas Alentejanas**: Bread crumbs cooked with garlic, pork, and olive oil. It’s the culinary equivalent of a warm hug from your Portuguese abuela.  
+
+## A One-Day Itinerary (Where to Go If You Only Have 24 Hours)  
+- **Morning (9 AM–12 PM)**: Start at the **Roman Temple of Diana**, then wander the **Praça do Giraldo** (Evora’s living room). Grab a *pastel de nata* and coffee at Pastelaria Convento, then brace yourself for the **Capela dos Ossos** (bring tissues for your nerves, not your eyes).  
+- **Lunch (12:30 PM–2 PM)**: Devour *cozido à alentejana* at **Tasca do Ribeiro** (book ahead—this place is hotter than a Portuguese summer).  
+- **Afternoon (2:30 PM–5 PM)**: Explore the **Cathedral of Evora** (climb the tower for panoramic views), then get lost in the **Alfarrabista District** (antique shops that’ll make you feel like Indiana Jones).  
+- **Evening (6 PM–9 PM)**: Sunset at **Jardim Diana** (park with Roman ruins), followed by *petiscos* (tapas) and *vinho verde* at **O Fado**. End with *queijo serpa* and honey—your taste buds will throw a party.  
+
+## Expectation vs. Reality (Humorous Comparison)  
+- **Expectation**: Evora is a serene, romantic city where you’ll stroll hand-in-hand with your partner, sipping wine at sunset.  
+- **Reality**: You’ll trip over cobblestones, argue with your partner about which ruin is older, and end up laughing hysterically at the Capela dos Ossos while a local judge you silently.  
+- **Expectation**: The food will be delicate and refined.  
+- **Reality**: You’ll eat so much pork you’ll swear you’ve grown a curly tail.  
+- **Expectation**: You’ll be cultured and sophisticated.  
+- **Reality**: You’ll spend 10 minutes trying to pronounce "Evora" correctly, then give up and just point at things.  
+
+## The Local’s Cheat Sheet  
+- **Transport**: Skip taxis—Evora is best explored on foot. Wear *comfortable shoes* (or you’ll end up limping like a Roman centurion). For day trips, rent a scooter—Alentejo’s roads are *saudavelmente* (healthily) empty.  
+- **Etiquette**: Greet shopkeepers with *Bom dia* (good morning). If they offer you wine, say *sim* (yes)—refusing is like insulting their firstborn.  
+- **Hidden Gems**:  
+  - **Pão** bakery: Get *broa* (cornbread) at 7 AM—it’s fresher than your morning breath.  
+  - **Largo do Conde Vila Real**: Quiet square for people-watching (or pretending you’re in a Sofia Coppola film).  
+  - **Casa do Pão**: For *queijo* so good, it’ll make you cry (the good kind).  
+
+## An Encouraging Conclusion  
+So there you have it—Evora, where history isn’t just preserved; it’s *alive*, *laughing*, and *waiting to high-five you*. Whether you’re a history nerd, a foodie, or someone who just enjoys tripping over ancient stones, this city will steal your heart (and maybe your appetite). Go forth, embrace the quirks, and remember: in Evora, every day is a Roman holiday. Now, what are you waiting for? Pack your bags, and let the Alentejo magic begin! 🐷🏛️🍷
+1b:T15b9,
+## 俏皮的欢迎语
+欢迎来到埃武拉，亲爱的旅行者！准备好你的相机和胃，因为这座葡萄牙的"博物馆城市"会让你同时大开眼界和胃口。别担心，这里没有现代购物中心的干扰，只有几百年历史的老建筑和让人欲罢不能的美味在等着你！
+
+## 埃武拉的有趣冷知识
+1. **人骨教堂**：埃武拉有一座完全用人骨装饰的教堂——圣弗朗西斯教堂的"人骨礼拜堂"。这可不是恐怖电影的布景，而是16世纪僧侣们的艺术创作，用约5000具尸体的骨头提醒人们"尘归尘，土归土"。浪漫，对吧？
+2. **罗马神庙的"误会"**：埃武拉的罗马神庙曾被当地人误认为是女神戴安娜的神庙，所以直到现在大家都叫它"戴安娜神庙"。考古学家后来发现这其实是为皇帝奥古斯都建造的，但名字已经叫习惯了，就这么愉快地误会下去了！
+3. **银桌的秘密**：埃武拉宫中有一张巨大的银桌，据说重达半吨。传说中，当敌人来袭时，当地居民会把这张桌子扔到墙上，制造一个秘密出口。想象一下，这可能是历史上最奢侈的"逃生通道"了！
+
+## 必尝的当地美食
+1. **Migas**：这道阿连特茹地区的传统美食是用面包、大蒜和橄榄油制成的，通常搭配猪肉或蔬菜。别被"面包屑"的外表欺骗，这可是能让你瞬间爱上葡萄牙的美味！
+2. **Açorda Alentejana**：另一种以面包为基础的料理，但这次是汤！用大蒜、香菜、橄榄油和薄荷调味，再打上一个荷包蛋。听起来怪？尝一口你就明白了！
+3. **Sericaia**：埃武拉的传统甜点，是一种鸡蛋布丁，上面撒上肉桂粉。配上一杯当地的波特酒，简直是天堂般的享受！
+4. **Porco Preto**：来自当地黑猪的火腿，这种猪只吃橡果长大，肉质鲜美无比。价格可能有点小贵，但绝对值得每一分钱！
+
+## 24小时埃武拉攻略
+**上午9:00**：从罗马神庙开始你的旅程，这座保存完好的古罗马遗迹是埃武拉的标志性建筑。别忘了和它自拍，但别试图像罗马人那样躺在柱子上，那已经过时两千年了！
+
+**上午10:30**：参观埃武拉大教堂，爬上屋顶欣赏整个城市的全景。如果你不恐高，这是拍摄埃武拉白墙红瓦的最佳地点。
+
+**中午12:00**：在城市广场（Praça do Giraldo）找个咖啡馆休息，点一杯咖啡和当地的甜点，观察当地人如何悠闲地度过上午。
+
+**下午1:30**：午餐时间！找一家当地餐厅品尝Migas或Açorda，记得配上一杯当地的葡萄酒。
+
+**下午3:00**：参观人骨教堂，准备好你的心理承受能力。这不是适合胆小者的景点，但绝对是一次难忘的体验。
+
+**下午4:30**：漫步在埃武拉的老城区，探索狭窄的街道和小型博物馆。如果你是个艺术爱好者，不要错过埃武拉博物馆。
+
+**晚上7:00**：在一家当地餐厅享用晚餐，尝试Porco Preto和其他当地美食。
+
+**晚上9:00**：在城市广场的酒吧或咖啡馆喝一杯，感受埃武拉的夜生活。别期望有什么疯狂的派对，这里的夜晚更多是关于美食、美酒和好对话。
+
+## 理想 vs. 现实
+**理想**：漫步在埃武拉的鹅卵石街道上，阳光洒在古老的建筑上，你悠闲地探索每一个角落，品尝当地美食，和友好的当地人聊天，完美的一天！
+
+**现实**：在鹅卵石街道上扭到脚踝，因为你在看地图而不是看路；在40度的高温下汗流浃背；试图用你那蹩脚的葡萄牙语点餐，结果点了一道你完全不知道是什么的菜；发现当地人其实都在午睡，街道空无一人；最后在人骨教堂被吓得魂飞魄散。但嘿，这些都是旅行故事的一部分，对吧？
+
+## 本地人秘籍
+1. **交通小贴士**：埃武拉的老城区非常适合步行，但如果你计划探索周边地区，租车是最好的选择。不过要小心，葡萄牙的司机似乎把交通规则当作"建议"而不是"规定"。
+2. **礼仪提醒**：葡萄牙人非常重视礼貌，进入商店时说"Bom dia"（早上好）或"Boa tarde"（下午好）会让你立刻赢得好感。别担心你的葡萄牙语有多糟糕，当地人会欣赏你的努力！
+3. **隐藏景点**：大多数游客都集中在主要景点，但如果你想要一个更真实的体验，可以去公共花园（Jardim Público）散步，或者找一个小型酒庄品尝当地葡萄酒。另外，埃武拉的水渠（Aqueduto da Água de Prata）虽然不如罗马的著名，但它提供了一个远离人群的美丽散步路线。
+4. **用餐时间**：葡萄牙人吃饭很晚，午餐通常在下午1点到3点，晚餐在晚上8点到10点。如果你在非用餐时间出现在餐厅，可能会得到奇怪的眼神或者干脆被拒绝服务。
+
+## 为什么你应该去埃武拉
+如果你厌倦了千篇一律的旅游城市，想要一个能真正体验历史、文化和美食的地方，那么埃武拉就是你的理想选择。这里没有拥挤的旅游团，没有过度的商业化，只有真实的葡萄牙生活、令人惊叹的历史遗迹和让你回味无穷的美食。所以，收拾你的行李（别忘了舒适的鞋子），来埃武拉创造属于你自己的故事吧！相信我，当你坐在中世纪的广场上，品尝着当地的美食，看着夕阳染红古老的城墙时，你会感谢自己做出了这个决定。埃武拉在等着你，而它，绝对值得你的到访！
+9:["$","$L3","evora",{"post":{"date":"$D2026-01-20T00:00:00.000Z","createdAt":1768896224240,"city":{"en":"Evora","zh":"埃武拉","country":"Portugal","countryZh":"葡萄牙"},"slug":"evora","photoUrl":"/images/cities/evora.jpg","model":"zai-org/GLM-4.5-Air","imageModel":"tencent/HunyuanImage-3.0","modelEn":"zai-org/GLM-4.5-Air","modelZh":"zai-org/GLM-4.5","summaryEn":"Evora, Portugal, is a whimsical time capsule where Roman temples, macabre chapels, and medieval streets collide in the most delightful way. Prepare to laugh, eat your weight in pork, and question why you didn’t visit sooner.","summaryZh":"埃武拉是葡萄牙阿连特茹地区的一颗历史明珠，这座被联合国教科文组织列为世界遗产的城市充满了令人惊叹的历史遗迹和美食。从罗马神庙到人骨教堂，埃武拉将带给你一次难忘的文化之旅。","contentEn":"$1a","contentZh":"$1b"}}]
+1c:T1e8a,
+## Welcome to Djelfa! Where the Wind is Your Personal Tour Guide (and Sometimes a Little Pushy)
+So, you've decided to ditch the coastal crowds and venture into Algeria's vast, beautiful high plateaus? Excellent choice! Welcome to Djelfa, the "City of Winds" – and trust me, the locals aren't kidding. Pack a sturdy hat, a sense of humour, and an appetite because Djelfa is about to charm your socks off, possibly with a helpful gust of wind. Forget what you think you know about Algerian interior cities; Djelfa marches (or gets blown) to its own fantastic beat. Let's dive in!
+
+## 3 Fun Facts About Djelfa That'll Make You Sound Like a Pro
+1.  **The Windy City (Seriously):** Forget Chicago! Djelfa's nickname, "Madīnat al-Riyāḥ" (City of Winds), is earned. The constant breeze isn't just weather; it's a local character. It cools you down in summer, helps dry laundry faster than any machine, and occasionally gives you a free, unexpected push up a hill. Embrace it! It’s nature’s air conditioning and personal trainer rolled into one.
+2.  **Roman Ruins? In the Middle of Nowhere? You Bet!:** Just outside the city lie the fascinating ruins of **Ain Touta**. Think ancient Roman baths, temples, and settlements clinging to the landscape. It’s a surreal sight – Roman history whispering on the windswept plains, far from the usual Mediterranean coast. Proof that the Romans were *everywhere*, even if they needed a good scarf.
+3.  **Sheep Are Kind of a Big Deal:** Djelfa is famous for its **Annual Sheep Festival (Moussem des Moutons)**, usually held in spring. Imagine thousands of sheep, shepherds showing off their finest flocks, lively markets, traditional music, and enough sheep-related excitement to make you reconsider your vegetarianism (if only for a day). It’s a vibrant, woolly celebration of pastoral life you won’t find anywhere else.
+
+## Fuel Your Adventure: Local Food You MUST Try (Carb Lovers Rejoice!)
+Forget diets; Djelfa demands culinary courage. The local food is hearty, delicious, and perfect for fuelling explorations.
+*   **Couscous (The Real Deal):** Not the tiny pellets you know! Djelfa’s couscous is often a grand affair, steamed fluffy grains topped with a rich, slow-cooked stew of lamb (or chicken), chickpeas, and seasonal vegetables like pumpkin and zucchini. It’s comfort food elevated to an art form. Prepare to loosen your belt.
+*   **Chakhchoukha:** A Djelfa specialty! Imagine torn pieces of flatbread (msemen or reghaif) soaked in a spicy, flavourful tomato-based sauce called "marqa," often containing lamb and chickpeas. It’s messy, incredibly satisfying, and a true taste of the region. Pro tip: Use bread to scoop – forks are for tourists here.
+*   **Msemen & Mahjouba:** For breakfast or a snack, grab these flaky, layered flatbreads. Msemen is square and slightly thicker, often drizzled with honey or butter. Mahjouba is thinner, folded into triangles, and perfect for dipping. Simple, yet utterly addictive. Pair with mint tea for the full experience.
+
+## Djelfa in a Dash: Your Perfect 24-Hour Itinerary
+Got just one day? No problem! Hit these highlights for a whirlwind (pun intended) Djelfa experience:
+*   **Morning (8:30 AM - 12:00 PM):** **Ain Touta Ruins & Windy Walks.** Start early to beat the heat (and potentially stronger winds). Explore the Roman ruins, soak in the history, and feel the vastness of the plateau. The wind will be your constant companion – maybe bring a kite?
+*   **Lunch (12:30 PM - 2:00 PM):** **Medina Munchies.** Head into the heart of the old medina. Find a small, family-run restaurant (ask locals for recommendations!) and dive into a steaming plate of **Chakhchoukha** or a hearty **Couscous**. Observe daily life unfolding around you.
+*   **Afternoon (2:30 PM - 5:00 PM):** **Sheep Market & Souk Stroll.** If it's market day (usually weekly, ask around!), the sheep market is a must-see. Even if it's not the big festival, the energy is infectious. Then, wander the souks surrounding the medina – browse spices, fabrics, pottery, and maybe pick up a traditional burnous (cloak) to stylishly combat the wind.
+*   **Sunset (5:30 PM onwards):** **Plateau Panorama.** Drive or find a spot on the edge of town overlooking the vast plains. Watch the sunset paint the sky in incredible colours over the steppe landscape. It’s breathtakingly beautiful and the perfect, wind-swept end to your day. Grab some msemen and honey for a sunset picnic!
+
+## Expectation vs. Reality: The Djelfa Edition
+*   **Expectation:** A sleepy, dusty town lost in the desert, full of camels and sand dunes. Reality:** A surprisingly vibrant city on a windswept *green* plateau (yes, green!), bustling with markets, history, and more sheep than you can count. Camels? Rarely. Sheep? Absolutely everywhere.
+*   **Expectation:** Everyone speaks French, easy peasy. Reality:** While many understand French, **Arabic (specifically Algerian Darija)** is king. Don't panic! A smile, gestures, and a few key Arabic phrases ("Shukran" = Thank you, "Salam Alaikum" = Hello) go a *long* way. People are incredibly patient and helpful.
+*   **Expectation:** The food will be basic, maybe just grilled meat. Reality:** Prepare for flavour explosions! The stews are complex, the bread is fresh and divine, and the mint tea flows like water. It's carb-heavy heaven, not just meat on a stick.
+*   **Expectation:** It's going to be scorching hot, Sahara-style. Reality:** Thanks to that friendly wind and the altitude (around 1,100 meters!), Djelfa is often significantly cooler and more pleasant than coastal or desert cities, especially in summer. Pack layers!
+
+## The Local's Cheat Sheet: Djelfa Hacks
+*   **Transport:** **Shared Taxis (Louages)** are your best friends for short trips within town or to nearby villages. They're cheap and frequent. Agree on the price *before* getting in if it's not a fixed route. For longer distances (like to Ain Touta), hiring a private taxi for a few hours is often the easiest option.
+*   **Etiquette:** **Dress Modestly,** especially for women. Cover shoulders and knees. It's respectful and avoids unwanted attention. **Greet Everyone:** A loud "Salam Alaikum!" when entering shops or passing people is expected and appreciated. **Right Hand Only:** Use your right hand for eating, greeting, and passing things. The left is... well, not for public use.
+*   **Hidden Gems:** **The Weekly Market (Souk):** Beyond the sheep market, find the main weekly souk day (often Thursday or Friday – ask locally!). It's a chaotic, colourful explosion of fresh produce, household goods, clothes, and people-watching gold. **Local Bakeries:** Forget fancy patisseries. Find the tiny bakery pumping out fresh msemen, khobz (round bread), and pastries. The smell alone is worth it. **Plateau Sunset Spot:** Ask a local for their favourite place to watch the sunset over the plains. They might point you somewhere less obvious than the main viewpoint, offering a more authentic experience.
+*   **Wind Strategy:** Seriously, secure your hat! A light scarf is useful not just for modesty but for shielding your face from dust kicked up by the wind. Embrace it; it keeps you cool!
+
+## Go Get Blown Away (Literally and Figuratively)!
+Djelfa isn't just a stopover; it's a destination with a soul as vast as its plateau and a spirit as lively as its markets. It’s a place where history whispers on the wind, sheep are celebrities, and a simple plate of couscous feels like a celebration. So, pack your sense of adventure (and that hat!), embrace the breeze, chat with the friendly locals, and dive headfirst into the unique, wonderful, and slightly gusty world of Djelfa. You won't regret it – the memories (and the flavour of that chakhchoukha) will stick with you long after the wind has died down. Now go explore!
+1d:T1617,
+## 欢迎来到杰尔法，沙漠边缘的惊喜！
+
+嘿，冒险家们！准备好你的防晒霜和好奇心，因为我们正要前往阿尔及利亚中部的杰尔法——一个连许多阿尔及利亚人自己都还没完全探索的宝藏城市！别担心，我不会用枯燥的历史课让你打瞌睡，而是带你领略这座城市的幽默、怪癖和令人难以置信的魅力。相信我，在这里，迷路也是一种冒险！
+
+## 三个让你成为派对明星的杰尔法冷知识
+
+1. **"半路之城"**：杰尔字面意思是"中途"，因为它恰好位于阿尔及尔和撒哈拉沙漠的主要路线上。想象一下，几个世纪以来，骆驼商队疲惫的旅人在这里歇脚，喝着薄荷茶，抱怨着脚底的沙子。现在，轮到你了！
+
+2. **柏柏尔人的秘密代码**：杰尔法周围的山丘上有超过10,000个史前岩画，描绘了狩猎场景和神秘的符号。科学家们至今仍在争论这些画作的意义，但当地人会告诉你，这只是柏柏尔祖先们无聊时留下的"古代涂鸦"。
+
+3. **"四季之城"**：杰尔法以极端天气变化闻名，一天之内可能经历从酷热到严寒的温差变化。当地人有个笑话："在这里，如果你不喜欢天气，只需等五分钟——它会自己改变！"
+
+## 味蕾的狂欢：必尝的杰尔法美食
+
+来到杰尔法，你的味蕾将经历一场前所未有的冒险：
+
+- **Couscous Royal**：这不是你妈妈做的普通库斯库斯！杰尔法版本通常配有七种不同的蔬菜和嫩羊肉，撒上松子和杏仁。当地人会自豪地告诉你："吃这个，你能活到一百岁！"
+
+- **Djelfa Tagine**：一种用当地特有香料炖制的羊肉或鸡肉，慢炖数小时，肉质酥烂到几乎不需要咀嚼。小心汤汁——它太美味了，你会想舔盘子！
+
+- **Mechoui du Désert**：在炭火上慢烤的全羊，外皮酥脆，内里多汁。吃这个需要技巧，不要穿白色衣服——除非你喜欢"沙漠风格"的斑点图案！
+
+- **Mint Tea Ceremony**：薄荷茶在这里不是饮料，而是一种仪式。三道茶，从甜到苦，象征着生活的起伏。拒绝第三杯茶可能会被视为对主人的不尊重——所以，微笑着喝下去吧！
+
+## 24小时杰尔极限冒险：一日游攻略
+
+**早上（7:00-11:00）**：
+- 7:00 在中央市场开始你的冒险，品尝刚出炉的Khobz（当地面包）
+- 8:30 参观杰尔法老城区，探索迷宫般的街道
+- 10:00 参观Sidi Yahia清真寺（注意着装得体）
+
+**中午（11:00-15:00）**：
+- 11:30 在Restaurant El Kahena享用正宗的午餐
+- 13:00 在当地咖啡馆小憩，品尝薄荷茶和甜点
+
+**下午（15:00-19:00）**：
+- 15:00 前往附近的Hassi Bahbah岩画遗址（建议包车）
+- 17:00 在Oued Mina河畔放松，欣赏日落
+
+**晚上（19:00-23:00）**：
+- 19:30 在Riad Dar El Bahia享用晚餐，欣赏传统音乐表演
+- 21:00 在夜市逛逛，购买手工艺品和纪念品
+
+## 理想VS现实：杰尔法幽默版
+
+**理想中的杰尔法**：
+你悠闲地漫步在鹅卵石街道上，阳光温和地洒在你的肩上，当地人微笑着向你问好，完美地用法语、阿拉伯语和柏柏尔语与你交流。你优雅地品尝美食，同时欣赏着壮观的撒哈拉日落。
+
+**现实中的杰尔法**：
+你迷失在迷宫般的街道中，太阳无情地炙烤着你的头皮，当地人用混合着法语、阿拉伯语和柏柏尔语的方言快速交谈，而你只能点头微笑。午餐时，你试图优雅地吃Mechoui，结果酱汁溅到了你的白衬衫上，看起来像是现代艺术作品。而所谓的"撒哈拉日落"实际上是被沙尘暴部分遮挡的模糊橙色光晕。
+
+## 本地人秘籍：像当地人一样玩转杰尔法
+
+**交通**：
+- 公共汽车是最便宜的选择，但请记住：没有固定的时刻表，"下一班车"可能意味着5分钟或2小时。
+- 出租车是更好的选择，但一定要事先谈好价格！当地人建议指着计价器说"Taxi"，然后微笑着等待司机点头——这通常意味着他会按表计费。
+
+**礼仪**：
+- 进入清真寺或柏柏尔人家庭时，请脱鞋。
+- 用右手递接食物或物品——左手在文化上被认为"不洁"。
+- 拍照前请征得当地人同意，特别是老人和女性。一个简单的微笑和手势通常就足够了。
+
+**隐藏景点**：
+- 大多数游客不知道的Roc des Éléphants岩石 formations，位于城市以北15公里处。
+- 当地人常去的Café des Artistes，墙上挂满了当地艺术家的作品，晚上还有即兴音乐表演。
+- 每周五早上，附近的Souk El Khemis市场（传统集市）是体验当地文化的绝佳场所，但记得带上你的砍价技巧！
+
+## 最后的邀请：为什么杰尔法值得你的冒险
+
+所以，亲爱的旅行者，当你计划下一次冒险时，请记住：杰尔法可能不在你的清单上，但它绝对应该在那里。这座城市就像一本未打开的书，每一页都充满了惊喜、幽默和温暖。在这里，你不是游客，而是故事的一部分。
+
+杰尔法不会迎合你的期望——它会给你带来惊喜。它不会给你完美的Instagram照片——它会给你难忘的回忆。它不会给你舒适和便利——它会给你成长和发现的机会。
+
+所以，收拾行囊，带上你的好奇心和幽默感，来杰尔法吧！相信我，这座城市会以它独特的方式拥抱你，让你离开时带着微笑和故事，还有——可能还有几滴酱汁在你的衬衫上！
+
+沙漠边缘的杰尔法正在等待你的到来。你准备好被它迷住了吗？
+a:["$","$L3","djelfa",{"post":{"date":"$D2026-01-20T00:00:00.000Z","createdAt":1768881725493,"city":{"en":"Djelfa","zh":"杰尔法","country":"Algeria","countryZh":"阿尔及利亚"},"slug":"djelfa","photoUrl":"/images/cities/djelfa.jpg","model":"zai-org/GLM-4.5","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"zai-org/GLM-4.5","modelZh":"zai-org/GLM-4.5-Air","summaryEn":"Djelfa, Algeria's high-plains surprise, blends ancient history, vibrant culture, and surprisingly gusty winds into an unforgettable adventure. Get ready for sheep festivals, delicious carb-loading, and a reality check that's way more fun than your guidebook promised.","summaryZh":"杰尔法是阿尔及利亚中部的一颗被忽视的宝石，融合了柏柏尔、阿拉伯和法国文化的独特魅力。这座位于撒哈拉边缘的城市既有令人惊叹的自然风光，又有丰富的历史遗迹和热情好客的当地人。","contentEn":"$1c","contentZh":"$1d"}}]
+1e:T1477,
+## Welcome to Nasinu, the "Underdog" of Fiji!  
+G’day, intrepid traveler! So, you’ve heard of Fiji’s beaches (cue the *Bula* dance) but skipped the postcard-perfect resorts for Nasinu? Brilliant! You’ve stumbled upon Fiji’s answer to "the city that never sleeps"—except here, the loudest noise might be a rooster crowing at 5 AM. Nasinu is like that cool, slightly eccentric cousin at the family reunion: full of surprises, wears its heart on its sleeve, and has way more stories than it lets on. Prepare to trade your flip-flops for sneakers and your mai tais for kava—this is Fiji with a side of urban spice!  
+
+## 3 Fun Facts That’ll Make You Sound Like a Local  
+1. **Nasinu’s "Secret" Beach**: While most tourists head to Denarau, locals know about **Nasinu Beach**—a hidden gem with sunset views so stunning, they’ve been known to inspire impromptu Fijian folk songs. (Pro tip: Bring a picnic. And maybe earplugs for the nearby rooster symphony.)  
+2. **The "World’s Largest" Something**: Nasinu proudly boasts the **Nasinu Market**, where you can buy everything from fresh coconuts to "authentic" Fiji souvenirs (including that one fridge magnet shaped like a pineapple that *might* have been made in China). It’s also a contender for the "World’s Most Colorful Produce Display"—seriously, the taro root here looks like it’s dressed for a carnival.  
+3. **Home to a "Celebrity"**: Nasinu is the birthplace of **Fijian rugby star Semi Radradra**. So, if you see someone casually juggling a rugby ball in the park, treat them like royalty. Or at least buy them a bun.  
+
+## Local Food You Must Try (Your Taste Buds Will Thank You)  
+- **Kokoda**: Forget sushi—this is Fiji’s answer to ceviche! Fresh fish "cooked" in lime juice, mixed with tomatoes, onions, and a dash of Fijian fire (aka chili). Eat it with your hands for maximum authenticity. (Warning: May cause spontaneous dancing.)  
+- **Rourou**: Creamy, dreamy taro leaves slow-cooked in coconut milk. It’s like a hug in a bowl, but better. Pair it with fresh fish or just eat it straight from the pot (we won’t judge).  
+- **Lovo Feast**: If you’re lucky enough to be invited to a *lovo* (underground earth oven) party, brace yourself. Meats and veggies cooked over hot stones? Yes, please. It’s basically Fijian BBQ meets a volcanic eruption—minus the lava.  
+
+## One-Day Itinerary: Nasinu in 24 Hours (Because You’re Busy Being Awesome)  
+- **Morning (8:00 AM)**: Start at **Nasinu Market** for breakfast (grab a *roti* and a coconut) and people-watching. Try bargaining—it’s a national sport here.  
+- **Mid-Morning (10:00 AM)**: Head to **Nasinu Park** for a stroll. Bonus points if you spot the legendary "Bula Wall" (a graffiti-covered mural that’s more Instagram-worthy than it sounds).  
+- **Lunch (12:30 PM)**: Devour kokoda at **Mai Na Tiko** (a local fave—look for the sign with a giant fish).  
+- **Afternoon (2:00 PM)**: Explore **Nasinu Beach**. Swim, sunbathe, or challenge a local to a coconut-opening contest. (Spoiler: They always win.)  
+- **Evening (5:00 PM)**: Catch a sunset at **Nasinu Lookout**. Bring snacks. And maybe a jacket—Fiji evenings can be surprisingly breezy.  
+- **Dinner (7:30 PM)**: Feast on *lovo* at **Vale Ni Viti**. If you’re lucky, there might be traditional Fijian fire dancers. Or just very enthusiastic locals.  
+
+## Expectation vs. Reality: Nasinu Edition  
+- **Expectation**: A bustling, chaotic city with honking cars and zero personal space.  
+- **Reality**: Traffic jams caused by a single chicken crossing the road. People greet you with "Bula!" like you’re long-lost royalty. Chaos? More like organized, island-style chill.  
+- **Expectation**: Food that’s "meh"—just resort leftovers.  
+- **Reality**: Meals so delicious, you’ll consider moving here just for the *rourou*. And the taro. And the kokoda.  
+- **Expectation**: Tourist traps at every corner.  
+- **Reality**: Hidden gems like the **Nasinu Community Hall** (where you can catch a free cultural show if you ask nicely). Surprise!  
+
+## The Local’s Cheat Sheet: Your Guide to Not Looking Like a Tourist  
+- **Transport**: Taxis are cheap, but the real adventure is the **"bus"**—aka a white van blasting Fijian pop music. Hail it with a wave, and pay $1–$2. Warning: Drivers are part-time DJs.  
+- **Etiquette**: Remove shoes before entering homes. Never touch a Fijian’s head (it’s sacred). And always say "Bula!" with a smile—bonus points for a slight head nod.  
+- **Hidden Gem**: **Nasinu’s Backstreets**. Wander past the main market, and you’ll find locals weaving *masi* (traditional bark cloth) and kids playing rugby barefoot. It’s the real Fiji.  
+
+## Conclusion: Go On, Be Bold—Nasinu Awaits!  
+So, there you have it—Nasinu, the town that proves Fiji isn’t just about beaches (though those are pretty great too). It’s where laughter, culture, and adventure collide in the most unexpected ways. Whether you’re here for 24 hours or 24 days, Nasinu will wrap you in its *bula* spirit and whisper, "Come back soon." Now go forth, eat that kokoda, high-five a rooster, and let Nasinu steal your heart. You’ve been warned—this place is addictive! 🌴😄
+1f:T1642,
+## 🌴 欢迎来到纳西努——这里连椰子都比你更懂生活！
+
+嘿，旅行者！欢迎来到纳西努——一个连地图都懒得给你标清楚，但当地人会用微笑和一串香蕉把你领进家门的地方。别指望这里有什么“游客专用入口”，你只需要跟着香味走，十有八九能撞见一场街边烤鱼派对，顺便被一位奶奶塞个芒果：“吃吧，你太瘦了，像被台风吹过的晾衣绳。”
+
+## 🤯 三个让你在朋友圈装X的冷知识（附带尴尬现场）
+
+1. **纳西努曾是斐济的“临时首都”**——没错，苏瓦是官方首都，但纳西努在1987年政变后短暂当过“代班市长”。当地人至今骄傲地说：“我们不是首都，但我们有更会跳舞的鸡。”（真有，不信你去周六早市看。）
+
+2. **这里的“交通灯”是人形的**——没有红绿灯？别慌！纳西努的十字路口靠一位戴草帽的老爷爷指挥，他手里举着一块写有“慢点，孩子，别撞到我的山羊”的木牌。他每天换三次表情：开心、无奈、和“我快被车碾了但还是微笑”。
+
+3. **纳西努的WiFi密码是“KavaIsLife”**——不是比喻，是真事。当地咖啡馆的WiFi密码统一是“KavaIsLife”，因为没人记得改。你问老板：“密码是什么？”他会神秘一笑：“喝杯卡瓦，你就懂了。”然后递给你一杯泥巴味的草根饮料——你喝完，WiFi自动连上，灵魂也连上了斐济。
+
+## 🍽️ 必尝美食：你的胃会感谢你，但你的鼻子可能想辞职
+
+- **Lovo（地炉烤肉）**：用热石头埋着香蕉叶包的猪肉、红薯和木薯，蒸得软烂如初恋。吃的时候记得戴手套——不是因为烫，是因为你可能会哭着舔盘子，邻居会以为你在表演“人类舔屏”。
+- **Rourou（芋头叶咖喱）**：看起来像绿色污泥，吃起来像妈妈的拥抱。配米饭，一口入魂。建议搭配：1杯椰奶+1个不讲道理的微笑。
+- **Bolo（斐济甜面包）**：像面包和蛋糕的私生子，撒满椰丝，甜到能让你原谅前任。建议早餐吃，下午吃会引发“甜蜜犯罪”并被当地奶奶追着问：“你是不是没吃午饭？”
+
+## ⏰ 24小时极限挑战：纳西努一日游攻略（别带行李，带胃和幽默感）
+
+**7:00 AM**：冲向**Nasinu Market**，用5斐济元买一串香蕉、一个椰子和一个会对你眨眼睛的芒果。顺便学一句斐济语：“Bula vinaka!”（你好，朋友！）——说完，至少三个老人会给你拥抱。
+
+**10:00 AM**：步行去**Nasinu Church**，不是为了祈祷，是为了听唱诗班——他们唱《Yesterday》时突然跳起萨摩亚舞，牧师在台上边唱边扭臀，你敢拍，他敢回你一个飞吻。
+
+**1:00 PM**：在**Tanoa Tusitala**吃午餐，点“Lovo Combo”，然后假装自己是《荒野求生》的嘉宾，用树叶当餐巾纸。
+
+**4:00 PM**：溜达到**Nasinu Beach**，别指望白沙——这里是“泥沙混搭艺术区”。但夕阳一照，整片海像打翻了橘子汽水。拍照发朋友圈，标题写：“我在斐济的‘脏’海滩，找到了灵魂的滤镜。”
+
+**7:00 PM**：参加**Kava Ceremony**（卡瓦仪式），别怕那味道像烂树根泡水。喝完你会感觉：1）脚底发麻；2）世界变慢了；3）突然想给老板写一封辞职信，用斐济语。
+
+**10:00 PM**：躺在沙滩上数星星，听远处传来的吉他声和笑声。你终于明白：这里没有“景点”，只有“生活现场直播”。
+
+## 😅 理想 vs. 现实：纳西努版
+
+| 理想 | 现实 |
+|------|------|
+| 我要悠闲地在海滩喝椰子，看日落 | 我在卖椰子的阿婆手里抢椰子，她用斧头劈开，汁水溅我脸上，还冲我笑：“你像只被淋湿的考拉！” |
+| 我要拍一张文艺的街角背影照 | 我刚摆好姿势，一只公鸡跳上我肩膀，对着镜头打鸣，路人鼓掌说：“这照片能上斐济春晚！” |
+| 我要体验“原生态文化” | 我被邀请参加婚礼，结果发现是“谁家的猪跑丢了”聚会，我被塞进人群，被迫跳了三小时“猪舞” |
+
+## 🧠 本地人秘籍：别当游客，当“临时斐济人”
+
+- **交通**：别打车！搭“Public Van”（公共小巴）——车门永远开着，司机喊：“Nasinu! Kava stop!” 你就跳上去。票价2斐济元，但你得唱歌或讲笑话才能下车。
+- **礼仪**：进家门脱鞋是基本，但如果你脱了袜子，主人会感动得送你一只活鸡当纪念品。（别问，问就是“文化馈赠”）
+- **隐藏景点**：**Nasinu Waterfall Trail**——地图上没有，但问任何小孩：“Where’s the waterfall that sings?” 他们会带你走一条被香蕉树遮住的小路，终点是瀑布+一群在水里打滚的本地小孩，他们会邀请你一起洗“天然SPA”——免费，但需用微笑支付。
+
+## 🌟 最后一句：别犹豫了，来纳西努吧！
+
+你可能会问：“为什么不去马尔代夫？”  
+因为马尔代夫不会在你吃芒果时，突然有人从树上跳下来，说：“嘿，那颗是给你的，我昨天梦见你了。”  
+
+纳西努不是旅游胜地——它是**生活本身在跳草裙舞**。  
+这里没有完美的滤镜，但有完美的笑容。  
+没有五星级服务，但有五星级的真心。  
+
+来吧，带上你的胃、你的笑声，和一颗愿意被椰子砸中的心。  
+你走的时候，可能会哭着说：“我怎么没早来？”  
+——而纳西努，只会眨眨眼，递给你一串香蕉：“下次再来，我教你怎么用树叶当钱包。” 🍌🌴
+b:["$","$L3","nasinu",{"post":{"date":"$D2026-01-20T00:00:00.000Z","createdAt":1768867325998,"city":{"en":"Nasinu","zh":"纳西努","country":"Fiji","countryZh":"斐济"},"slug":"nasinu","photoUrl":"/images/cities/nasinu.jpg","model":"zai-org/GLM-4.5-Air","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"zai-org/GLM-4.5-Air","modelZh":"Qwen/Qwen3-Next-80B-A3B-Instruct","summaryEn":"Discover Nasinu, Fiji's unsung hero where urban charm meets island magic! This vibrant town offers a hilarious slice of local life, hidden gems, and a feast for your senses that’ll leave you planning your return before you even leave.","summaryZh":"纳西努是斐济首都苏瓦的“隔壁老王”——热闹、接地气、充满热带疯癫魅力。这里没有五星级的装腔作势，只有椰子砸头的真诚和咖喱味的拥抱。","contentEn":"$1e","contentZh":"$1f"}}]
+20:T14a1,
+## 1. The "Land of Eternal Spring" Is Waiting... And So Are the Buses!
+
+So, you’ve landed in Trujillo, Peru’s northern coastal capital, where the sun shines with optimistic zeal and the sea breeze carries whispers of ancient Moche kings and colonial caballeros. Welcome! They call it the “City of Eternal Spring,” which is a fancy way of saying, “Pack a light jacket, you optimistic soul, because that coastal fog (the *garúa*) is a sneaky little thing.” But fear not! This city, built on adobe and ambition, is a riot of color, flavor, and history just waiting to be accidentally stumbled upon (probably while looking for a good ceviche spot).
+
+## 2. Fun Facts That Will Make You the Star of Your Tour Group
+
+*   **Chanel the Ancient Pyramid.** The ancient Moche people built the **Huaca del Sol and Huaca de la Luna**—massive adobe temples. The Huaca del Sol was partially destroyed by conquistadors… looking for gold, but also inadvertently diverting a river to wash it away. Why? Rumor has it they were hunting treasure, but it’s basically history’s most destructive plumbing mistake.
+*   **The World Champion Dance-Off.** Trujillo is the official capital of Peru’s *Marinera* dance. This elegant, handkerchief-waving courtship dance is such a big deal they have a massive national festival every January. The passion is real; watch your toes in the plaza.
+*   **A Capital That Wasn't (For a Hot Minute).** For a brief, glorious period after independence, Trujillo was the capital of Peru. That’s right, move over, Lima! It didn’t last long, but the city’s grand plazas and architecture still carry that “we-could-have-been-contenders” swagger.
+
+## 3. Food: A Love Letter to Your Stomach (Mostly Ceviche)
+
+Forget the fancy menus; the holy trinity here is:
+**Ceviche Trujillano:** This isn't just ceviche; it's an event. Fresh fish “cooked” in tangy lime juice, with a side of *cancha* (toasted corn) and sweet potato. The locals often eat it for breakfast because they are braver than you and I.
+**Shambar:** This is Monday’s sacred soup. A hearty, steamy concoction of wheat, beans, pork, and mysterious delicious bits. If you’re here on a Monday, joining in is practically a legal requirement.
+**Frijoles a la Trujillana:** A comforting, saucy plate of beans typically served with… wait for it… goat. It’s the ultimate Peruvian comfort food and will fuel you for a day of pyramid-climbing.
+
+## 4. The “I Only Have 24 Hours” Speed-Run Itinerary
+
+*   **Morning (8 AM - 12 PM):** Head straight to the **Huaca de la Luna**. Skip the larger, eroded Huaca del Sol and marvel at the incredibly preserved, colorful friezes of the Moche deity, Ai Apaec. It’s mind-blowing and quieter in the AM.
+*   **Lunch (1 PM):** Taxi to **Huanchaco**, the laid-back surf town next door. Grab a table overlooking the rustic “*caballitos de totora*” (reed fishing boats) and devour that life-changing **ceviche**.
+*   **Afternoon (3 PM - 6 PM):** Return to the city center. Wander **Plaza de Armas**, gawk at the bright yellow Cathedral and the colorful colonial mansions like **Casa Urquiaga**. Then, dive into the **Museo del Juguete** (Toy Museum) for a delightfully weird and nostalgic collection.
+*   **Evening (7 PM onwards):** Find a *peña* (a traditional music club) for live *Marinera* and *Criolla* music. Order a Pisco Sour, try not to dance on the tables, and soak it all in.
+
+## 5. Expectation vs. Reality: A Humorous Intervention
+
+*   **Expectation:** A serene, ancient city with only the sound of wind over pyramids.
+*   **Reality:** A vibrant, bustling city where **tuk-tuks** (mototaxis) buzz like energetic bees, reggaeton blasts from somewhere, and the call of “¡Ceviche fresco!” is your constant soundtrack. The past and present are in a joyful, chaotic dance-off.
+*   **Expectation:** Strolling gracefully between flawless colonial buildings.
+*   **Reality:** Dodging sudden **coastal fog** (*garúa*) that rolls in like a shy, damp blanket, making your perfectly planned sunny photos look like a mystery thriller set.
+
+## 6. The Local’s Cheat Sheet: Don't Say I Didn't Warn You
+
+*   **Transport:** Use the **colectivos** (shared vans) for cheap, authentic travel. Just know the route number/destination and hail it like you mean it. For short hops, **mototaxis** are hilarious, bouncy, and cheap—agree on the price first!
+*   **Etiquette:** A simple “**buen provecho**” (enjoy your meal) to fellow diners is a classy move. Haggling is expected in markets, but be polite—it’s a dance, not a duel.
+*   **Hidden Gem:** Skip the chain cafes. For coffee or a snack, find a **“juguería”** (juice bar). The *lúcuma* smoothie will change your life, and the vibe is 100% local.
+
+## 7. Go Forth and Conquer (The Ceviche, Mostly)
+
+Trujillo isn't a place that waits quietly for you to discover it—it elbows its way into your heart with its chaotic charm, profound history, and ceviche-soaked soul. It’s a city where you’ll walk in the footsteps of pre-Columbian priests one hour and be bargaining for a fuzzy alpaca keychain the next. So embrace the *garúa*, master the mototaxi, and let Trujillo’s eternal spring work its messy, wonderful magic on you. Now, go on. Your ceviche breakfast awaits.
+21:T15c5,
+## 🌞 嘿，欢迎来到特鲁希略——这里连仙人掌都比你懂历史！
+
+亲爱的旅行者，如果你以为秘鲁只有马丘比丘和羊驼自拍，那你可真是把南美当成了“单一景点APP”。欢迎来到**特鲁希略**——一座被太阳晒得金黄、被历史腌入味、被美食诱惑到灵魂出窍的北秘鲁小宇宙。在这里，你不是游客，你是考古现场的临时演员，剧本是“别碰文物，但可以吃掉它”。
+
+## 🤯 3个让你在朋友圈装成人类学家的冷知识
+
+- **特鲁希略是“世界之都”？** 没错，它自称是“世界之都”（Capital de la Libertad），但更准确的说法是：**全球唯一一个用“莫切文化”当城市BGM的地方**。你走在街上，背景音乐不是流行歌，是公元前100年陶罐上画的祭祀舞蹈。
+- **这里没有“摩天大楼”，但有“摩天金字塔”**。昌昌古城（Chan Chan）是世界上最大的泥砖城市，比罗马古城还大！但你别想爬上去——它不是游乐场，是联合国教科文组织认证的“别乱摸，否则泥巴会哭”遗址。
+- **特鲁希略的狗比你更懂历史**。当地流浪狗的毛色，据说是根据莫切陶器上的神灵图案自然演化而来。我亲眼见过一只三色狗，左耳是太阳神，右耳是蜘蛛神，尾巴是玉米穗——它在街角打盹，像在开哲学研讨会。
+
+## 🍽️ 必尝的5种“吃了会忘记自己姓什么”的美食
+
+1. **Ceviche de Conchas Negras（黑蛤蜊酸橘汁腌鱼）**：不是普通的酸橘汁腌鱼！特鲁希略版用的是深海黑蛤蜊，配着炸玉米片，一口下去，仿佛海神在你舌头上跳了支库斯科探戈。
+2. **Rocoto Relleno（填充辣椒）**：你以为是辣椒？错！这是能让你眼泪和鼻涕同时表演双人舞的“辣味炸弹”，但配上奶酪和土豆泥，你会跪着求老板再来一份。
+3. **Mote con Huesillo（杏干配麦粒）**：听着像养生茶，其实是秘鲁版“冰镇甜品沙拉”。夏天喝一口，灵魂直接升天，冬天喝一口，灵魂直接升炉火。
+4. **Tamales Trujillanos（特鲁希略风味玉米粽）**：用香蕉叶包着，里面塞满鸡肉、橄榄、葡萄干——是的，葡萄干！这是莫切人留下的“甜咸混搭哲学”。
+5. **Chicha Morada冰饮**：紫玉米做的天然饮料，甜而不腻，比你的前任还温柔。建议随身携带，用于“拯救被辣哭的自己”。
+
+## ⏰ 24小时特鲁希略极限生存攻略（别睡！）
+
+- **07:00**：在**Plaza de Armas**喝一杯Chicha Morada，看本地老人跳“Danza de las Tijeras”（剪刀舞），假装自己是人类学教授。
+- **09:00**：冲向**Chan Chan**，拍完照立刻买个泥砖纪念品（别问价格，问就是“我替莫切人保管的”）。
+- **12:30**：直奔**Mercado Central**，吃Rocoto Relleno + 三杯冰镇Chicha，用眼泪洗掉辣味。
+- **15:00**：参观**Casa de la Emancipación**，这里曾是秘鲁独立宣言起草地——顺便在咖啡馆点杯咖啡，假装自己是19世纪的革命者。
+- **18:00**：去**Huaca de la Luna**看壁画，莫切人用泥巴画出了比你前任朋友圈还复杂的爱情故事。
+- **20:00**：在**El Rincón de la Ceviche**吃晚餐，点一份“特鲁希略冠军版Ceviche”，然后发朋友圈：“我在秘鲁吃海鲜，你呢？在刷手机？”
+
+## 😅 理想 vs. 现实：特鲁希略版
+
+| 理想 | 现实 |
+|------|------|
+| 我在昌昌古城静静沉思古代文明 | 我在昌昌古城追着一只偷吃我三明治的羊驼，它还冲我翻白眼 |
+| 我穿着亚麻长袍，手持笔记本记录历史 | 我穿着人字拖，举着手机直播“这辣椒是不是要杀我？” |
+| 我和当地老人用西班牙语聊哲学 | 我用谷歌翻译说“¿Dónde está el baño?”，对方回我“¡Sigue al perro!”（跟着狗走） |
+| 我在夕阳下喝着Chicha，听风吟唱 | 我在夕阳下喝着Chicha，被三个卖玉米的小孩围住，喊“¡Tío, un poco de dinero!” |
+
+## 🧠 本地人秘籍：别信导游，信街角大妈
+
+- **交通**：别叫Uber！特鲁希略的“colectivo”（拼车）才是王道。跟司机说“Al centro, por favor”，他可能会带你绕三圈，但会顺路给你塞一颗糖。记住：**“Sí, sí, ya voy” = 我马上走，但至少等我抽完这根烟**。
+- **礼仪**：别对当地人说“你们这里很穷”。他们会笑着回你：“我们穷？我们有昌昌、有烤兔、还有能让你流泪的辣椒——你有吗？”
+- **隐藏景点**：**Callejón de las Brujas（女巫巷）**——一条满是手工艺品的小巷，卖的不是护身符，是“诅咒你的前任的魔法粉”（真的能买到，包装上写着“效果7天，无效退款”）。别问，问就是“我用它让前任删了朋友圈”。
+
+## 🌟 最后一句：来吧，别犹豫！
+
+特鲁希略不完美，它有点热、有点辣、有点吵，但它是**活着的历史，会跳舞的美食，和一只会偷你三明治的羊驼的家**。你不需要成为考古学家，你只需要有胃、有好奇心，和一条不怕辣的舌头。
+
+来特鲁希略吧——不是为了打卡，是为了在吃一口Rocoto Relleno后，突然明白：**人生最值得的冒险，往往不是爬上山巅，而是被辣椒逼到流泪时，还能笑着喊：“再来一份！”**
+
+¡Vamos a Trujillo! （我们去特鲁希略！）  
+（P.S. 带上纸巾，和一颗不怕被历史和美食同时征服的心。）
+c:["$","$L3","trujillo",{"post":{"date":"$D2026-01-19T00:00:00.000Z","createdAt":1768852870114,"city":{"en":"Trujillo","zh":"特鲁希略","country":"Peru","countryZh":"秘鲁"},"slug":"trujillo","photoUrl":"/images/cities/trujillo.jpg","model":"deepseek-ai/DeepSeek-V3.2","imageModel":"stabilityai/stable-diffusion-3.5-large","modelEn":"deepseek-ai/DeepSeek-V3.2","modelZh":"Qwen/Qwen3-Next-80B-A3B-Instruct","summaryEn":"This blog post is a witty guide to exploring Trujillo, Peru, blending historical insights with modern-day hilarity. It covers essential tips, surprising fun facts, a one-day itinerary, and a humorous look at the realities of visiting this coastal gem.","summaryZh":"特鲁希略是秘鲁北部一座被阳光和莫切文明宠坏的宝藏城市，这里既有古墓也有烤兔肉，游客以为自己在考古，其实只是在追着香味走。别信导游说“这里安静”，他们没告诉你广场上每天都有人跳着传统舞追着你卖烤玉米。","contentEn":"$20","contentZh":"$21"}}]
+22:T1dca,
+## So You've Found Minas, Uruguay: Welcome to the Land of Hills, Poets, and... Seriously Good Water?
+
+Alright, intrepid traveler, you've swerved off the well-trodden path to Punta del Este or Montevideo and landed in **Minas**. Pronounced "Mee-nas," not like the explosive kind, though the sheer amount of *tranquilidad* here might just blow your stressed-out mind. Think rolling green hills (yes, actual hills! In Uruguay!), a pace slower than a sleepy sloth, and the distinct feeling you've stumbled into a place where everyone knows everyone... and probably their grandmother's secret chivito recipe. Buckle up, buttercup, we're diving into the heart of Lavalleja!
+
+## Fun Facts That Sound Made Up (But Aren't, We Swear)
+
+1.  **Poetry Springs Eternal (Literally):** Minas is the proud birthplace of Uruguay's national poet, **Juan Zorrilla de San Martín**. His house is a museum now, naturally. But the real kicker? The town is built around natural springs, and legend has it sipping the water from the **Fuente del Puma** grants you poetic inspiration. Or maybe just a really refreshing drink. Either way, bottoms up!
+2.  **The Virgin Mary is... Tall. Very Tall:** Perched atop Cerro del Verdún, overlooking the town like a benevolent, concrete guardian angel, stands the **Virgen Inmaculada Concepción**. She's a whopping **46 meters (over 150 feet!) tall**. That's taller than a 15-story building. Seeing her suddenly appear as you drive into town is equal parts awe-inspiring and slightly surreal. Like, "Did that statue just wink? No? Okay, good."
+3.  **Water So Good, They Bottled the Whole Town's Supply:** Remember those springs? The water here is famously pure and delicious. So famous, in fact, that the **Salus** mineral water company set up shop right at the source. You'll see their plant, and yes, you can buy Salus water *everywhere* in Uruguay, but drinking it straight from a Minas tap feels like getting the VIP backstage pass to hydration.
+
+## Local Food: Forget Fancy, Embrace Flavorful (and Possibly Heart-Stopping)
+
+Minas isn't about Michelin stars; it's about **comfort food that hugs your soul (and arteries)**. Your non-negotiables:
+
+*   **The Mighty Chivito:** Uruguay's national sandwich is a beast. Minas does it proud: a **tender steak filet** piled high with **mozzarella, ham, bacon, fried egg, lettuce, tomato, mayo, and often olives and peppers**, all crammed into a soft bun. It's a glorious, messy, nap-inducing masterpiece. Find one at a local *parrillada* or *rotisería*. Don't wear white.
+*   **Pastelitos de Dulce:** Need a sweet hit? These are Minas' answer. Think **flaky, deep-fried pastries** filled with **quince paste (membrillo) or sweet potato (batata) jam**. They're cheap, cheerful, and perfect with a coffee. Look for them in bakeries (*panaderías*) or street stalls.
+*   **The Sacred Mate Ritual:** Not strictly Minas-specific, but absolutely essential to the vibe. You *will* see locals clutching their **mate gourds and thermoses** everywhere – parks, plazas, sidewalks. It's a bitter herbal tea sipped communally. If offered, accept! It's a sign of friendship (just don't move the metal straw – *la bombilla* – that's a faux pas).
+
+## One Day in Minas: The "I Conquered the Hills (Mostly)" Itinerary
+
+*   **Morning (9 AM - 12 PM):** Start at the **Plaza Libertad**, the charming main square. Admire the **Iglesia Matriz** (main church), grab a *café con leche* and a *pastelito* at a nearby cafe, and soak in the slow morning buzz. Then, head to the **Museo Zorrilla de San Martín** (the poet's house) for a dose of culture and surprisingly cool architecture.
+*   **Lunch (1 PM):** **CHIVITO TIME.** Find a local spot (ask your museum guide or cafe barista for recommendations – "¿Dónde se come un buen chivito?"). Embrace the mess.
+*   **Afternoon (2:30 PM - 5 PM):** Drive or taxi up **Cerro del Verdún**. Visit the **Grotto of Lourdes** replica first (a peaceful spot), then prepare for the main event: climbing the steps *inside* the giant **Virgen Inmaculada Concepción** statue to her shoulders. The views over Minas and the surrounding hills are spectacular. Worth the slightly claustrophobic climb? Absolutely.
+*   **Late Afternoon (5 PM onwards):** Wind down with a stroll to the **Fuente del Puma**. Try the legendary spring water (bring an empty bottle!). If energy remains, wander the quiet streets near the **Teatro Lavalleja**.
+*   **Evening (8 PM):** Dinner at a simple *parrillada* for grilled meats, or find a *rotisería* for more local homestyle cooking. Then, find a bench in Plaza Libertad, watch the world go by slowly, and maybe, just maybe, feel a haiku coming on (thanks, Puma water?).
+
+## Expectation vs. Reality: The Minas Edition
+
+*   **Expectation:** "Uruguayan hill town! Like a mini-Andes! Hiking adventures! Mountain goats!"
+*   **Reality:** Gentle, rolling hills perfect for a leisurely stroll or a short drive. The most adventurous "hike" is the staircase *inside* the giant Virgin statue. Mountain goats are replaced by very content-looking cows. It's more "bucolic charm" than "extreme sports."
+*   **Expectation:** "Birthplace of a national poet? Must be overflowing with bohemian cafes, intense literary debates, and berets!"
+*   **Reality:** Quiet streets, a lovely museum house, and a general sense of civic pride. The most intense debate you'll overhear is probably about the best cut of meat for the *asado* or the upcoming football match. Berets are optional (but cool if you see one).
+*   **Expectation:** "Giant statue? Must be super touristy up there!"
+*   **Reality:** You might share the Virgin's shoulders with a handful of locals enjoying the view and a mate. It feels personal, not packaged. The souvenir shop is refreshingly low-key.
+
+## The Local's Cheat Sheet: Don't Be *That* Tourist
+
+*   **Getting Around:** **Your own wheels are king.** Buses exist but aren't super frequent for exploring sights. Taxis are affordable for short hops (agree on the fare roughly beforehand). Walking is great *within* the town center, but those hills are real – comfy shoes are non-negotiable.
+*   **Etiquette:** **Slow down.** Rushing is futile and mildly offensive. Greet shopkeepers with a "Buen día" or "Buenas tardes." **Mate is sacred:** If sharing, sip, say "gracias," pass it back. Don't hog, don't stir the bombilla. **Dinner is late:** 8:30 PM or later is standard. Don't expect bustling restaurants at 6 PM.
+*   **Hidden Gems:**
+    *   **Parque Rodó:** A lovely park on the edge of town, perfect for a picnic or escaping the (very mild) bustle. Has a small lake and playgrounds.
+    *   **Mercado Municipal:** Not huge, but a slice of local life for fresh produce and maybe some regional cheeses or preserves.
+    *   **Just Wander:** Seriously. Minas' charm is in its quiet streets, colorful houses, and unexpected little plazas. Get gloriously lost (it's small, you won't stay lost for long).
+
+## Conclusion: Go Forth and Find Your Inner Uruguayan Sloth
+
+Minas won't dazzle you with neon or adrenaline rushes. What it offers is something rarer: genuine tranquility, quirky charm, stunning natural beauty (on a human scale), and a chance to experience small-town Uruguayan life where the water inspires poets and the giant Virgin keeps watch. It’s the antidote to over-tourism. So, pack your comfiest shoes, your sense of humor, and an empty bottle for the Puma spring. Go sip some mate, conquer that Virgin staircase, eat that heart-stopping chivito, and just... breathe. You might leave feeling unexpectedly poetic. Or just really, really relaxed. Either way, you win. **¡Vamos a Minas!**
+23:T1472,
+## 🌞 欢迎来到乌拉圭明纳斯——这里连鸽子都比你懂生活！
+
+嘿，亲爱的旅行者！欢迎来到乌拉圭明纳斯——一个名字听起来像“矿工开派对”的地方，但实际上，这里的“矿”是咖啡豆，不是煤炭。别担心，你不会被挖进地心，但你可能会被这里的宁静挖走灵魂。
+
+## 🤔 3个你绝对猜不到的冷知识（附赠表情包）
+
+1. **乌拉圭明纳斯没有“矿业”**：没错，你没看错！虽然名字里有“Minas”（西班牙语“矿山”），但这里历史上从未开采过任何金属。它之所以叫这个名字，是因为18世纪一位西班牙探险家看到山丘上的白色岩石，误以为是银矿——结果发现是鸽子拉的💩晒干了。（别问，问就是科学。）
+
+2. **这里每10个人就有1个是诗人**：乌拉圭明纳斯是南美“沉默诗人”密度最高的城市。当地人见面不问“吃了吗”，而是问“你今天写诗了吗？” 你如果在咖啡馆点杯咖啡，服务员可能会递给你一张纸条，上面写着：“你的孤独，比我的拿铁还浓。”
+
+3. **全镇只有一个红绿灯，但它从不工作**：是的，你没看错。这个红绿灯是1972年装的，为的是“让游客觉得我们很现代”。结果没人理它。现在它成了网红打卡点——大家在它面前摆拍，假装自己在等绿灯，然后突然冲过去，大喊：“我赢了交通规则！”
+
+## ☕ 必尝的当地美食（别带减肥计划来）
+
+- **Chivito al pan**：乌拉圭版“肉食者狂欢节”。一块牛排、火腿、奶酪、煎蛋、生菜、番茄、薯条，全塞进一个面包里。吃一口，你的胃会向你求婚。
+- **Mate con dulce de leche**：不是饮料，是灵魂。传统马黛茶配焦糖酱，喝完你会突然想写诗、养羊、或移民到这里。
+- **Alfajores de Minas**：本地特供的夹心饼干，外层是酥脆的饼干，中间是浓郁的焦糖，撒点肉桂，吃一口，你妈会以为你在外头谈了恋爱。
+
+## ⏰ 24小时一日游攻略（别睡，别刷手机）
+
+**08:00 | 咖啡时间**：去 **Café La Esquina**，点一杯“诗人特调”（加双份糖，加一句诗），坐在窗边观察路人——他们走路都像在跳探戈，但没人知道为什么。
+
+**10:00 | 艺术家的“垃圾”**：参观 **Museo de la Basura**（垃圾博物馆）。没错，这里收藏的是当地居民用旧轮胎、铁罐和旧拖鞋做的艺术装置。最火作品叫《我爱我妈，但我不洗碗》。
+
+**13:00 | 午餐暴击**：去 **Chivito Express**，点一份Chivito，吃完后躺平15分钟——这是法律规定的“消化时间”。
+
+**15:00 | 隐藏景点**：找到 **Plaza de los Palomos**（鸽子广场），买一包面包屑，喂鸽子。它们会围住你，不是因为你可爱，而是因为你手里的面包屑比它们的前任主人更慷慨。
+
+**18:00 | 日落与哲学**：爬上 **Cerro de la Cruz**（十字山），看夕阳把整座小镇染成焦糖色。记得带件外套——风会吹走你的头发，也会吹走你对都市生活的执念。
+
+**21:00 | 夜宵与诗**：去 **Bar El Silencio**（沉默酒吧），点一杯威士忌，听一位70岁的老先生用吉他弹唱他写的关于“一只逃家的拖鞋”的诗。你可能会哭，也可能笑出声——但你绝不会想离开。
+
+## 😅 理想 vs. 现实：一场乌拉圭式喜剧
+
+| 理想 | 现实 |
+|------|------|
+| 我要在这儿慢生活，每天读书、写诗、喂鸽子 | 我在喂鸽子时被三只鸽子围攻，它们抢我面包屑，还用翅膀拍我脸 |
+| 我要找一个安静的咖啡馆，享受独处 | 我坐了10分钟，被5个陌生人问“你写诗了吗？” |
+| 我会拍出ins风大片，配文“逃离喧嚣” | 我拍的照片全是鸽子的屁股，配文：“它们比我还懂生活” |
+| 我会学会说西班牙语 | 我只会说：“Gracias, por favor, ¿dónde está el baño?” —— 三次都走错厕所 |
+
+## 🗝️ 本地人秘籍：不告诉你，但你必须知道
+
+- **交通**：别开车！全镇连红绿灯都懒得工作，更别说停车了。步行是唯一合法的交通方式。骑自行车？小心，鸽子会把你当成“移动的面包车”。
+- **礼仪**：如果你在街上遇到一位老人冲你微笑，别以为他认出你了——他只是在练习“假装自己还年轻”。回他一个微笑，他会给你一颗糖，或一首诗。
+- **隐藏景点**：**La Biblioteca de los Susurros**（低语图书馆）——一个没有书的图书馆。你进去，必须低声说话，然后把心里的秘密写在纸上，放进“秘密盒子”。没人会读，但你知道，有人听到了。
+
+## 🎒 结尾：别等了，现在就去！
+
+乌拉圭明纳斯不是旅游指南里最闪亮的星，但它是一块会唱歌的石头，一个会写诗的咖啡渣，一只偷走你焦虑的鸽子。你不需要“完美行程”，你只需要一颗愿意被温柔击中的心。
+
+来吧，带上你的咖啡杯、你的不修边幅、你的幽默感——还有，别忘了给鸽子带点面包。
+
+**你的人生，值得被一只鸽子审判。** 🕊️
+d:["$","$L3","minas",{"post":{"date":"$D2026-01-19T00:00:00.000Z","createdAt":1768838466632,"city":{"en":"Minas","zh":"乌拉圭明纳斯","country":"Uruguay","countryZh":"乌拉圭"},"slug":"minas","photoUrl":"/images/cities/minas.jpg","model":"deepseek-ai/DeepSeek-R1","imageModel":"Tongyi-MAI/Z-Image-Turbo","modelEn":"deepseek-ai/DeepSeek-R1","modelZh":"Qwen/Qwen3-Next-80B-A3B-Instruct","summaryEn":"Forget the guidebooks, Minas is Uruguay's charmingly weird hill town where poetry flows like spring water and giant Virgins watch you eat sandwiches. This post unpacks its quirks, must-try bites, a perfect 24-hour plan, and why your expectations are probably hilariously wrong (in the best way).","summaryZh":"乌拉圭明纳斯不是你以为的“矿业重镇”，而是一个被咖啡香和鸽子占领的文艺小镇。这里连石头都会讲冷笑话，适合那些想逃离社交媒体、但又想发九张朋友圈的人。","contentEn":"$22","contentZh":"$23"}}]
+24:T1044,
+## Welcome to Zahedan: Where the Camels Have Wi-Fi  
+Roll into Zahedan like a desert explorer who Googled “off-the-beaten-path” and accidentally booked a one-way ticket. This southeastern Iranian city isn’t just a pitstop for camel caravans—it’s a land of spicy kebabs, sandstorm-sized surprises, and locals who’ll debate the best yogurt-marinated meat like it’s a World Cup final. Let’s dive in!  
+
+## 3 Fun Facts That’ll Make You Google Maps-Whip Your Friends  
+1. **Name Drop**: Zahedan means “Splendour of the Faith” in Persian, but we’re pretty sure it also translates to “Land Where Air Conditioners Rule Supreme.”  
+2. **Camel Caravanserai Alert**: Nearby Zein-o-din Caravanserai—a 15th-century roadside inn for traders—still stands, proving that ancient Iranians knew how to build a *luxury hotel* for camels.  
+3. **Desert Weather, Human Edition**: Zahedan’s temps swing from “I-need-a-snowsuit” winters to “I-am-now-a-human-baked-potato” summers. Pack layers. And sunscreen.  
+
+## Eat This, Not That: Zahedani Food Edition  
+Skip the sad hotel kebabs and hunt down these:  
+- **Kebab-e-Dari**: Yogurt-marinated meat grilled to smoky perfection. Pro tip: Ask for extra “I-need-to-cool-down-from-this-desert” mint sauce.  
+- **Sholeh Zard**: Saffron-infused rice pudding so creamy, it’ll make your grandma’s recipe cry. Sprinkled with cinnamon and shamelessly Instagrammed.  
+- **Haleem Badam**: Almond paste sweet that’s basically Zahedan’s version of dessert crack. Warning: May cause existential questions like, “Why did I ever eat cake?”  
+
+## 24 Hours in Zahedan: No Camel Rental Required  
+**7:00 AM**: Fuel up at a local teahouse with black tea and *nan-e barbari* (flatbread that’s 70% crackles, 30% magic).  
+**9:00 AM**: Snap pics at the **Amir Chakhmaq Complex**, a 15th-century architectural marvel that’s basically Zahedan’s Beyoncé—iconic, shiny, and slightly mysterious.  
+**1:00 PM**: Devour lunch at a hole-in-the-wall kebab joint where the owner will probably adopt you if you compliment their yogurt sauce.  
+**3:00 PM**: Chase the desert vibes at **Dasht-e Lut**, where sand dunes look like they stole Instagram filters from the Sahara.  
+**7:00 PM**: Dine at a family-run spot for *fesenjan* (walnut-stewed chicken—yes, it’s as weird and delicious as it sounds).  
+**9:00 PM**: Wind down at a hidden rooftop café where the tea is strong, the stars are stronger, and your worries dissolve like sugar in hot chai.  
+
+## Expectation vs. Reality: Zahedan Edition  
+**Expectation**: “Zahedan’s just a dusty town with camels and tumbleweeds, right?”  
+**Reality**:  
+- **Camels**: Nope. But there’s a *parking lot full of trucks* that’s almost as scenic.  
+- **Dusty Vibes**: Wrong. The city’s markets are bursting with saffron, pistachios, and fabrics so bright they’ll make your sunglasses jealous.  
+- **Boring Evenings**: Ha! The street food scene will have you licking your plate at 10 PM like a raccoon at a dumpster.  
+
+## The Local’s Cheat Sheet: Because Google Translate Can’t Save You Now  
+- **Transport**: Taxis are cheap, but negotiate the fare first. Bonus: Drivers might serenade you with Persian pop if you smile.  
+- **Etiquette**: Dress modestly (ladies, that scarf is your BFF), and greet folks with “Salam” unless you want to be mistaken for a suspicious sand dune.  
+- **Hidden Gem**: Skip the touristy spots and hunt down **Shahr-e Kohneh** (Old City) for crumbling adobe houses that scream, “Take me to your leader.”  
+- **Pro Tip**: Bargain like a boss in markets. Start at 10% of the asking price; the seller will laugh, then give you a deal.  
+
+## Final Thoughts: Zahedan, You Sassy Desert Diva  
+Zahedan isn’t the kind of place you forget. It’s where history slaps you with a kebab, the desert winks at you over a pot of tea, and every meal feels like a family reunion. So pack your sense of humor (and maybe a camel-shaped inflatable floatie) and go. Who knew a city that looks like a cactus could hide a watermelon inside? 🌵🍉  
+
+*P.S. If you don’t eat at least three kebabs here, are you even alive?*
+25:T969,
+## 俏皮的欢迎语
+欢迎来到扎赫丹！准备好被这座巴基斯坦西部的迷人城市深深吸引吧！准备好你的相机和胃口，这里有等待你发现的精彩。
+
+## 关于这座城市的3个有趣冷知识
+*   **历史重镇：** 扎赫丹是俾路支省的省会城市，有着相当重要的历史意义。
+*   **文化熔炉：** 这里融合了俾路支、普什图和信德等多元文化，是体验巴基斯坦丰富文化多样性的绝佳地点。
+*   **通往伊朗的门户：** 由于其地理位置，扎赫丹是通往伊朗的重要边境城市之一。
+
+## 必尝的当地美食
+*   **Biryani：** 不用多说，这是巴基斯坦的国民美食，扎赫丹的版本绝对值得一试！
+*   **Nihari：** 这是一道浓郁、慢炖的辣味牛/羊肉早餐，是当地人的最爱。
+*   **Lassi：** 来一杯冰爽的酸奶饮品，解腻又爽口。
+
+## 24小时一日游攻略
+*   **上午：** 从热闹的**Zahedan Bazaar**开始，感受当地市场的生活气息。
+*   **中午：** 在传统餐厅享用美味的午餐，尝试一下**Biryani**。
+*   **下午：** 参观**Baloch Cultural Museum**，了解当地的历史和文化。
+*   **傍晚：** 探索当地清真寺，感受宁静的氛围。
+*   **晚上：** 在当地餐厅享用晚餐,并**Nihari**或**Biryani**作为收尾。
+
+## 理想 vs. 现实的幽默对比
+*   **理想：** 像电影明星一样被当地人热情款待。
+    **现实：** 体验最地道的当地生活，享受最朴实的热情好客。
+*   **理想：** 每个转角都是米其林推荐餐厅。
+    **现实：** 一些最棒的美食，藏在最不显眼的当地小店里。
+*   **理想：** 畅通无阻的完美旅行。
+    **现实：** 旅行本身就是冒险的一部分，最美的风景总在路上。
+
+## 本地人秘籍
+*   **交通：** 试试当地的**Rickshaw（人力三轮车）**，体验最地道的城市穿梭。
+*   **礼仪：** 尊重当地的文化习俗，进入宗教场所时着装得体。
+*   **隐藏景点：** 向当地人询问，他们会热情地推荐一些鲜为人知的珍宝地点。
+*   **小贴士：** 尝试和当地的小商贩聊天，他们总是有很多有趣的故事要分享。
+
+## 鼓励读者前往的结尾
+扎赫丹以其独特的魅力和热情好客的人民而闻名。不要犹豫，收拾好行囊，准备好迎接一段难忘的旅程吧！
+e:["$","$L3","zahedan",{"post":{"date":"$D2026-01-19T00:00:00.000Z","createdAt":1768824070590,"city":{"en":"Zahedan","zh":"扎赫丹","country":"Iran","countryZh":"伊朗"},"slug":"zahedan","photoUrl":"/images/cities/zahedan.jpg","model":"Qwen/Qwen3-235B-A22B","imageModel":"Qwen/Qwen-Image-2512","modelEn":"Qwen/Qwen3-235B-A22B","modelZh":"MiniMaxAI/MiniMax-M2","summaryEn":"Zahedan, Iran’s desert gem, blends quirky charm, ancient history, and mouthwatering cuisine. This 24-hour guide proves you don’t need a camel caravan to fall in love with this sun-baked city.","summaryZh":"欢迎来到扎赫丹！这座位于巴基斯坦西部的魅力之城，以其充满活力的市场和独特的文化而闻名。准备开启一段充满惊喜和美食的旅程吧！","contentEn":"$24","contentZh":"$25"}}]
+f:["$","nav",null,{"className":"mt-10 flex flex-wrap items-center gap-2","aria-label":"Pagination","children":[[["$","a","1",{"href":"/","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":1}],["$","a","2",{"href":"/page/2","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":2}],["$","a","3",{"href":"/page/3","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":3}],["$","a","4",{"href":"/page/4","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":4}],["$","a","5",{"href":"/page/5","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":5}],["$","a","6",{"href":"/page/6","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":6}],["$","a","7",{"href":"/page/7","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":7}],["$","a","8",{"href":"/page/8","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":8}],["$","a","9",{"href":"/page/9","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":9}],["$","a","10",{"href":"/page/10","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":10}],["$","a","11",{"href":"/page/11","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":11}],["$","a","12",{"href":"/page/12","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":12}],["$","a","13",{"href":"/page/13","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":13}],["$","a","14",{"href":"/page/14","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":14}],["$","a","15",{"href":"/page/15","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":15}],["$","a","16",{"href":"/page/16","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":16}],["$","a","17",{"href":"/page/17","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":17}],["$","a","18",{"href":"/page/18","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":18}],["$","a","19",{"href":"/page/19","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":19}],["$","a","20",{"href":"/page/20","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":20}],["$","a","21",{"href":"/page/21","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":21}],["$","a","22",{"href":"/page/22","aria-current":"page","className":"px-4 py-2 rounded border text-sm font-medium text-white bg-blue-600 border-blue-600","children":22}],["$","a","23",{"href":"/page/23","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":23}],["$","a","24",{"href":"/page/24","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":24}],["$","a","25",{"href":"/page/25","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":25}],"$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38"],"$L39"]}]
+10:["$","$L3a",null,{}]
+11:["$","script","script-0",{"src":"/_next/static/chunks/64185856f3d01436.js","async":true}]
+12:["$","script","script-1",{"src":"/_next/static/chunks/50da8c85b8b02a97.js","async":true}]
+13:["$","$L3b",null,{"children":["$","$3c",null,{"name":"Next.MetadataOutlet","children":"$@3d"}]}]
+26:["$","a","26",{"href":"/page/26","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":26}]
+27:["$","a","27",{"href":"/page/27","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":27}]
+28:["$","a","28",{"href":"/page/28","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":28}]
+29:["$","a","29",{"href":"/page/29","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":29}]
+2a:["$","a","30",{"href":"/page/30","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":30}]
+2b:["$","a","31",{"href":"/page/31","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":31}]
+2c:["$","a","32",{"href":"/page/32","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":32}]
+2d:["$","a","33",{"href":"/page/33","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":33}]
+2e:["$","a","34",{"href":"/page/34","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":34}]
+2f:["$","a","35",{"href":"/page/35","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":35}]
+30:["$","a","36",{"href":"/page/36","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":36}]
+31:["$","a","37",{"href":"/page/37","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":37}]
+32:["$","a","38",{"href":"/page/38","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":38}]
+33:["$","a","39",{"href":"/page/39","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":39}]
+34:["$","a","40",{"href":"/page/40","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":40}]
+35:["$","a","41",{"href":"/page/41","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":41}]
+36:["$","a","42",{"href":"/page/42","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":42}]
+37:["$","a","43",{"href":"/page/43","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":43}]
+38:["$","a","44",{"href":"/page/44","className":"px-4 py-2 rounded border text-sm font-medium text-blue-600 border-blue-200 hover:bg-blue-50","children":44}]
+39:["$","span",null,{"className":"ml-2 text-sm text-gray-500","children":["Page ",22," of ",44]}]
+3d:null
